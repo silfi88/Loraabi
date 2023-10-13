@@ -919,43 +919,6 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="ANAK-ANAK", Animax
-https://ktpremium.com:443/N197NGF/8199/73883
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="ANAK-ANAK", Aniplus
-https://ktpremium.com:443/N197NGF/8199/73884
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="ANAK-ANAK",  Cartoon Network
-https://ktpremium.com:443/N197NGF/8199/73934
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="ANAK-ANAK", Cbeebies
-https://ktpremium.com:443/N197NGF/8199/73935
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="ANAK-ANAK", ZooMoo Kids
-https://ktpremium.com:443/N197NGF/8199/695556
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="ANAK-ANAK", Miao Mi
-https://ktpremium.com:443/N197NGF/8199/73945
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="ANAK-ANAK", Nick Junior
-https://ktpremium.com:443/N197NGF/8199/73946
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="ANAK-ANAK", Nickelodeon
-https://ktpremium.com:443/N197NGF/8199/73947
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="ANAK-ANAK", Disney Channel
-https://ktpremium.com:443/N197NGF/8199/73938
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="ANAK-ANAK", Disney.jr
-https://ktpremium.com:443/N197NGF/8199/511324
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png" group-title="ANAK-ANAK", Disney XD
-https://ktpremium.com:443/N197NGF/8199/511328
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" group-title="ANAK-ANAK",[USA] BabyTV
-https://ktpremium.com:443/N197NGF/8199/511316
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv107_mobile.png" group-title="ANAK-ANAK",momo親子
-https://ktpremium.com:443/N197NGF/8199/515120
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/goldentv-animation-live.jpg" group-title="ANAK-ANAK",靖天卡通
-https://ktpremium.com:443/N197NGF/8199/515122
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ANAK-ANAK",Baby TV
-https://ktpremium.com:443/N197NGF/8199/694339
-#EXTINF:-1 tvg-logo="https://store.liveabc.com/img/logo_live.5efa3f21.png" group-title="ANAK-ANAK",ELTV
-https://ktpremium.com:443/N197NGF/8199/900863
-#EXTINF:-1 tvg-logo="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn01_cover.jpg" group-title="ANAK-ANAK",龙华卡通台
-https://ktpremium.com:443/N197NGF/8199/918606
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="ANAK-ANAK", Dreamworks
-https://ktpremium.com:443/N197NGF/8199/921749
-
 ###################################################### KIDS ################################################
 
 
@@ -974,7 +937,8 @@ http://starshare.live:8080/live/Pirates/Pirates/151208.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
 https://aqfadtv.xyz/live/mewatch/animax/index.mpd
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="KIDS", Animax
+https://ktpremium.com:443/N197NGF/8199/73883
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png" group-title="KIDS", Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -984,7 +948,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="KIDS", Anime HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="KIDS", Aniplus
+https://ktpremium.com:443/N197NGF/8199/73884
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS", Aniplus
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",Aniplus (*)
@@ -995,10 +960,12 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="KIDS", Avatar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1  group-title="KIDS", BABY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS",Baby TV
+https://ktpremium.com:443/N197NGF/8199/694339
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", BABY TV 2
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS",[USA] BabyTV
+https://ktpremium.com:443/N197NGF/8199/511316
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png" group-title="KIDS", Baby First
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
@@ -1022,13 +989,14 @@ http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bi
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://hometv.biz.id/logo/kids/boonie_cube.jpg",BOONIE CUBS
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS", CARTOON NETWORK
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", CARTOON NETWORK*
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS", Cartoon Network 2
+https://ktpremium.com:443/N197NGF/8199/73934
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS", CARTOON NETWORK*
 http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71733
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS", CARTOON NETWORK HD
 http://starshare.live:8080/live/Pirates/Pirates/151221.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", Cartoon Channel
@@ -1036,7 +1004,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS", Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="KIDS", Cbeebies
+https://ktpremium.com:443/N197NGF/8199/73935
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW50uTW1MR5hTfFcxVESyDEbDt92jYd_nD2Q&usqp=CAU" group-title="KIDS", Cine Infantil Kids
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
@@ -1048,18 +1017,26 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="KIDS", Discovery Kids
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryKids.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="KIDS", Disney Channel
+https://ktpremium.com:443/N197NGF/8199/73938
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", DISNEY CH
 http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71772
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", DISNEY HD
 http://starshare.live:8080/live/Pirates/Pirates/151225.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", DISNEY JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS", Disney.jr
+https://ktpremium.com:443/N197NGF/8199/511324
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS", DISNEY JR
 http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71771
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD
+https://ktpremium.com:443/N197NGF/8199/511328
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="KIDS",Dream Works
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="KIDS", Dreamworks
+https://ktpremium.com:443/N197NGF/8199/921749
 #EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/22598ebs%20kids.png" group-title="KIDS", EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://store.liveabc.com/img/logo_live.5efa3f21.png" group-title="KIDS",ELTV
+https://ktpremium.com:443/N197NGF/8199/900863
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/rFgx2CTV/20230520-200344.png",Find Out Why
 https://i.mjh.nz/PlutoTV/60faf9368c7ad900082bc9a8-alt.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/prJ8TKnB/20230520-200309.png",Garfield and Friends
@@ -1110,10 +1087,12 @@ https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/UgDTRNv.png",MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="KIDS", Miao Mi
+https://ktpremium.com:443/N197NGF/8199/73945
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="KIDS", MinecrafTV
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv107_mobile.png" group-title="KIDS",momo親子
+https://ktpremium.com:443/N197NGF/8199/515120
 #EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/24090Mondo%20TV%20Kids%20Diretta.jpg" group-title="KIDS", Mondo TV Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
@@ -1128,13 +1107,16 @@ http://starshare.live:8080/live/Pirates/Pirates/151226.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="KIDS", Naruto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",  Nick Junior*
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="KIDS", Nick Junior
+https://ktpremium.com:443/N197NGF/8199/73946
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="KIDS", Nick Junior*
 http://starshare.live:8080/live/Pirates/Pirates/151192.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",  Nickelodeon
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS", Nickelodeon
+https://ktpremium.com:443/N197NGF/8199/73947
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS", Nickelodeon HD
 http://starshare.live:8080/live/Pirates/Pirates/151218.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", Nickelodeon2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS", Nickelodeon2
 http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71769
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", Nicktoons
@@ -1230,7 +1212,13 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="KIDS",Zoo-Moo
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="KIDS", ZooMoo Kids
+https://ktpremium.com:443/N197NGF/8199/695556
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/goldentv-animation-live.jpg" group-title="KIDS",靖天卡通
+https://ktpremium.com:443/N197NGF/8199/515122
 
+#EXTINF:-1 tvg-logo="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn01_cover.jpg" group-title="KIDS",龙华卡通台
+https://ktpremium.com:443/N197NGF/8199/918606
 
 
 
