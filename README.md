@@ -256,9 +256,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",LIVE VOLLY MOJI TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="LIVE EVENT",Fight Sport
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298531
-
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE ONLY2
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378691
 
@@ -285,13 +282,10 @@ http://starshare.live:8080/live/Pirates/Pirates/151187.ts
 #EXTINF:-1 group-title="LIVE EVENT",MNC START Sports 3 HD
 http://starshare.live:8080/live/Pirates/Pirates/151181.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9880
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP 2
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP 3
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",EPL DAZN 1
@@ -335,8 +329,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/ind
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="LIVE EVENT",SpoTV
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT9ZoNrK0g9_P3d4uQAJFvRE/.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SpoTV 2
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6DBr7pEuIsKjL9CKHd8aTY/.m3u8
+
 
 
 
@@ -1227,21 +1220,6 @@ https://ktpremium.com:443/N197NGF/8199/918606
 
 ################################################## CINEMA #############################################
 
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES*
-http://starshare.live:8080/live/Pirates/Pirates/151199.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINEMA",  Cinemax*
-http://starshare.live:8080/live/Pirates/Pirates/151197.ts
-
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg",CINEMA EUROPE
-http://210.210.155.37/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINEMA", FMN
-http://starshare.live:8080/live/Pirates/Pirates/151223.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINEMA",Indonesia Movie Channels
-http://starshare.live:8080/live/Pirates/Pirates/151184.ts
 
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/syRzpPv/HBO-Max-Logo-Old-svg.png",HBO MAX 1
@@ -1322,84 +1300,94 @@ https://karlfazreen.github.io/playlist/skystore/sky20.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png",SKY STORE PREMIERE 21
 https://karlfazreen.github.io/playlist/skystore/sky21.m3u8
 
-#EXTINF:-1 group-title="CINEMA", WARNER TV HD
-http://starshare.live:8080/live/Pirates/Pirates/151215.ts
-
-#EXTINF:-1 group-title="CINEMA", WOWOW Sinema
-https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
 
 
 
 
 
+############################################## MOVIE ####################################
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIE",AXN
+https://ktpremium.com:443/N197NGF/8199/515075
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="MOVIE", AXN HD
+https://ktpremium.com:443/N197NGF/8199/73661
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIE", Celestial Movies
 https://ktpremium.com:443/N197NGF/8199/73655
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIE", Celestial Classic Movie
-https://ktpremium.com:443/N197NGF/8199/73656
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" group-title="MOVIE", Star Movies HD
-https://ktpremium.com:443/N197NGF/8199/73658
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="MOVIE", Thrill
-https://ktpremium.com:443/N197NGF/8199/73660
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="MOVIE", AXN
-https://ktpremium.com:443/N197NGF/8199/73661
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIE", Hits
-https://ktpremium.com:443/N197NGF/8199/73662
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIE", Hits Movies
-https://ktpremium.com:443/N197NGF/8199/73855
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="MOVIE", HBO
-https://ktpremium.com:443/N197NGF/8199/73858
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="MOVIE", HBO Hits
-https://ktpremium.com:443/N197NGF/8199/73860
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIE", HBO Signature
-https://ktpremium.com:443/N197NGF/8199/73861
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIE", HBO Family
-https://ktpremium.com:443/N197NGF/8199/901195
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE", Cinemax
-https://ktpremium.com:443/N197NGF/8199/901196
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="MOVIE", Paramount Network
-https://ktpremium.com:443/N197NGF/8199/901199
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES 2
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES HD
+http://starshare.live:8080/live/Pirates/Pirates/151199.ts
+
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="MOVIE", CINEMA WORLD
 https://ktpremium.com:443/N197NGF/8199/901200
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE", CINEMAX HD
+http://starshare.live:8080/live/Pirates/Pirates/151197.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE", Cinemax
+https://ktpremium.com:443/N197NGF/8199/901196
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIE",CINEMAX 2
+https://ktpremium.com:443/N197NGF/8199/870555
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE",Cinemax 3
+https://ktpremium.com:443/N197NGF/8199/515076
+#EXTINF:-1 group-title="MOVIE" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg",CINEMAX EUROPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIE", Celestial Classic Movie
+https://ktpremium.com:443/N197NGF/8199/73656
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE", FMN
+http://starshare.live:8080/live/Pirates/Pirates/151223.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galaxy_tv_id.png" group-title="MOVIE", Galaxy HD
 https://ktpremium.com:443/N197NGF/8199/812074
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="MOVIE", Galaxy Premium
 https://ktpremium.com:443/N197NGF/8199/73863
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MOVIE", Warner TV
-https://ktpremium.com:443/N197NGF/8199/73866
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIE",AXN
-https://ktpremium.com:443/N197NGF/8199/515075
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE",Cinemax
-https://ktpremium.com:443/N197NGF/8199/515076
-
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="MOVIE",HBO HD
 https://ktpremium.com:443/N197NGF/8199/870553
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="MOVIE",HBO HITS
-https://ktpremium.com:443/N197NGF/8199/870554
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="MOVIE", HBO*
+https://ktpremium.com:443/N197NGF/8199/73858
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIE",HBO Family
 https://ktpremium.com:443/N197NGF/8199/900875
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/1200px-HBO_Signature_Asia.svg.png" group-title="MOVIE",HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIE", HBO Family*
+https://ktpremium.com:443/N197NGF/8199/901195
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="MOVIE", HBO Hits
+https://ktpremium.com:443/N197NGF/8199/73860
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="MOVIE",HBO HITS*
+https://ktpremium.com:443/N197NGF/8199/870554
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIE", HBO Signature
+https://ktpremium.com:443/N197NGF/8199/73861
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/1200px-HBO_Signature_Asia.svg.png" group-title="MOVIE",HBO Signature*
 https://ktpremium.com:443/N197NGF/8199/900881
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIE",CINEMAX
-https://ktpremium.com:443/N197NGF/8199/870555
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Warner_Bros._Pictures_2019.svg/150px-Warner_Bros._Pictures_2019.svg.png" group-title="MOVIE",华纳电影
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIE", Hits
+https://ktpremium.com:443/N197NGF/8199/73662
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIE", Hits Movies
+https://ktpremium.com:443/N197NGF/8199/73855
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE",Indonesia Movie Channels
+http://starshare.live:8080/live/Pirates/Pirates/151184.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="MOVIE", Paramount Network
+https://ktpremium.com:443/N197NGF/8199/901199
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" group-title="MOVIE", Star Movies HD
+https://ktpremium.com:443/N197NGF/8199/73658
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="MOVIE", Thrill
+https://ktpremium.com:443/N197NGF/8199/73660
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MOVIE", Warner TV
+https://ktpremium.com:443/N197NGF/8199/73866
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MOVIE", Warner TV*
+http://starshare.live:8080/live/Pirates/Pirates/151215.ts
+#EXTINF:-1 group-title="CINEMA", WOWOW Sinema
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Warner_Bros._Pictures_2019.svg/150px-Warner_Bros._Pictures_2019.svg.png" group-title="MOVIE",WB WARNER BROS
 https://ktpremium.com:443/N197NGF/8199/900866
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebc-movie-tw.png" group-title="MOVIE",东森电影
-https://ktpremium.com:443/N197NGF/8199/870557
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebc-foreign-movie-tw.png" group-title="MOVIE",东森洋片
-https://ktpremium.com:443/N197NGF/8199/870558
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png" group-title="MOVIE",美亚电影
 https://ktpremium.com:443/N197NGF/8199/870561
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="MOVIE",星卫电影
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="MOVIE",HD
 https://ktpremium.com:443/N197NGF/8199/870562
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hollywood_movie_channel.png" group-title="MOVIE",好莱坞电影台
-https://ktpremium.com:443/N197NGF/8199/684844
-#EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1840.png" group-title="MOVIE",龙华洋片
+
+#EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1840.png" group-title="MOVIE",LTV
 https://ktpremium.com:443/N197NGF/8199/515085
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/ls_time_movie.png" group-title="MOVIE",龙祥电影
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/ls_time_movie.png" group-title="MOVIE",LS TIME MOVIE
 https://ktpremium.com:443/N197NGF/8199/694086
 
 ############################################## MOVIES ####################################
@@ -1423,11 +1411,10 @@ http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71754
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",ART CINEMA
 http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71755
 
-
-#EXTINF:-1 group-title="MOVIES", AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  AXN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN HD
 http://starshare.live:8080/live/Pirates/Pirates/151209.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", baby
@@ -1533,8 +1520,6 @@ http://starshare.live:8080/live/Pirates/Pirates/151190.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Gravitas Movies
 https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",HBO"
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
 #EXTINF:0  group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",HBO2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
@@ -1801,17 +1786,9 @@ http://208.115.225.174:14136
 
 #EXTINF:0  group-title="MOVIES 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",HBO2*
 http://208.115.225.174:14140
-
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/k4cx8czc/HBO-HITS.jpg",HBO Hits
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/196480
-
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES 2",HBO FAMILY HD
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES 2",HBO FAMILY CHNANEL
 http://starshare.live:8080/live/Pirates/Pirates/151250.ts
 
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES 2",HBO FAMILY
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197055
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/W3fWt0LJ/HBO-SIGNATURE.png",HBO Signature
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/221948
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO Xtreme
 http://208.115.225.174:14165
 
@@ -2613,13 +2590,13 @@ https://ktpremium.com:443/N197NGF/8199/885659
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="OLAH RAGA", Premier Sports
 https://ktpremium.com:443/N197NGF/8199/916970
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1hd.png" group-title="OLAH RAGA",[IN] SONY Ten 1(FHD)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1hd.png" group-title="OLAH RAGA",SONY Ten 1(FHD)
 https://ktpremium.com:443/N197NGF/8199/511301
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" group-title="OLAH RAGA",[IN] SONY Ten 2(FHD)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" group-title="OLAH RAGA",SONY Ten 2(FHD)
 https://ktpremium.com:443/N197NGF/8199/512007
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten3.png" group-title="OLAH RAGA",[IN] SONY Ten 3(FHD)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten3.png" group-title="OLAH RAGA",SONY Ten 3(FHD)
 https://ktpremium.com:443/N197NGF/8199/511893
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-six-in.png" group-title="OLAH RAGA",[IN] SONY SIX(FHD)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-six-in.png" group-title="OLAH RAGA",SONY SIX(FHD)
 https://ktpremium.com:443/N197NGF/8199/511302
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-kr.png" group-title="OLAH RAGA", SPOTV
@@ -2641,15 +2618,15 @@ https://ktpremium.com:443/N197NGF/8199/884108
 https://ktpremium.com:443/N197NGF/8199/511295
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="OLAH RAGA",[USA] Tennis Channel(FHD)
 https://ktpremium.com:443/N197NGF/8199/511296
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="OLAH RAGA",[IN] Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="OLAH RAGA",Star Sports Select 1
 https://ktpremium.com:443/N197NGF/8199/905937
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wejp5b1643386884.png" group-title="OLAH RAGA",[IN] Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wejp5b1643386884.png" group-title="OLAH RAGA",Star Sports Select 2
 https://ktpremium.com:443/N197NGF/8199/905938
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="OLAH RAGA",[IN] STAR SPORTS 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="OLAH RAGA",STAR SPORTS 1
 https://ktpremium.com:443/N197NGF/8199/915314
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="OLAH RAGA",[IN] STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="OLAH RAGA",STAR SPORTS 2
 https://ktpremium.com:443/N197NGF/8199/915315
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_3.png" group-title="OLAH RAGA",[IN] STAR SPORTS 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_3.png" group-title="OLAH RAGA",STAR SPORTS 3
 https://ktpremium.com:443/N197NGF/8199/915316
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba-tv-canada-us-ca.png" group-title="OLAH RAGA", NBA TV Canada
@@ -2693,7 +2670,7 @@ https://ktpremium.com:443/N197NGF/8199/912202
 #EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1972_20211223113519.png" group-title="OLAH RAGA",博斯魅力
 https://ktpremium.com:443/N197NGF/8199/918610
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="OLAH RAGA",[IN] WILLOW CRICKET
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="OLAH RAGA",WILLOW CRICKET
 https://ktpremium.com:443/N197NGF/8199/915317
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="OLAH RAGA", WWE NETWORK
 https://ktpremium.com:443/N197NGF/8199/26328
@@ -2946,9 +2923,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.imgur.com/nSYgjEz.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORT 2",SpoTV**
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORT 2",SpoTV
 http://starshare.live:8080/live/Pirates/Pirates/151194.ts
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORT 2",SpoTV HD
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6DBr7pEuIsKjL9CKHd8aTY/.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="SPORT 2",SpoTV 2
 http://starshare.live:8080/live/Pirates/Pirates/151193.ts
 
@@ -3133,379 +3111,364 @@ http://starshare.live:8080/live/Pirates/Pirates/151274.ts
 ###################################################### MALAYSIA ################################################
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="MALAYSIA",8TV
+https://ktpremium.com:443/N197NGF/8199/25812
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="MALAYSIA",8TV (B)
+https://ktpremium.com:443/N197NGF/8199/912830
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="MALAYSIA",AEC HD 
+https://ktpremium.com:443/N197NGF/8199/25968
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="MALAYSIA",AEC HD(B)
+https://ktpremium.com:443/N197NGF/8199/916396
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_bom_thangathirai.png" group-title="MALAYSIA",ABO Thangathirai(down)
+https://ktpremium.com:443/N197NGF/8199/911365
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="MALAYSIA",ABC AUSTRALIA
+https://ktpremium.com:443/N197NGF/8199/26160
+#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ADTYA-logo.png" group-title="MALAYSIA",Adithaya
+https://ktpremium.com:443/N197NGF/8199/905517
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="MALAYSIA",Animal Planet HD
+https://ktpremium.com:443/N197NGF/8199/26211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="MALAYSIA",ANIMAX
+https://ktpremium.com:443/N197NGF/8199/933048
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="MALAYSIA",ANIMAX
+https://ktpremium.com:443/N197NGF/8199/26240
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="MALAYSIA",ANIPLUS HD
+https://ktpremium.com:443/N197NGF/8199/26242
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png" group-title="MALAYSIA",Asian Food Network
+https://ktpremium.com:443/N197NGF/8199/916125
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="MALAYSIA",ASTRO CERIA HD
+https://ktpremium.com:443/N197NGF/8199/26238
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="MALAYSIA",AXN HD
+https://ktpremium.com:443/N197NGF/8199/26282
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA",Astro Aura HD
+https://ktpremium.com:443/N197NGF/8199/908357
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA",Astro Rania HD
+https://ktpremium.com:443/N197NGF/8199/908356
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png"group-title="MALAYSIA",ASTRO Citra (not 24/7)
+https://ktpremium.com:443/N197NGF/8199/25852
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="MALAYSIA",ASTRO Citra (recording)
+https://ktpremium.com:443/N197NGF/8199/913177
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA",ASTRO RIA HD(not 24/7)
+https://ktpremium.com:443/N197NGF/8199/25855
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="MALAYSIA",ASTRO RIA HD (B)
+https://ktpremium.com:443/N197NGF/8199/912833
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="MALAYSIA",ASTRO PRIMA HD 
+https://ktpremium.com:443/N197NGF/8199/25862
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="MALAYSIA",ASTRO OASIS HD
+https://ktpremium.com:443/N197NGF/8199/25864
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="MALAYSIA",ASTRO OASIS HD (B)
+https://ktpremium.com:443/N197NGF/8199/912835
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA",ASTRO WARNA HD(not 24/7)
+https://ktpremium.com:443/N197NGF/8199/25867
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="MALAYSIA",ASTRO WARNA HD (B)
+https://ktpremium.com:443/N197NGF/8199/912836
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",AOD 311 HD(down)
+https://ktpremium.com:443/N197NGF/8199/25990
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",AOD 352 HD
+https://ktpremium.com:443/N197NGF/8199/25991
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",AOD 354 HD
+https://ktpremium.com:443/N197NGF/8199/25993
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_JAZEERA_ENGLISH.png" group-title="MALAYSIA",Al-Jazzera HD
+https://ktpremium.com:443/N197NGF/8199/26177
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" group-title="MALAYSIA",Arirang
+https://ktpremium.com:443/N197NGF/8199/694473
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food-network-uk.png" group-title="MALAYSIA",ASIAN FOOD NTWK HD
+https://ktpremium.com:443/N197NGF/8199/26286
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="MALAYSIA",ASTRO Awani HD
+https://ktpremium.com:443/N197NGF/8199/26167
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="MALAYSIA",ASTRO Awani HD(B)
+https://ktpremium.com:443/N197NGF/8199/913137
+
+#EXTINF:-1 group-title="MALAYSIA",ASTRO PREMIER
+https://ktpremium.com:443/N197NGF/8199/25964
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="MALAYSIA",Astro Vaanavil
+https://ktpremium.com:443/N197NGF/8199/25959
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" group-title="MALAYSIA",ASTRO Star Vijay HD
+https://ktpremium.com:443/N197NGF/8199/25944
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" group-title="MALAYSIA",ASTRO Star Vijay HD (B)
+https://ktpremium.com:443/N197NGF/8199/912838
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="MALAYSIA",Awesome tv
+https://ktpremium.com:443/N197NGF/8199/25828
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="MALAYSIA",Awesome tv (B)
+https://ktpremium.com:443/N197NGF/8199/912832
 #EXTINF:-1 group-title="MALAYSIA",BERITA
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-
-#EXTINF:-1 group-title="MALAYSIA",SUKAN
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="MALAYSIA",Astro QJ
+https://ktpremium.com:443/N197NGF/8199/25970
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_vellithirai.png" group-title="MALAYSIA",Astro Vellithirai
+https://ktpremium.com:443/N197NGF/8199/918423
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/795px-BBC_News_HD_Logo.svg.png" group-title="MALAYSIA",BBC News HD
+https://ktpremium.com:443/N197NGF/8199/26174
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bernama-my.png" group-title="MALAYSIA",Bernama News
+https://ktpremium.com:443/N197NGF/8199/26169
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="MALAYSIA",Bloomberg TV
+https://ktpremium.com:443/N197NGF/8199/26179
+#EXTINF:-1 tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="MALAYSIA",Berita RTM
+https://ktpremium.com:443/N197NGF/8199/900904
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="MALAYSIA",Blue Ant Entertainment HD 
+https://ktpremium.com:443/N197NGF/8199/656633
+#EXTINF:-1 tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="MALAYSIA",Blue Ant Extreme HD 
+https://ktpremium.com:443/N197NGF/8199/656639
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png" group-title="MALAYSIA",BOO
+https://ktpremium.com:443/N197NGF/8199/26011
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" group-title="MALAYSIA",Baby TV
+https://ktpremium.com:443/N197NGF/8199/26277
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="MALAYSIA",BBC Lifestyle
+https://ktpremium.com:443/N197NGF/8199/26291
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_earth_uk.png" group-title="MALAYSIA",BBC Earth HD
+https://ktpremium.com:443/N197NGF/8199/26290
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="MALAYSIA",COMEDY CENTRAL
+https://ktpremium.com:443/N197NGF/8199/26297
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" group-title="MALAYSIA",C&I HD
+https://ktpremium.com:443/N197NGF/8199/26288
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="MALAYSIA",CARTOON NTWK HD
+https://ktpremium.com:443/N197NGF/8199/26273
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" group-title="MALAYSIA", CBeebies
+https://ktpremium.com:443/N197NGF/8199/26247
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="MALAYSIA",Ceria (B)
+https://ktpremium.com:443/N197NGF/8199/912821
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="MALAYSIA",CNBC Asia HD
+https://ktpremium.com:443/N197NGF/8199/26195
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png" group-title="MALAYSIA",CCTV4 HD
+https://ktpremium.com:443/N197NGF/8199/26181
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="MALAYSIA",CGTN
+https://ktpremium.com:443/N197NGF/8199/26192
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="MALAYSIA",CGTN Documentary
+https://ktpremium.com:443/N197NGF/8199/694497
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-international-us.png" group-title="MALAYSIA",CNN HD
+https://ktpremium.com:443/N197NGF/8199/26171
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="MALAYSIA",Channel 5
+https://ktpremium.com:443/N197NGF/8199/25833
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" group-title="MALAYSIA",Channel 8
+https://ktpremium.com:443/N197NGF/8199/25834
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" group-title="MALAYSIA",Channel U
+https://ktpremium.com:443/N197NGF/8199/25835
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="MALAYSIA",Cinemax
+https://ktpremium.com:443/N197NGF/8199/916398
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="MALAYSIA",Cinemax (sub)
+https://ktpremium.com:443/N197NGF/8199/901187
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="MALAYSIA",CINEMA WORLD 
+https://ktpremium.com:443/N197NGF/8199/901191
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="MALAYSIA",CNA(FHD)
+https://ktpremium.com:443/N197NGF/8199/25837
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png"group-title="MALAYSIA",COLORS HD
+https://ktpremium.com:443/N197NGF/8199/25928
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="MALAYSIA",COLORS TAMIL
+https://ktpremium.com:443/N197NGF/8199/25947
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="MALAYSIA",COLORS TAMIL (B)
+https://ktpremium.com:443/N197NGF/8199/912839
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="MALAYSIA",Discovery HD
+https://ktpremium.com:443/N197NGF/8199/26207
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title="MALAYSIA",Discovery Asia
+https://ktpremium.com:443/N197NGF/8199/26209
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax-us.png" group-title="MALAYSIA",DMAX HD
+https://ktpremium.com:443/N197NGF/8199/26296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="MALAYSIA",DreamWorks
+https://ktpremium.com:443/N197NGF/8199/912562
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MALAYSIA",DW HD
+https://ktpremium.com:443/N197NGF/8199/26162
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="MALAYSIA",Euronews
+https://ktpremium.com:443/N197NGF/8199/26158
+#EXTINF:-1 tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="MALAYSIA",FRANCE24 HD
+https://ktpremium.com:443/N197NGF/8199/26165
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="MALAYSIA",Global Trekker
+https://ktpremium.com:443/N197NGF/8199/916403
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="MALAYSIA",HBO HD
+https://ktpremium.com:443/N197NGF/8199/916397
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="MALAYSIA",HBO HD(sub)
+https://ktpremium.com:443/N197NGF/8199/26076
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="MALAYSIA",HBO Hits
+https://ktpremium.com:443/N197NGF/8199/916401
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="MALAYSIA",HBO Hits (sub)
+https://ktpremium.com:443/N197NGF/8199/26077
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="MALAYSIA",HBO Signature (sub)
+https://ktpremium.com:443/N197NGF/8199/26080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MALAYSIA",HBO Family
+https://ktpremium.com:443/N197NGF/8199/916400
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MALAYSIA",HBO Family (sub)
+https://ktpremium.com:443/N197NGF/8199/656642
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="MALAYSIA",History HD
+https://ktpremium.com:443/N197NGF/8199/26213
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png" group-title="MALAYSIA",Hits Movies HD
+https://ktpremium.com:443/N197NGF/8199/26102
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png" group-title="MALAYSIA",HGTV HD
+https://ktpremium.com:443/N197NGF/8199/26294
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="MALAYSIA",HITS HD
+https://ktpremium.com:443/N197NGF/8199/26284
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi (Unifi)
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/2560px-IQiyi_logo.svg.png" group-title="MALAYSIA",iQiyi
+https://ktpremium.com:443/N197NGF/8199/25961
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/2560px-IQiyi_logo.svg.png" group-title="MALAYSIA",iQiyi (B)
+https://ktpremium.com:443/N197NGF/8199/912840
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="MALAYSIA",K-plus
+https://ktpremium.com:443/N197NGF/8199/26029
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" group-title="MALAYSIA",KBS World HD
+https://ktpremium.com:443/N197NGF/8199/26006
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.png" group-title="MALAYSIA",KTV
+https://ktpremium.com:443/N197NGF/8199/511756
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="MALAYSIA",KBS World
+https://ktpremium.com:443/N197NGF/8199/870506
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="MALAYSIA",LIFETIME 
+https://ktpremium.com:443/N197NGF/8199/656641
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="MALAYSIA",Love Nature
+https://ktpremium.com:443/N197NGF/8199/916402
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="MALAYSIA",MTV live
+https://ktpremium.com:443/N197NGF/8199/26298
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" group-title="MALAYSIA",Moonbug Kids
+https://ktpremium.com:443/N197NGF/8199/26200
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="MALAYSIA",NatGeo HD
+https://ktpremium.com:443/N197NGF/8199/26197
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="MALAYSIA",NatGeo Wild HD
+https://ktpremium.com:443/N197NGF/8199/26205
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-japan-jp.png" group-title="MALAYSIA",NHK World
+https://ktpremium.com:443/N197NGF/8199/834387
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="MALAYSIA",NICKELODEON HD
+https://ktpremium.com:443/N197NGF/8199/26275
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="MALAYSIA",NICK JR
+https://ktpremium.com:443/N197NGF/8199/26276
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA",NTV7
+https://ktpremium.com:443/N197NGF/8199/25811
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="MALAYSIA",NTV7 (B)
+https://ktpremium.com:443/N197NGF/8199/912829
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/rtmokey.png" group-title="MALAYSIA",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-okey-my.png" group-title="MALAYSIA",OKEY TV
+https://ktpremium.com:443/N197NGF/8199/656682
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="MALAYSIA",One HD
+https://ktpremium.com:443/N197NGF/8199/26009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="MALAYSIA",Paramount Network 
+https://ktpremium.com:443/N197NGF/8199/901190
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="MALAYSIA",TVB 星河(粤语)
+https://ktpremium.com:443/N197NGF/8199/25977
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="MALAYSIA",TVB 星河 HD (中文)
+https://ktpremium.com:443/N197NGF/8199/912848
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" group-title="MALAYSIA",TVB 经典台
+https://ktpremium.com:443/N197NGF/8199/25979
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" group-title="MALAYSIA",TVB 经典台 (B)
+https://ktpremium.com:443/N197NGF/8199/912849
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e3/TvbEN.png/220px-TvbEN.png" group-title="MALAYSIA",TVB Entertainment News HD
+https://ktpremium.com:443/N197NGF/8199/918425
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="MALAYSIA",天映频道 HD
+https://ktpremium.com:443/N197NGF/8199/25981
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MALAYSIA",天映经典
+https://ktpremium.com:443/N197NGF/8199/25982
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cn.png" group-title="MALAYSIA",Phoenix Chinese Channel HD
+https://ktpremium.com:443/N197NGF/8199/25984
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cne.png" group-title="MALAYSIA",Phoenix Info News HD
+https://ktpremium.com:443/N197NGF/8199/25985
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="MALAYSIA",RTB sukmaindera
+https://ktpremium.com:443/N197NGF/8199/897360
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" group-title="MALAYSIA",RTB GO
+https://ktpremium.com:443/N197NGF/8199/897365
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="MALAYSIA",RockAction
+https://ktpremium.com:443/N197NGF/8199/933050
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MALAYSIA",RockEntertainment
+https://ktpremium.com:443/N197NGF/8199/933051
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/showcase-movies-my.png" group-title="MALAYSIA",Showcase Movie
+https://ktpremium.com:443/N197NGF/8199/916399
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo.png" group-title="MALAYSIA",SKY NEWS HD
+https://ktpremium.com:443/N197NGF/8199/26156
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="MALAYSIA", SONY GEM
+https://ktpremium.com:443/N197NGF/8199/933049
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/sukanrtm.png" group-title="MALAYSIA",Sukan
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/sukanrtm.png" group-title="MALAYSIA",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png" group-title="MALAYSIA",Sun Life
+https://ktpremium.com:443/N197NGF/8199/25934
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_tv_my.png" group-title="MALAYSIA",Sun TV
+https://ktpremium.com:443/N197NGF/8199/911358
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" group-title="MALAYSIA",SUN MUSIC
+https://ktpremium.com:443/N197NGF/8199/25933
+
+#EXTINF:-1tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="MALAYSIA",Sun news
+https://ktpremium.com:443/N197NGF/8199/911013
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/1200px-Mediacorp_Suria_2023.svg.png" group-title="MALAYSIA",Suria
+https://ktpremium.com:443/N197NGF/8199/25844
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="MALAYSIA",Thrill
+https://ktpremium.com:443/N197NGF/8199/26094
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDzI5hF_Ozo8eGzaKLK-yo2Rj_wQ2zCqB1Q&usqp=CAU" group-title="MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sxTDt5c4tCg/mqdefault.jpg" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png"group-title="MALAYSIA",TV1
+https://ktpremium.com:443/N197NGF/8199/25808
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="MALAYSIA",TV1 (B)
+https://ktpremium.com:443/N197NGF/8199/912825
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sxTDt5c4tCg/mqdefault.jpg" group-title="MALAYSIA",TV2*
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="MALAYSIA",TV2
+https://ktpremium.com:443/N197NGF/8199/25809
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="MALAYSIA",TV2 (B)
+https://ktpremium.com:443/N197NGF/8199/912826
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="MALAYSIA",TV3
+https://ktpremium.com:443/N197NGF/8199/25810
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="MALAYSIA",TV3 (A)
+https://ktpremium.com:443/N197NGF/8199/912827
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="MALAYSIA",TV3 (B)
+https://ktpremium.com:443/N197NGF/8199/912828
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="MALAYSIA",TV3 (C)
+https://ktpremium.com:443/N197NGF/8199/694449
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="MALAYSIA",TV6
+https://ktpremium.com:443/N197NGF/8199/900905
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/tv6.png" group-title="MALAYSIA",TV-6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="MALAYSIA",TV9
+https://ktpremium.com:443/N197NGF/8199/25813
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="MALAYSIA",TV9 (B)
+https://ktpremium.com:443/N197NGF/8199/912831
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="MALAYSIA",TLC HD
+https://ktpremium.com:443/N197NGF/8199/26285
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGv3vegjeW4CUGpE-JAWz00FGVowDoA1TJrw&usqp=CAU" group-title="MALAYSIA", TV9 (Unifi)
 https://aqfadtv.xyz/live/tv9/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/rtmokey.png" group-title="MALAYSIA",Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/sukanrtm.png" group-title="MALAYSIA",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="MALAYSIA",TV ALHIJRAH
+https://ktpremium.com:443/N197NGF/8199/25906
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png" group-title="MALAYSIA",TVB Magic
+https://ktpremium.com:443/N197NGF/8199/924367
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png"group-title="MALAYSIA",TV1
-https://ktpremium.com:443/N197NGF/8199/25808
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[VIP] MALAYSIA",TV1 (B)
-https://ktpremium.com:443/N197NGF/8199/912825
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="[VIP] MALAYSIA",TV2
-https://ktpremium.com:443/N197NGF/8199/25809
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="[VIP] MALAYSIA",TV2 (B)
-https://ktpremium.com:443/N197NGF/8199/912826
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[VIP] MALAYSIA",TV3
-https://ktpremium.com:443/N197NGF/8199/25810
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[VIP] MALAYSIA",TV3 (A)
-https://ktpremium.com:443/N197NGF/8199/912827
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[VIP] MALAYSIA",TV3 (B)
-https://ktpremium.com:443/N197NGF/8199/912828
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[VIP] MALAYSIA",TV3 (C)
-https://ktpremium.com:443/N197NGF/8199/694449
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="[VIP] MALAYSIA",NTV7
-https://ktpremium.com:443/N197NGF/8199/25811
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="[VIP] MALAYSIA",NTV7 (B)
-https://ktpremium.com:443/N197NGF/8199/912829
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="[VIP] MALAYSIA",8TV
-https://ktpremium.com:443/N197NGF/8199/25812
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="[VIP] MALAYSIA",8TV (B)
-https://ktpremium.com:443/N197NGF/8199/912830
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="[VIP] MALAYSIA",TV9
-https://ktpremium.com:443/N197NGF/8199/25813
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="[VIP] MALAYSIA",TV9 (B)
-https://ktpremium.com:443/N197NGF/8199/912831
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="[VIP] MALAYSIA",Awesome tv
-https://ktpremium.com:443/N197NGF/8199/25828
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="[VIP] MALAYSIA",Awesome tv (B)
-https://ktpremium.com:443/N197NGF/8199/912832
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="[VIP] MALAYSIA",TVS
-https://ktpremium.com:443/N197NGF/8199/656643
-#EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-bak.png" group-title="[VIP] MALAYSIA",TV IKIM
-https://ktpremium.com:443/N197NGF/8199/656644
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-okey-my.png" group-title="[VIP] MALAYSIA",OKEY TV
-https://ktpremium.com:443/N197NGF/8199/656682
-#EXTINF:-1 tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="[VIP] MALAYSIA",Berita RTM
-https://ktpremium.com:443/N197NGF/8199/900904
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="[VIP] MALAYSIA",TV6
-https://ktpremium.com:443/N197NGF/8199/900905
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="[VIP] MALAYSIA",Channel 5
-https://ktpremium.com:443/N197NGF/8199/25833
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" group-title="[VIP] MALAYSIA",Channel 8
-https://ktpremium.com:443/N197NGF/8199/25834
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" group-title="[VIP] MALAYSIA",Channel U
-https://ktpremium.com:443/N197NGF/8199/25835
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="[VIP] MALAYSIA",CNA(FHD)
-https://ktpremium.com:443/N197NGF/8199/25837
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/1200px-Mediacorp_Suria_2023.svg.png" group-title="[VIP] MALAYSIA",Suria
-https://ktpremium.com:443/N197NGF/8199/25844
-#EXTINF:-1 tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" group-title="[VIP] MALAYSIA",Vasantham
-https://ktpremium.com:443/N197NGF/8199/25848
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png"group-title="MALAYSIA",ASTRO Citra (not 24/7)
-https://ktpremium.com:443/N197NGF/8199/25852
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA",ASTRO Citra (recording)
-https://ktpremium.com:443/N197NGF/8199/913177
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",ASTRO RIA HD(not 24/7)
-https://ktpremium.com:443/N197NGF/8199/25855
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",ASTRO RIA HD (B)
-https://ktpremium.com:443/N197NGF/8199/912833
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[VIP] MALAYSIA",ASTRO PRIMA HD 
-https://ktpremium.com:443/N197NGF/8199/25862
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",ASTRO OASIS HD
-https://ktpremium.com:443/N197NGF/8199/25864
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",ASTRO OASIS HD (B)
-https://ktpremium.com:443/N197NGF/8199/912835
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",ASTRO WARNA HD(not 24/7)
-https://ktpremium.com:443/N197NGF/8199/25867
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",ASTRO WARNA HD (B)
-https://ktpremium.com:443/N197NGF/8199/912836
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my.png" group-title="[VIP] MALAYSIA",Go Shop 111
-https://ktpremium.com:443/N197NGF/8199/916394
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-rania-my.png" group-title="[VIP] MALAYSIA",Astro Rania HD
-https://ktpremium.com:443/N197NGF/8199/908356
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aura-my.png" group-title="[VIP] MALAYSIA",Astro Aura HD
-https://ktpremium.com:443/N197NGF/8199/908357
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my.png" group-title="[VIP] MALAYSIA",GO SHOP 118
-https://ktpremium.com:443/N197NGF/8199/25875
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="[VIP] MALAYSIA",TV ALHIJRAH
-https://ktpremium.com:443/N197NGF/8199/25906
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png"group-title="MALAYSIA",COLORS HD
-https://ktpremium.com:443/N197NGF/8199/25928
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_vellithirai.png" group-title="[VIP] MALAYSIA",Astro Vellithirai
-https://ktpremium.com:443/N197NGF/8199/918423
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png" group-title="[VIP] MALAYSIA",Sun Life
-https://ktpremium.com:443/N197NGF/8199/25934
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_tv_my.png" group-title="[VIP] MALAYSIA",Sun TV
-https://ktpremium.com:443/N197NGF/8199/911358
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" group-title="[VIP] MALAYSIA",SUN MUSIC
-https://ktpremium.com:443/N197NGF/8199/25933
-#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ADTYA-logo.png" group-title="[VIP] MALAYSIA",Adithaya
-https://ktpremium.com:443/N197NGF/8199/905517
-#EXTINF:-1tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png" group-title="[VIP] MALAYSIA",Sun news
-https://ktpremium.com:443/N197NGF/8199/911013
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.png" group-title="[VIP] MALAYSIA",KTV
-https://ktpremium.com:443/N197NGF/8199/511756
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" group-title="[VIP] MALAYSIA",ASTRO Star Vijay HD
-https://ktpremium.com:443/N197NGF/8199/25944
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" group-title="[VIP] MALAYSIA",ASTRO Star Vijay HD (B)
-https://ktpremium.com:443/N197NGF/8199/912838
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="[VIP] MALAYSIA",COLORS TAMIL
-https://ktpremium.com:443/N197NGF/8199/25947
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="[VIP] MALAYSIA",COLORS TAMIL (B)
-https://ktpremium.com:443/N197NGF/8199/912839
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tamizh-in.png" group-title="[VIP] MALAYSIA",ZEE Tamil HD
-https://ktpremium.com:443/N197NGF/8199/25949
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="[VIP] MALAYSIA",Astro Vaanavil
-https://ktpremium.com:443/N197NGF/8199/25959
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_bom_thangathirai.png" group-title="[VIP] MALAYSIA",ABO Thangathirai(down)
-https://ktpremium.com:443/N197NGF/8199/911365
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.png" group-title="[VIP] MALAYSIA",Zee Cinema HD
-https://ktpremium.com:443/N197NGF/8199/911366
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png" group-title="[VIP] MALAYSIA",TVB Magic
-https://ktpremium.com:443/N197NGF/8199/924367
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my_chinese.png" group-title="[VIP] MALAYSIA",Go Shop 303
-https://ktpremium.com:443/N197NGF/8199/916395
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/2560px-IQiyi_logo.svg.png" group-title="[VIP] MALAYSIA",爱奇艺 iQiyi
-https://ktpremium.com:443/N197NGF/8199/25961
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/2560px-IQiyi_logo.svg.png" group-title="[VIP] MALAYSIA",爱奇艺 iQiyi (B)
-https://ktpremium.com:443/N197NGF/8199/912840
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="[VIP] MALAYSIA",AEC HD 
-https://ktpremium.com:443/N197NGF/8199/25968
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="[VIP] MALAYSIA",AEC HD(B)
-https://ktpremium.com:443/N197NGF/8199/916396
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="[VIP] MALAYSIA",Astro QJ
-https://ktpremium.com:443/N197NGF/8199/25970
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="[VIP] MALAYSIA",翡翠华丽台
-https://ktpremium.com:443/N197NGF/8199/25972
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="[VIP] MALAYSIA",翡翠华丽台 (B)
-https://ktpremium.com:443/N197NGF/8199/912845
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png"group-title="MALAYSIA", 欢喜台 
-https://ktpremium.com:443/N197NGF/8199/25973
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png"group-title="MALAYSIA", 欢喜台  (B)
-https://ktpremium.com:443/N197NGF/8199/912847
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="[VIP] MALAYSIA",TVB 星河(粤语)
-https://ktpremium.com:443/N197NGF/8199/25977
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="[VIP] MALAYSIA",TVB 星河 HD (中文)
-https://ktpremium.com:443/N197NGF/8199/912848
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" group-title="[VIP] MALAYSIA",TVB 经典台
-https://ktpremium.com:443/N197NGF/8199/25979
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" group-title="[VIP] MALAYSIA",TVB 经典台 (B)
-https://ktpremium.com:443/N197NGF/8199/912849
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e3/TvbEN.png/220px-TvbEN.png" group-title="[VIP] MALAYSIA",TVB Entertainment News HD
-https://ktpremium.com:443/N197NGF/8199/918425
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="[VIP] MALAYSIA",天映频道 HD
-https://ktpremium.com:443/N197NGF/8199/25981
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="[VIP] MALAYSIA",天映经典
-https://ktpremium.com:443/N197NGF/8199/25982
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cn.png" group-title="[VIP] MALAYSIA",Phoenix Chinese Channel HD
-https://ktpremium.com:443/N197NGF/8199/25984
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cne.png" group-title="[VIP] MALAYSIA",Phoenix Info News HD
-https://ktpremium.com:443/N197NGF/8199/25985
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvbs-asia-tw.png" group-title="[VIP] MALAYSIA",TVBS ASIA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvbs-asia-tw.png" group-title="MALAYSIA",TVBS ASIA HD
 https://ktpremium.com:443/N197NGF/8199/25986
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png" group-title="[VIP] MALAYSIA",中天亚洲
-https://ktpremium.com:443/N197NGF/8199/25987
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",AOD 311 HD(down)
-https://ktpremium.com:443/N197NGF/8199/25990
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",AOD 352 HD
-https://ktpremium.com:443/N197NGF/8199/25991
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",AOD 354 HD
-https://ktpremium.com:443/N197NGF/8199/25993
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="[VIP] MALAYSIA",tvN HD
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="MALAYSIA",tvN HD
 https://ktpremium.com:443/N197NGF/8199/26001
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title="[VIP] MALAYSIA",tvN Movies
+#EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header-bak.png" group-title="MALAYSIA",TV IKIM
+https://ktpremium.com:443/N197NGF/8199/656644
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title="MALAYSIA",tvN Movies
 https://ktpremium.com:443/N197NGF/8199/26003
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" group-title="[VIP] MALAYSIA",KBS World HD
-https://ktpremium.com:443/N197NGF/8199/26006
-#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="[VIP] MALAYSIA",One HD
-https://ktpremium.com:443/N197NGF/8199/26009
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png" group-title="[VIP] MALAYSIA",BOO
-https://ktpremium.com:443/N197NGF/8199/26011
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="[VIP] MALAYSIA",K-plus
-https://ktpremium.com:443/N197NGF/8199/26029
-#EXTINF:-1 group-title="[VIP] MALAYSIA",ASTRO PREMIER
-https://ktpremium.com:443/N197NGF/8199/25964
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="[VIP] MALAYSIA",HBO HD
-https://ktpremium.com:443/N197NGF/8199/916397
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="[VIP] MALAYSIA",HBO HD(sub)
-https://ktpremium.com:443/N197NGF/8199/26076
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="[VIP] MALAYSIA",HBO Hits
-https://ktpremium.com:443/N197NGF/8199/916401
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="[VIP] MALAYSIA",HBO Hits (sub)
-https://ktpremium.com:443/N197NGF/8199/26077
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="[VIP] MALAYSIA",HBO Signature (sub)
-https://ktpremium.com:443/N197NGF/8199/26080
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="[VIP] MALAYSIA",HBO Family
-https://ktpremium.com:443/N197NGF/8199/916400
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="[VIP] MALAYSIA",HBO Family (sub)
-https://ktpremium.com:443/N197NGF/8199/656642
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="[VIP] MALAYSIA",Thrill
-https://ktpremium.com:443/N197NGF/8199/26094
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="[VIP] MALAYSIA",WARNER TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
+https://ktpremium.com:443/N197NGF/8199/656643
+#EXTINF:-1 tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" group-title="MALAYSIA",Vasantham
+https://ktpremium.com:443/N197NGF/8199/25848
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MALAYSIA",WARNER TV
 https://ktpremium.com:443/N197NGF/8199/26097
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png" group-title="[VIP] MALAYSIA",Hits Movies HD
-https://ktpremium.com:443/N197NGF/8199/26102
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="[VIP] MALAYSIA",Cinemax
-https://ktpremium.com:443/N197NGF/8199/916398
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="[VIP] MALAYSIA",Cinemax (sub)
-https://ktpremium.com:443/N197NGF/8199/901187
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/showcase-movies-my.png" group-title="[VIP] MALAYSIA",Showcase Movie
-https://ktpremium.com:443/N197NGF/8199/916399
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="[VIP] MALAYSIA",Paramount Network 
-https://ktpremium.com:443/N197NGF/8199/901190
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="[VIP] MALAYSIA",CINEMA WORLD 
-https://ktpremium.com:443/N197NGF/8199/901191
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo.png" group-title="[VIP] MALAYSIA",SKY NEWS HD
-https://ktpremium.com:443/N197NGF/8199/26156
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="[VIP] MALAYSIA",Euronews
-https://ktpremium.com:443/N197NGF/8199/26158
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="[VIP] MALAYSIA",ABC AUSTRALIA
-https://ktpremium.com:443/N197NGF/8199/26160
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="[VIP] MALAYSIA",DW HD
-https://ktpremium.com:443/N197NGF/8199/26162
-#EXTINF:-1 tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="[VIP] MALAYSIA",FRANCE24 HD
-https://ktpremium.com:443/N197NGF/8199/26165
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="[VIP] MALAYSIA",ASTRO Awani HD
-https://ktpremium.com:443/N197NGF/8199/26167
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="[VIP] MALAYSIA",ASTRO Awani HD(B)
-https://ktpremium.com:443/N197NGF/8199/913137
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bernama-my.png" group-title="[VIP] MALAYSIA",Bernama News
-https://ktpremium.com:443/N197NGF/8199/26169
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-international-us.png" group-title="[VIP] MALAYSIA",CNN HD
-https://ktpremium.com:443/N197NGF/8199/26171
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/795px-BBC_News_HD_Logo.svg.png" group-title="[VIP] MALAYSIA",BBC News HD
-https://ktpremium.com:443/N197NGF/8199/26174
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_JAZEERA_ENGLISH.png" group-title="[VIP] MALAYSIA",Al-Jazzera HD
-https://ktpremium.com:443/N197NGF/8199/26177
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="[VIP] MALAYSIA",Bloomberg TV
-https://ktpremium.com:443/N197NGF/8199/26179
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png" group-title="[VIP] MALAYSIA",CCTV4 HD
-https://ktpremium.com:443/N197NGF/8199/26181
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="[VIP] MALAYSIA",CGTN
-https://ktpremium.com:443/N197NGF/8199/26192
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="[VIP] MALAYSIA",CGTN Documentary
-https://ktpremium.com:443/N197NGF/8199/694497
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" group-title="[VIP] MALAYSIA",Arirang
-https://ktpremium.com:443/N197NGF/8199/694473
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="[VIP] MALAYSIA",KBS World
-https://ktpremium.com:443/N197NGF/8199/870506
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-japan-jp.png" group-title="[VIP] MALAYSIA",NHK World
-https://ktpremium.com:443/N197NGF/8199/834387
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="[VIP] MALAYSIA",CNBC Asia HD
-https://ktpremium.com:443/N197NGF/8199/26195
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="[VIP] MALAYSIA",Love Nature
-https://ktpremium.com:443/N197NGF/8199/916402
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="[VIP] MALAYSIA",Global Trekker
-https://ktpremium.com:443/N197NGF/8199/916403
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="[VIP] MALAYSIA",NatGeo HD
-https://ktpremium.com:443/N197NGF/8199/26197
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="[VIP] MALAYSIA",NatGeo Wild HD
-https://ktpremium.com:443/N197NGF/8199/26205
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="[VIP] MALAYSIA",Discovery HD
-https://ktpremium.com:443/N197NGF/8199/26207
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title="[VIP] MALAYSIA",Discovery Asia
-https://ktpremium.com:443/N197NGF/8199/26209
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="[VIP] MALAYSIA",Animal Planet HD
-https://ktpremium.com:443/N197NGF/8199/26211
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="[VIP] MALAYSIA",History HD
-https://ktpremium.com:443/N197NGF/8199/26213
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="[VIP] MALAYSIA",ASTRO CERIA HD
-https://ktpremium.com:443/N197NGF/8199/26238
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="[VIP] MALAYSIA",Ceria (B)
-https://ktpremium.com:443/N197NGF/8199/912821
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-tutor-tv-sk-my.png" group-title="[VIP] MALAYSIA",Tutor TV SK
-https://ktpremium.com:443/N197NGF/8199/912560
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-tutor-tv-smk-my.png" group-title="[VIP] MALAYSIA",Tutor TV SMK
-https://ktpremium.com:443/N197NGF/8199/912561
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="[VIP] MALAYSIA",DreamWorks
-https://ktpremium.com:443/N197NGF/8199/912562
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="[VIP] MALAYSIA",ANIMAX
-https://ktpremium.com:443/N197NGF/8199/26240
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="[VIP] MALAYSIA",ANIPLUS HD
-https://ktpremium.com:443/N197NGF/8199/26242
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" group-title="[VIP] MALAYSIA", CBeebies
-https://ktpremium.com:443/N197NGF/8199/26247
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" group-title="[VIP] MALAYSIA",Moonbug Kids
-https://ktpremium.com:443/N197NGF/8199/26200
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="[VIP] MALAYSIA",CARTOON NTWK HD
-https://ktpremium.com:443/N197NGF/8199/26273
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="[VIP] MALAYSIA",NICKELODEON HD
-https://ktpremium.com:443/N197NGF/8199/26275
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="[VIP] MALAYSIA",NICK JR
-https://ktpremium.com:443/N197NGF/8199/26276
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" group-title="[VIP] MALAYSIA",Baby TV
-https://ktpremium.com:443/N197NGF/8199/26277
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="[VIP] MALAYSIA",AXN HD
-https://ktpremium.com:443/N197NGF/8199/26282
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="[VIP] MALAYSIA",HITS HD
-https://ktpremium.com:443/N197NGF/8199/26284
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="[VIP] MALAYSIA",TLC HD
-https://ktpremium.com:443/N197NGF/8199/26285
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food-network-uk.png" group-title="[VIP] MALAYSIA",FOOD NTWK HD
-https://ktpremium.com:443/N197NGF/8199/26286
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png" group-title="[VIP] MALAYSIA",Asian Food Network
-https://ktpremium.com:443/N197NGF/8199/916125
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" group-title="[VIP] MALAYSIA",C&I HD
-https://ktpremium.com:443/N197NGF/8199/26288
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_earth_uk.png" group-title="[VIP] MALAYSIA",BBC Earth HD
-https://ktpremium.com:443/N197NGF/8199/26290
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="[VIP] MALAYSIA",BBC Lifestyle
-https://ktpremium.com:443/N197NGF/8199/26291
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png" group-title="[VIP] MALAYSIA",HGTV HD
-https://ktpremium.com:443/N197NGF/8199/26294
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax-us.png" group-title="[VIP] MALAYSIA",DMAX HD
-https://ktpremium.com:443/N197NGF/8199/26296
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="[VIP] MALAYSIA",COMEDY CENTRAL
-https://ktpremium.com:443/N197NGF/8199/26297
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="[VIP] MALAYSIA",MTV live
-https://ktpremium.com:443/N197NGF/8199/26298
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="[VIP] MALAYSIA",Blue Ant Entertainment HD 
-https://ktpremium.com:443/N197NGF/8199/656633
-#EXTINF:-1 tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="[VIP] MALAYSIA",Blue Ant Extreme HD 
-https://ktpremium.com:443/N197NGF/8199/656639
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="[VIP] MALAYSIA",LIFETIME 
-https://ktpremium.com:443/N197NGF/8199/656641
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="[VIP] MALAYSIA",RTB sukmaindera
-https://ktpremium.com:443/N197NGF/8199/897360
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" group-title="[VIP] MALAYSIA",RTB GO
-https://ktpremium.com:443/N197NGF/8199/897365
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="[VIP] MALAYSIA",ANIMAX
-https://ktpremium.com:443/N197NGF/8199/933048
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="[VIP] MALAYSIA",GEM
-https://ktpremium.com:443/N197NGF/8199/933049
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="[VIP] MALAYSIA",RockAction
-https://ktpremium.com:443/N197NGF/8199/933050
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="[VIP] MALAYSIA",RockEntertainment
-https://ktpremium.com:443/N197NGF/8199/933051
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tamizh-in.png" group-title="MALAYSIA",ZEE Tamil HD
+https://ktpremium.com:443/N197NGF/8199/25949
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.png" group-title="MALAYSIA",Zee Cinema HD
+https://ktpremium.com:443/N197NGF/8199/911366
+
+
+
+
+
 
 
 ###################################################### SINGAPORE###########################################
@@ -3536,6 +3499,7 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia*
 http://starshare.live:8080/live/Pirates/Pirates/151211.ts
+
 
 
 
