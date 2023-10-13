@@ -3464,7 +3464,16 @@ https://ktpremium.com:443/N197NGF/8199/26097
 https://ktpremium.com:443/N197NGF/8199/25949
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.png" group-title="MALAYSIA",Zee Cinema HD
 https://ktpremium.com:443/N197NGF/8199/911366
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png" group-title="MALAYSIA",中天亚洲
+https://ktpremium.com:443/N197NGF/8199/25987
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="MALAYSIA",翡翠华丽台
+https://ktpremium.com:443/N197NGF/8199/25972
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="MALAYSIA",翡翠华丽台 (B)
+https://ktpremium.com:443/N197NGF/8199/912845
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png"group-title="MALAYSIA", 欢喜台 
+https://ktpremium.com:443/N197NGF/8199/25973
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png"group-title="MALAYSIA", 欢喜台  (B)
+https://ktpremium.com:443/N197NGF/8199/912847
 
 
 
