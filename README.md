@@ -191,6 +191,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 
 ###################################################################### TV NASIONAL ######################################################################
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
+
+#EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60292
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV NASIONAL",ANTV*
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -279,9 +284,14 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT START HD
 http://starshare.live:8080/live/Pirates/Pirates/151188.ts
+#EXTINF:-1 group-title="LIVE EVENT",MNC SPORT HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60357
 
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT STARS 2 HD
 http://starshare.live:8080/live/Pirates/Pirates/151187.ts
+
+#EXTINF:-1 group-title="LIVE EVENT",MNC SPORT 2 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60459
 
 #EXTINF:-1 group-title="LIVE EVENT",MNC START Sports 3 HD
 http://starshare.live:8080/live/Pirates/Pirates/151181.ts
@@ -398,6 +408,14 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23405
 
 
 ################################################### CHAMPION ###################################################
+
+#EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="CHAMPION", Spotv 2 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60482
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-kr.png" group-title="CHAMPION", SPOTV HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60448
+
+
+
 #EXTINF:-1 group-title="CHAMPION" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",Champions League 1
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/753
 #EXTINF:-1 group-title="CHAMPION" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",Champions League 2
@@ -2549,28 +2567,6 @@ https://ktpremium.com:443/N197NGF/8199/932610
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="OLAH RAGA", ASTRO ARENA HD
-https://ktpremium.com:443/N197NGF/8199/26308
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="OLAH RAGA", ASTRO CRICKET
-https://ktpremium.com:443/N197NGF/8199/26309
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="OLAH RAGA", ASTRO ASSP (VIP)
-https://ktpremium.com:443/N197NGF/8199/26312
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="OLAH RAGA",ASTRO ASSP FHD
-https://ktpremium.com:443/N197NGF/8199/694537
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title="OLAH RAGA", ASTRO ASSP 2 (VIP)
-https://ktpremium.com:443/N197NGF/8199/26313
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title="OLAH RAGA", ASTRO ASSP 2 FHD
-https://ktpremium.com:443/N197NGF/8199/694538
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title="OLAH RAGA", ASTRO ASSP 3 (VIP)
-https://ktpremium.com:443/N197NGF/8199/26314
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title="OLAH RAGA", ASTRO ASSP 3 FHD
-https://ktpremium.com:443/N197NGF/8199/694540
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title="OLAH RAGA", ASTRO ASSP 4 (VIP)
-https://ktpremium.com:443/N197NGF/8199/26315
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title="OLAH RAGA", ASTRO ASSP 4 FHD
-https://ktpremium.com:443/N197NGF/8199/694542
 #EXTINF:-1 tvg-logo="https://zasstv.com/wp-content/uploads/2020/04/Dubai-Sports-2.jpg" group-title="OLAH RAGA",[B] DUBAI SPORTS 2(FHD)
 https://ktpremium.com:443/N197NGF/8199/623472
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/ectheheyther.png" group-title="OLAH RAGA",[B] DUBAI SPORTS 3(FHD)
@@ -2685,7 +2681,59 @@ https://ktpremium.com:443/N197NGF/8199/694544
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="SUPER SPORT", ASTRO ARENA HD
+https://ktpremium.com:443/N197NGF/8199/26308
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png"  group-title="SUPER SPORT", Astro Arena 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#http://1.yurend.xyz/dash-wv/linear/2604/default_ott.mpd
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="SUPER SPORT", ASTRO CRICKET
+https://ktpremium.com:443/N197NGF/8199/26309
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SUPER SPORT", ASTRO ASSP (VIP)
+https://ktpremium.com:443/N197NGF/8199/26312
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SUPER SPORT",ASTRO ASSP FHD
+https://ktpremium.com:443/N197NGF/8199/694537
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SUPER SPORT", ASTRO ASSP 2 (VIP)
+https://ktpremium.com:443/N197NGF/8199/26313
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SUPER SPORT", ASTRO ASSP 2 FHD
+https://ktpremium.com:443/N197NGF/8199/694538
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title="OLAH RAGA", ASTRO ASSP 3 (VIP)
+https://ktpremium.com:443/N197NGF/8199/26314
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SUPER SPORT", ASTRO ASSP 3 FHD
+https://ktpremium.com:443/N197NGF/8199/694540
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SUPER SPORT", ASTRO ASSP 4 (VIP)
+https://ktpremium.com:443/N197NGF/8199/26315
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SUPER SPORT", ASTRO ASSP 4 FHD
+https://ktpremium.com:443/N197NGF/8199/694542
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SUPER SPORT",Astro SuperSport
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SUPER SPORT",Astro SuperSport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SUPER SPORT",Astro SuperSport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SUPER SPORT",Astro SuperSport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="SUPER SPORT",MY Astro Arena
+http://starshare.live:8080/live/Pirates/Pirates/143021.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png"  group-title="SUPER SPORT",MY Astro Arena 2
+http://starshare.live:8080/live/Pirates/Pirates/143022.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SUPER SPORT", Super Sport
+http://kuchini.site:8080/dooby1312/b244f7ab/146068
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SUPER SPORT", Super Sport 2
+http://kuchini.site:8080/dooby1312/b244f7ab/157556
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SUPER SPORT", Super Sport 3
+http://kuchini.site:8080/dooby1312/b244f7ab/157557
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SUPER SPORT", Super Sport 4
+http://kuchini.site:8080/dooby1312/b244f7ab/157558
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="SUPER SPORT", SUPERSPORT Action 
 https://ktpremium.com:443/N197NGF/8199/932575
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="SUPER SPORT", SUPERSPORT BLITZ 
@@ -2800,6 +2848,9 @@ http://103.120.172.74:5400
 
 #EXTINF:-1 group-title="SPORT",Soccer Channel
 http://starshare.live:8080/live/Pirates/Pirates/151186.ts
+
+#EXTINF:-1 group-title="SPORT",SOCCER CHANNEL HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQ5V0PL/sony1x-big-copy.png" group-title="SPORT", SONY SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
