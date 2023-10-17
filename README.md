@@ -275,6 +275,12 @@ http://starshare.live:8080/live/Pirates/Pirates/151194.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SpoTV 2
 http://starshare.live:8080/live/Pirates/Pirates/151193.ts
 
+#EXTINF:-1 group-title="LIVE EVENT",Soccer Channel
+http://starshare.live:8080/live/Pirates/Pirates/151186.ts
+
+#EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS 2 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg",BWF LA LIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/hls/index.m3u8
 
@@ -2879,12 +2885,6 @@ http://103.120.172.74:4700
 http://103.120.172.74:4800
 #EXTINF:-1 group-title="SPORT" tvg-logo="",Sony Sport1
 http://103.120.172.74:5400
-
-#EXTINF:-1 group-title="SPORT",Soccer Channel
-http://starshare.live:8080/live/Pirates/Pirates/151186.ts
-
-#EXTINF:-1 group-title="SPORT",SOCCER CHANNEL HD
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQ5V0PL/sony1x-big-copy.png" group-title="SPORT", SONY SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
