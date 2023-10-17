@@ -194,6 +194,15 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI
+http://www.goldentv.tech:25461/171023/171023/25665
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNCTV HD
+http://www.goldentv.tech:25461/171023/171023/25666
+
+#EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV
+http://www.goldentv.tech:25461/171023/171023/25667
+
 #EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60292
 
@@ -203,17 +212,29 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV NASIONAL",ANTV HD
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV NASIONAL",INDOSIAR
+http://www.goldentv.tech:25461/171023/171023/25686
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfpnYLWK/indosiar.jpg" group-title="TV NASIONAL",Indosiar HD
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV NASIONAL",INDOSIAR HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV NASIONAL",INDOSIAR*
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png",SCTV
+http://www.goldentv.tech:25461/171023/171023/25688
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png",SCTV HD
 http://nonton.wap.sh/id/009.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans-TV
+http://www.goldentv.tech:25461/171023/171023/25684
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
 http://starshare.live:8080/live/Pirates/Pirates/151256.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV NASIONAL",Trans-7*
+http://www.goldentv.tech:25461/171023/171023/25681
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhcpbBZb/TRANS-7.jpg" group-title="TV NASIONAL",Trans7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
@@ -227,6 +248,9 @@ https://ktpremium.com:443/N197NGF/8199/73609
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 http://tvnid.x10.mx/vidio/master-3.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",I-NEWS
+http://www.goldentv.tech:25461/171023/171023/25668
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="TV NASIONAL", Nusantaratv
 https://ktpremium.com:443/N197NGF/8199/34721
