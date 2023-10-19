@@ -96,8 +96,9 @@ http://starshare.live:8080/live/Pirates/Pirates/151245.ts
 
 
 
-#################################################### TV INDO ###################################################
 
+
+#################################################### TV INDO ###################################################
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV INDO", RCTI
@@ -240,8 +241,6 @@ http://tvnid.x10.mx/vidio/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="TV NASIONAL", Nusantaratv
 https://ktpremium.com:443/N197NGF/8199/34721
 
-
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title="TV NASIONAL", TV9 NU
 https://ktpremium.com:443/N197NGF/8199/73629
 
@@ -251,6 +250,9 @@ https://ktpremium.com:443/N197NGF/8199/901194
 https://ktpremium.com:443/N197NGF/8199/73614
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="TV NASIONAL", Berita Satu World
 https://ktpremium.com:443/N197NGF/8199/886796
+
+
+
 
 
 
@@ -364,10 +366,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/ind
 
 
 
-
-
-
-
 ########################################################### ASIAN GAMES #####################################################################
 
 
@@ -401,9 +399,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23405
 
 
 
-
-
-
 ################################################### CHAMPION ###################################################
 
 #EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="CHAMPION", Spotv 2 HD
@@ -430,7 +425,6 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 #KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
-
 #EXTINF:-1 group-title="CHAMPION",Champion 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
@@ -455,7 +449,6 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 #KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
 https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
 
-
 #EXTINF:-1 group-title="CHAMPION" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg",PremierTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
@@ -474,7 +467,11 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 
 
 
+
+
 ################################################## LIGA EROPA ###################################################
+
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png" group-title="LIGA EROPA", EUROSPORT HD
 https://ktpremium.com:443/N197NGF/8199/26324
 #EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",LIGA INGGRIS-BEIN SPORT 
@@ -509,6 +506,9 @@ http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126935
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"?,SKY SPORTS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d
+
+
+
 
 
 #################################################### TV DAERAH ###################################################
@@ -638,6 +638,8 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 
 
 
+
+
 ################################################### LIFE STYLE ##############################################
 
 
@@ -739,8 +741,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="LIFE STYLE" tvg-logo="https://i.imgur.com/AKa1X9d.png",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
-
-
 
 
 
@@ -1893,8 +1893,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 
 
-
-
 ##################################################### LAGU #############################################
 
 
@@ -2195,6 +2193,8 @@ https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
 
 
 
+
+
 ##################################################### NEWS #############################################
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503416_tvchannels_v1.jpg",AL-JAZERA
@@ -2361,6 +2361,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213641&extensio
 
 
 ####################################################### BEIN SPORT ################################################
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORT",BEIN SPORT
 http://starshare.live:8080/live/Pirates/Pirates/151182.ts
 
@@ -2684,7 +2686,7 @@ https://ktpremium.com:443/N197NGF/8199/694544
 
 
 
-
+#################################################### SUPER SPORT ###################################################
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491351944/6593.png" group-title="SUPER SPORT",Astro | beIN Sports 1
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485570
@@ -2718,7 +2720,6 @@ https://ktpremium.com:443/N197NGF/8199/26308
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #http://1.yurend.xyz/dash-wv/linear/2604/default_ott.mpd
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="SUPER SPORT", ASTRO CRICKET
 https://ktpremium.com:443/N197NGF/8199/26309
@@ -2841,6 +2842,10 @@ http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489555
 
 
 
+
+
+
+
 ################################################## SPORT ##################################################
 
 
@@ -2872,7 +2877,6 @@ http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", Horizon Sport
 http://210.210.155.35/uq2663/h/h24/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Horizon_Sport
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2942,6 +2946,11 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298577
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298578
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+
+
+
+
+
 
 
 ######################################################## SPORTS 2 ##################################################
@@ -3170,9 +3179,10 @@ http://starshare.live:8080/live/Pirates/Pirates/151230.ts
 
 
 
+
+
+
 ##################################################### INDIA #############################################
-
-
 
 
 #EXTINF:-1 group-title="INDIA",Colors
@@ -3869,7 +3879,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151207.ts
 
 
 
-
+#################################################### JAPAN ###################################################
 
 
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" group-title="JAPAN", Golf Network
@@ -3925,7 +3935,7 @@ https://ktpremium.com:443/N197NGF/8199/227390
 
 
 
-
+#################################################### THAILAND ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png" group-title="THAILAND",Channel 8 Thailand
 https://ktpremium.com:443/N197NGF/8199/227565
@@ -3961,6 +3971,8 @@ https://ktpremium.com:443/N197NGF/8199/227574
 
 
 
+
+#################################################### VIETNAM ###################################################
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="VIETNAM",Animax
@@ -4094,7 +4106,6 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
 
 #EXTINF:-1  group-title="INTERNATIONAL TV", KANAL D
 http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
