@@ -101,7 +101,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151245.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV INDO", RCTI
-https://ktpremium.com:443/N197NGF/8199/73606
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNC TV
 
@@ -192,16 +192,14 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 ###################################################################### TV NASIONAL ######################################################################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI HD
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
+https://ktpremium.com:443/N197NGF/8199/73606
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI
-http://www.goldentv.tech:25461/171023/171023/25665
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNCTV HD
-http://www.goldentv.tech:25461/171023/171023/25666
+
 
 #EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV
-http://www.goldentv.tech:25461/171023/171023/25667
+
 
 #EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60292
@@ -212,36 +210,26 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV NASIONAL",ANTV HD
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV NASIONAL",INDOSIAR
-http://www.goldentv.tech:25461/171023/171023/25686
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfpnYLWK/indosiar.jpg" group-title="TV NASIONAL",Indosiar HD
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV NASIONAL",INDOSIAR*
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png",SCTV
-http://www.goldentv.tech:25461/171023/171023/25688
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png",SCTV HD
 http://nonton.wap.sh/id/009.m3u8
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans-TV
-http://www.goldentv.tech:25461/171023/171023/25684
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
 http://starshare.live:8080/live/Pirates/Pirates/151256.ts
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV NASIONAL",Trans-7*
-http://www.goldentv.tech:25461/171023/171023/25681
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV NASIONAL",Trans-7
+https://ktpremium.com:443/N197NGF/8199/73609
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhcpbBZb/TRANS-7.jpg" group-title="TV NASIONAL",Trans7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV NASIONAL",Trans 7*
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-https://ktpremium.com:443/N197NGF/8199/73609
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png", Mentari VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -249,20 +237,18 @@ https://ktpremium.com:443/N197NGF/8199/73609
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 http://tvnid.x10.mx/vidio/master-3.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",I-NEWS
-http://www.goldentv.tech:25461/171023/171023/25668
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="TV NASIONAL", Nusantaratv
 https://ktpremium.com:443/N197NGF/8199/34721
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="TV NASIONAL", Berita Satu
-https://ktpremium.com:443/N197NGF/8199/73614
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title="TV NASIONAL", TV9 NU
 https://ktpremium.com:443/N197NGF/8199/73629
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" group-title="TV NASIONAL", Citra Dangdut
 https://ktpremium.com:443/N197NGF/8199/901194
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="TV NASIONAL", Berita Satu
+https://ktpremium.com:443/N197NGF/8199/73614
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="TV NASIONAL", Berita Satu World
 https://ktpremium.com:443/N197NGF/8199/886796
 
@@ -274,6 +260,15 @@ https://ktpremium.com:443/N197NGF/8199/886796
 http://starshare.live:8080/live/Pirates/Pirates/151194.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SpoTV 2
 http://starshare.live:8080/live/Pirates/Pirates/151193.ts
+
+#EXTINF:-1 group-title="LIVE EVENT",BADMINTON COURT 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT",BADMINTON COURT 2
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8157491&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=454F1BEB718FDB49FB8F1739E10FA572&ups_client_netip=2a09:bac1:3480:18::1f1:1bc&ups_ts=1697620321&ups_userid=0&utid=defaultCnaLive20180425&vid=8157491_8093531&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B7a43b6a78be36f64df41c9bf96575ceb&cug=10&t=e03ef600dcd9672&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000
+
+#EXTINF:-1 group-title="LIVE EVENT",BADMINTON COURT 3
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8157492&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=C2EF39DAF7B763C36E31F7CCA30E1C07&ups_client_netip=2a09:bac1:3480:18::1f1:1bc&ups_ts=1697620425&ups_userid=0&utid=defaultCnaLive20180425&vid=8157492_8093532&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=Bff3fbb37f3934f49bce76f709d0958d7&cug=10&t=ebb74eb8339ae08&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
 
 #EXTINF:-1 group-title="LIVE EVENT",Soccer Channel
 http://starshare.live:8080/live/Pirates/Pirates/151186.ts
@@ -295,14 +290,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",LIVE VOLLY MOJI TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE ONLY2
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378691
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",BTV NEWS
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE ONLY7
-http://muka03.wanicelife.com:8880/3mms120038/52759565/59233
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE ONLY8
 https://admdn1.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE ONLY11
@@ -383,32 +370,12 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/ind
 
 ########################################################### ASIAN GAMES #####################################################################
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", 785 Asian Games Hangzhou 2023
-https://ktpremium.com:443/N197NGF/8199/932288
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", 786 Asian Games Hangzhou 2023
-https://ktpremium.com:443/N197NGF/8199/932289
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", 787 Asian Games Hangzhou 2023
-https://ktpremium.com:443/N197NGF/8199/932290
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", 788 Asian Games Hangzhou 2023
-https://ktpremium.com:443/N197NGF/8199/932471
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", 789 Asian Games Hangzhou 2023
-https://ktpremium.com:443/N197NGF/8199/932472
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", 790 Asian Games Hangzhou 2023
-https://ktpremium.com:443/N197NGF/8199/932473
+
 #EXTINF:-1 group-title="ASIAN GAMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ53h24DAKwqZvGKFI4miTP6YOtXfmCNfWg&usqp=CAU",Bayon TV
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 
 #EXTINF:-1, group-title="ASIAN GAMES", BBTV Channel 7
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23853
-
-#EXTINF:-1 group-title="ASIAN GAMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png",BTV Kamboja
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-
-#EXTINF:-1, group-title="ASIAN GAMES", GMM25
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146729
-
-#EXTINF:-1, group-title="ASIAN GAMES", NBT TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23886
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzs1KfV1r0_K4uIGZXjDUXPP-rXEiT7BgQw&usqp=CAU" group-title="ASIAN GAMES", PPTV HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281639
@@ -526,10 +493,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="LIGA EROPA",LIGA INGGRIS-HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 3
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19042/index.m3u8
 
@@ -574,7 +537,7 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 group-title="TV DAERAH",Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alinear.id/assets_web/images/article/daai-06_parabolakucom.jpg" group-title="TV NASIONAL", DAAI TV
+#EXTINF:-1 tvg-logo="https://www.alinear.id/assets_web/images/article/daai-06_parabolakucom.jpg" group-title="TV DAERAH", DAAI TV
 https://ktpremium.com:443/N197NGF/8199/921746
 
 #EXTVLCOPT:http-user_agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
@@ -603,9 +566,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEliPldyuuJFdapnzelGY3xc-7_39bjfpfMAHRCvP7PVZf8W4JZvoDA97T1vvJd7EhLjG1CmZqeKMk0MaN153CDpu4uJrMNeuX6Tamoj4UVcnPgSyvGZrwL5F63At9kWffWZJ2pnR6oiKvG0oi5rlOP4cjEdHOEuvwFS7EHV3VoZk4eLDlqfWYXkoOqQ/s1600/nusantara.jpg",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFqmE7vgzk_M1TO39UFbayiaVrBgVMq5tojQm973y791wakO6mj2YqmEKPURmVFtQvrgGZnoO9OcPZjegZKW4TSW0EOH-nbGAL3EK3hu5AMpFvkSc5ZGHzuhQ1xFXadLMhMdbjNDYmggNUO_yzRyohk-CKeu5Mya1D858M-vNLsOdMcH-8z1yvaahvA/s1600/640px-Logo-saktitv%20%281%29.jpg",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
@@ -2721,6 +2681,36 @@ https://ktpremium.com:443/N197NGF/8199/694544
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491351944/6593.png" group-title="SUPER SPORT",Astro | beIN Sports 1
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485570
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SUPER SPORT",Astro | beIN Sports 2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485571
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350506/6592.png" group-title="SUPER SPORT",Astro | beIN Sports 3
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485572
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/320px-SPOTV_logo.svg.png" group-title="SUPER SPORT",Astro | SPOTV
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485574
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641921495-.png" group-title="SUPER SPORT",Astro | SPOTV 2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485575
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SUPER SPORT",Astro Super Sports ARENA HD
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485563
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SUPER SPORT",Astro Super Sports EUROSPORT HD
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485568
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SUPER SPORT",Astro Super Sports 1 HD
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485564
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SUPER SPORT",Astro Super Sports 2 HD
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485565
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SUPER SPORT",Astro Super Sports 3 HD
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485566
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SUPER SPORT",Astro Super Sports 4 HD
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485567
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="SUPER SPORT",Astro SuperSport 5
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/485569
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="SUPER SPORT", ASTRO ARENA HD
 https://ktpremium.com:443/N197NGF/8199/26308
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png"  group-title="SUPER SPORT", Astro Arena 1
@@ -2728,6 +2718,7 @@ https://ktpremium.com:443/N197NGF/8199/26308
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #http://1.yurend.xyz/dash-wv/linear/2604/default_ott.mpd
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="SUPER SPORT", ASTRO CRICKET
 https://ktpremium.com:443/N197NGF/8199/26309
@@ -2776,30 +2767,59 @@ http://kuchini.site:8080/dooby1312/b244f7ab/157557
 http://kuchini.site:8080/dooby1312/b244f7ab/157558
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="SUPER SPORT", SUPERSPORT Action 
 https://ktpremium.com:443/N197NGF/8199/932575
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png" group-title="SUPER SPORT",SUPERSPORT Action2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489562
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="SUPER SPORT", SUPERSPORT BLITZ 
 https://ktpremium.com:443/N197NGF/8199/932576
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-blitz.png" group-title="SUPER SPORT",SUPERSPORT Blitz2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489556
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="SUPER SPORT", SUPERSPORT CRICKET 
 https://ktpremium.com:443/N197NGF/8199/932577
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="SUPER SPORT",SUPERSPORT Cricket2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489560
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SUPER SPORT", SUPERSPORT FOOTBALL 
 https://ktpremium.com:443/N197NGF/8199/932578
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="SUPER SPORT",SS Football
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489558
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="SUPER SPORT", SUPERSPORT Golf 
 https://ktpremium.com:443/N197NGF/8199/932579
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png" group-title="SUPER SPORT",SUPER SPORT Golf2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489561
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png" group-title="SUPER SPORT", SUPERSPORT GRANDSTAND 
 https://ktpremium.com:443/N197NGF/8199/932580
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png" group-title="SUPER SPORT",SUPER SPORT Grandstand
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489565
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SUPER SPORT", SUPERSPORT LALIGA 
 https://ktpremium.com:443/N197NGF/8199/932581
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTXteWZfiVmFCvR0Oncaf_KYuVT7dWbcjQNTHNMNTZP3tFtuqw3IF2EaB3MZQq2lK5g1KHPdxFO4_Qa2WXgZai84HG5fi6LC2YWVsj4MJ3HepW_r9SfSVg5i57KhfWqWNBuUnhtsVuYOp0lNpJBFC82MZbFepH9lZCbJm-vl5qo3W_HgJ0EmbRtsZr/s802/lig.png" group-title="SUPER SPORT",SUPER SPORT Laliga2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489563
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="SUPER SPORT", SUPERSPORT maximo 1 
 https://ktpremium.com:443/N197NGF/8199/932582
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="SUPER SPORT", SUPERSPORT MOTORSPORT 
 https://ktpremium.com:443/N197NGF/8199/932583
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SUPER SPORT",SUPER SPORT Motorsport2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489566
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-play.png" group-title="SUPER SPORT",SUPER SPORT Play
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489564
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SUPER SPORT", SUPERSPORT PREMIER LEAGUE 
 https://ktpremium.com:443/N197NGF/8199/932584
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="SUPER SPORT",SUPER SPORT Premier League2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489557
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="SUPER SPORT", SUPERSPORT PSL 
 https://ktpremium.com:443/N197NGF/8199/932585
+#EXTINF:-1 tvg-logo="https://www.multichoice.com/media/1309/mc_logo-supersport_prep.png" group-title="SUPER SPORT",SUPER SPORT PSL2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489567
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="SUPER SPORT", SUPERSPORT RUGBY 
 https://ktpremium.com:443/N197NGF/8199/932586
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png" group-title="SUPER SPORT",SUPER SPORT Rugby2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489568
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="SUPER SPORT", SUPERSPORT TENNIS 
 https://ktpremium.com:443/N197NGF/8199/932587
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-tennis-live.png" group-title="SUPER SPORT",SUPER SPORT Tennis2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489559
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="SUPER SPORT", SUPERSPORT VARIETY 1 
 https://ktpremium.com:443/N197NGF/8199/932588
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="SUPER SPORT", SUPERSPORT VARIETY 2 
@@ -2809,6 +2829,15 @@ https://ktpremium.com:443/N197NGF/8199/932590
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="SUPER SPORT", SUPERSPORT VARIETY 4 
 https://ktpremium.com:443/N197NGF/8199/932591
 
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png" group-title="SUPER SPORT",SUPER SPORT Variety 1
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489552
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png" group-title="SUPER SPORT",SUPER SPORT Variety 2
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489553
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3.png" group-title="SUPER SPORT",SUPER SPORT Variety 3
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489554
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png" group-title="SUPER SPORT",SUPER SPORT Variety 4
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/489555
 
 
 
