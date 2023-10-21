@@ -28,6 +28,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151249.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg", ANTV SYAFIQ
 http://210.210.155.35/qwr9ew/s/s07/index3.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=antv
 
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",INDOSIAR VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
