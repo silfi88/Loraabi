@@ -22,8 +22,8 @@ http://starshare.live:8080/live/Pirates/Pirates/151260.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg", ANTV HD
 http://starshare.live:8080/live/Pirates/Pirates/151249.ts
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",INDOSIAR VIDIO
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",INDOSIAR HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV HD
 https://vd.iptvgo.workers.dev/hls/play.m3u8?id=204
@@ -37,6 +37,10 @@ http://103.30.87.238:443/caknur/segopecel/5622
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://vd.iptvgo.workers.dev/hls/play.m3u8?id=8237
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",I-NEWS
 http://starshare.live:8080/live/Pirates/Pirates/151259.ts
@@ -93,23 +97,44 @@ http://starshare.live:8080/live/Pirates/Pirates/151245.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV INDO", RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV INDO", RCTI HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNC TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/QtGZFgsb/20230910-120126.jpg",GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="TV INDO" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg",ANTV
+#EXTINF:-103 group-title="TV INDO" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60292
 
-#EXTINF:-1 group-title="TV INDO" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg",ANTV HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV INDO",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV INDO",ANTV HD
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDO",Indosiar HD
+https://cdnkbl5.indihometv.com/ateme/dash/indosiar/manifest.mpd
 
+#EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
+http://starshare.live:8080/live/Pirates/Pirates/151256.ts
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV INDO", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV INDO", TRANS-TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV INDO", TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/DyMXtm7h/20230910-115122.jpg",TRANS 7
@@ -121,8 +146,19 @@ http://starshare.live:8080/live/Pirates/Pirates/151262.ts
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 VIDIO
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|&User-Agent=YoVideo/1.7
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gTbQGGj/trans-7-tv.png" group-title="TV INDO", Trans 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV INDO",Trans 7*
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="TV INDO", TVONE HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png",Metro-TV
@@ -134,7 +170,11 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfNgG1ZV/20230910-140923.jpg" group-title="TV INDO",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Jf14Bh/I-NEWS.png" group-title="TV INDO", iNews
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/768px-Logo_of_CNN_Indonesia.svg.png",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
@@ -142,67 +182,22 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" group-title="TV INDO",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
-
-
 #EXTINF:-1 group-title="TV INDO" tvg-logo=",Jakarta Globe
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkto3In.png" group-title="TV INDO",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vH5w53N/berita.jpg" group-title="TV INDO",BERITA SATU
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="TV INDO", CNN Indonesia*
+http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDKyDXD/tvri.png" group-title="TV INDO",TVRI
+https://nonton.site:8443/live/ekos/7483/36.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="TV INDO",TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-
-
-
-###################################################################### TV NASIONAL ######################################################################
-
-
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNCTV HD
-
-
-#EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV
-
-
-#EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV HD
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60292
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV NASIONAL",ANTV*
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV NASIONAL",ANTV HD
-http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
-http://starshare.live:8080/live/Pirates/Pirates/151256.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhcpbBZb/TRANS-7.jpg" group-title="TV NASIONAL",Trans7 HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV NASIONAL",Trans 7*
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -210,22 +205,27 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 
 ################################################################## LIVE EVENT ################################################################################
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="LIVE EVENT",SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="LIVE EVENT",SpoTV
 http://starshare.live:8080/live/Pirates/Pirates/151194.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SpoTV 2
 http://starshare.live:8080/live/Pirates/Pirates/151193.ts
 
+#EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS 2 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
+
 #EXTINF:-1 group-title="LIVE EVENT",BADMINTON COURT 1
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="LIVE EVENT",Soccer Channel
 http://starshare.live:8080/live/Pirates/Pirates/151186.ts
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, BWF 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT", BWF 3
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg",BWF LA LIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/hls/index.m3u8
@@ -233,11 +233,26 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/hls
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg",BWF
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/hls/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, COURT 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="LIVE EVENT",LIGA BRI  1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="LIVE EVENT",lIGA BRI 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
- 
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="LIVE EVENT",LIGA BRI 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="LIVE EVENT",MOTO GP 1
 https://sportsleading.online/live/stream_moto.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="LIVE EVENT",MOTO GP 2
@@ -246,6 +261,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",FORMULA 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
 
+#EXTINF:-1 group-title="LIVE EVENT",MNC SPORT HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60357
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT START HD
 http://starshare.live:8080/live/Pirates/Pirates/151188.ts
 
@@ -264,6 +281,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="LIVE EVENT",PRO LIGA
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",EPL DAZN 1
 http://assista.pro:80/0333686557/Vilamariante1/285071
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",EPL DAZN 2
@@ -272,8 +292,6 @@ http://assista.pro:80/0333686557/Vilamariante1/284984
 http://assista.pro:80/0333686557/Vilamariante1/284957
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",LA LIGA 5
 http://assista.pro:80/0333686557/Vilamariante1/284958
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIVE EVENT",LIVE 1
@@ -326,7 +344,6 @@ https://production-drm-vidio-com-event-4.akamaized.net/out/v1/f5e1e4dc70e54d2eb4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="LIVE EVENT", LIVE 15
 #KODIPROP:inputstream.adaptive.license_type=clearkey
