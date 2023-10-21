@@ -310,17 +310,17 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="LIVE EVENT",MOTO GP 3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, BWF 1
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, BWF 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT", BWF 3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, COURT 1
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, COURT 2
 https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8157491&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=454F1BEB718FDB49FB8F1739E10FA572&ups_client_netip=2a09:bac1:3480:18::1f1:1bc&ups_ts=1697620321&ups_userid=0&utid=defaultCnaLive20180425&vid=8157491_8093531&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B7a43b6a78be36f64df41c9bf96575ceb&cug=10&t=e03ef600dcd9672&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, COURT 3
 https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8157492&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=C2EF39DAF7B763C36E31F7CCA30E1C07&ups_client_netip=2a09:bac1:3480:18::1f1:1bc&ups_ts=1697620425&ups_userid=0&utid=defaultCnaLive20180425&vid=8157492_8093532&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=Bff3fbb37f3934f49bce76f709d0958d7&cug=10&t=ebb74eb8339ae08&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
 
 --------------------------------------------------------LIVE ONLY--------------------------------------------------------------
@@ -382,8 +382,6 @@ https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a96
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="LIVE EVENT", LIVE 17
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3eed2a9bd7a7f4aaf2709e960b4353ae:3913a253cf7557484b88223418a97815
@@ -393,7 +391,6 @@ https://production-drm-vidio-com-event-9.akamaized.net/out/v1/aaf192224b5d4f6d92
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="LIVE EVENT", LIVE 19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
