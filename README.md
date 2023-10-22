@@ -107,6 +107,9 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
+#EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNCTV HD
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/165054
+
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/QtGZFgsb/20230910-120126.jpg",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -176,6 +179,9 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" group-title="TV INDO",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+
+#EXTINF:-1,ID: MNC News
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/165058
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo=",Jakarta Globe
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
@@ -365,11 +371,22 @@ http://starshare.live:8080/live/Pirates/Pirates/151193.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swHhC1c/APPLE.png" group-title="LIVE EVENT", APPLE+ 1 
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1316356&extension=ts&play_token=gRGVioq3N9
 
+#EXTINF:-1 group-title="LIVE EVENT",Soccer Channel
+http://starshare.live:8080/live/Pirates/Pirates/151186.ts
+#EXTINF:-1 group-title="LIVE EVENT",Soccer Channel
+http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60459.ts
+
 #EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS 2 HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
 
-#EXTINF:-1 group-title="LIVE EVENT",Soccer Channel
-http://starshare.live:8080/live/Pirates/Pirates/151186.ts
+#EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS
+http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60357.ts
+
+#EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS 2
+http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60480.ts
+
+#EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS 3
+http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60411.ts
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="LIVE EVENT",LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -423,15 +440,16 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension
 
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT START HD
 http://starshare.live:8080/live/Pirates/Pirates/151188.ts
-
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157589
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT STARS 2 HD
 http://starshare.live:8080/live/Pirates/Pirates/151187.ts
-
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298548
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT 2 HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60459
-
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298548
 #EXTINF:-1 group-title="LIVE EVENT",MNC START Sports 3 HD
 http://starshare.live:8080/live/Pirates/Pirates/151181.ts
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298549
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
@@ -2264,6 +2282,14 @@ http://starshare.live:8080/live/Pirates/Pirates/151224.ts
 
 #EXTINF:-1 group-title="SPORTS", FOX SPORTS mx
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",Golf Channel
+http://kuchini.site:8080/mantul/2029fde156/279613
+#EXTINF:-1 group-title="SPORTS", GOLF+
+http://kuchini.site:8080/mantul/2029fde156/1934
+http://kuchini.site:8080/outputofflinechecker/pass/264
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORTS", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORTS", HUB SPORT PREMIER 2
