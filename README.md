@@ -498,7 +498,7 @@ https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b4
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="LIGA EROPA",LA LIGA 2
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/44473
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIVE EROPA",LIGA ITALY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIGA EROPA",LIGA ITALY HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY
@@ -1063,6 +1063,25 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/nhz7FjVv/20230520-200212.png",Rainbow Squad
 https://i.mjh.nz/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 1
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 2
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 3
+https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 4
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 5
+https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 6
+https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 7
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 8
+https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" group-title="KIDS", Retro Toons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1145,11 +1164,6 @@ https://karlfazreen.github.io/playlist/hbolivestream/hbomax2.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/syRzpPv/HBO-Max-Logo-Old-svg.png",HBO MAX 3
 https://karlfazreen.github.io/playlist/hbolivestream/hbomax3.m3u8
 
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/syRzpPv/HBO-Max-Logo-Old-svg.png",HBO MAX 9
-https://karlfazreen.github.io/playlist/hbolivestream/hbomax9.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/syRzpPv/HBO-Max-Logo-Old-svg.png",HBO MAX 10
-https://karlfazreen.github.io/playlist/hbolivestream/hbomax10.m3u8
-
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png",SKY STORE PREMIERE 1
 https://karlfazreen.github.io/playlist/skystore/sky1.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png",SKY STORE PREMIERE 2
@@ -1197,60 +1211,39 @@ https://karlfazreen.github.io/playlist/skystore/sky21.m3u8
 
 
 
-
-############################################## MOVIE ####################################
-
-#EXTINF:-1 group-title="MOVIE" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES HD
-http://starshare.live:8080/live/Pirates/Pirates/151199.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE", CINEMAX HD
-http://starshare.live:8080/live/Pirates/Pirates/151197.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE", FMN
-http://starshare.live:8080/live/Pirates/Pirates/151223.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE",Indonesia Movie Channels
-http://starshare.live:8080/live/Pirates/Pirates/151184.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MOVIE", Warner TV
-http://starshare.live:8080/live/Pirates/Pirates/151215.ts
-#EXTINF:-1 group-title="CINEMA", WOWOW Sinema
-https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
-
-
-
-
-
-
 ############################################## MOVIES ####################################
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN HD
 http://starshare.live:8080/live/Pirates/Pirates/151209.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", BBC Cbeebies HD
 http://starshare.live:8080/live/Pirates/Pirates/151239.ts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES HD
+http://starshare.live:8080/live/Pirates/Pirates/151199.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", CINEMAX HD
+http://starshare.live:8080/live/Pirates/Pirates/151197.ts
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="MOVIES",DISCOVERY Channel
 http://starshare.live:8080/live/Pirates/Pirates/151204.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", FMN
+http://starshare.live:8080/live/Pirates/Pirates/151223.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", IDX
 http://starshare.live:8080/live/Pirates/Pirates/151240.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",  Galaxy
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Indonesia Movie Channels
+http://starshare.live:8080/live/Pirates/Pirates/151184.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Galaxy
 http://starshare.live:8080/live/Pirates/Pirates/151190.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Gravitas Movies
 https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Galaxy PREMIUM
+http://starshare.live:8080/live/Pirates/Pirates/151189.ts
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/k4cx8czc/HBO-HITS.jpg",HBO Hits
 http://starshare.live:8080/live/Pirates/Pirates/151212.ts
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/W3fWt0LJ/HBO-SIGNATURE.png",HBO Signature
-http://starshare.live:8080/live/Pirates/Pirates/151206.ts
 
 #EXTINF:-1  group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png",HBO Extreme
 http://208.115.225.174:14165
@@ -1259,15 +1252,13 @@ http://208.115.225.174:14148
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",HBO Signature
 http://208.115.225.174:14160
-
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/W3fWt0LJ/HBO-SIGNATURE.png",HBO Signature*
+http://starshare.live:8080/live/Pirates/Pirates/151206.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502049_tvchannels_v1.jpg", HITS Movies
 http://starshare.live:8080/live/Pirates/Pirates/151254.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",History
 http://starshare.live:8080/live/Pirates/Pirates/151203.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Galaxy PREMIUM
-http://starshare.live:8080/live/Pirates/Pirates/151189.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/6yH88Q1.png",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
@@ -1278,90 +1269,30 @@ https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-mov
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MovieSphere By LIONSGATE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",MY CINEMA
-http://starshare.live:8080/live/Pirates/Pirates/151277.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", My Cinema Europe
-http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MyTime Movie Network
 https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-uk-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemagreats.png" group-title="MOVIES",Sky Cinema Great
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemapremiere.png" group-title="MOVIES",Sky Cinema Premier
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png" group-title="MOVIES",Sky Cinema SCI-FI
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Thrill
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thril HD
 http://starshare.live:8080/live/Pirates/Pirates/151248.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",TLC HD
-http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71766
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",TCM HD
-http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71738
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg", tvN
-http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN*
 http://starshare.live:8080/live/Pirates/Pirates/151252.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies
 http://starshare.live:8080/live/Pirates/Pirates/151251.ts
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503469_tvchannels_v1.jpg", TV5 MONDE ASIE
-http://210.210.155.35/dr9445/s/s212/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TV5MONDE_ASIE
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies 2
-http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_Movies_HD
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 HD
 http://starshare.live:8080/live/Pirates/Pirates/151219.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 MONDE Style
-http://210.210.155.35/dr9445/h/h121/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TV5MONDE_Style_HD
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="MOVIES", Warner TV
+http://starshare.live:8080/live/Pirates/Pirates/151215.ts
+#EXTINF:-1 group-title="MOVIES", WOWOW Sinema
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Watch it SCREAM
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",WOMEN
-http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71739
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Ya Hala Cinema HD
-http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71757
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Ya Hala  Aloula HD
-http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71758
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Ya Hala HD
-http://helloudsistem.bio:8080/turaneren/KsfhHfQZptN8/71759
 
 
 
@@ -1384,36 +1315,8 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/QCq721F3/20230520-093047.jpg",CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/1XS67J5B/20230520-093349.jpg",Dark Matter TV
-https://dmtv-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 6 (Rakuten)
-https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 7 (Rakuten)
-https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 8 (Rakuten)
-https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 9 (Rakuten)
-https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 10 (Rakuten)
-https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 11 (Rakuten)
-https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 12 (Rakuten)
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Family 16 (Rakuten)
-https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
 #EXTINF:-1  group-title="MOVIES 2", FILM & ART
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="MOVIES 2",Fox
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="MOVIES 2",Fox 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=176821&extension=ts&play_token=heiCGArD9u
-
-#EXTINF:-1 group-title="MOVIES 2", FOX DEPORTES
-http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/mgpYZY8Z/20230520-094008.jpg",FOX MOVIES
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
@@ -1430,11 +1333,7 @@ http://208.115.225.174:14165
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Rakuten Action Movies
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236263_ico.png?ts=1663825106",Paramount
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236263_ico.png?ts=1663825106",Paramount 2
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=,https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
@@ -1453,36 +1352,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c00077
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/C5b7zRdP/20230520-101253.jpg",PlutoTV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action
-http://210.210.155.35/dr9445/h/h15/index.m3u8
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action*
 http://starshare.live:8080/live/Pirates/Pirates/151142.ts
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action**
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action*
 http://starshare.live:8080/live/Pirates/Pirates/151276.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action***
-http://210.210.155.37/dr9445/h/h15/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Action_HD
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK ActionROCK Action (Unifi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
 https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg",
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/gk9LYKHW/20220926-201802.png",Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", ROCK Entertainment
 http://starshare.live:8080/live/Pirates/Pirates/151143.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", ROCK Entertainment*
-http://210.210.155.37/dr9445/h/h16/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="MOVIES 2",ROCK Entertainment (Unifi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1494,17 +1377,9 @@ http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 
 #EXTINF:-1  group-title="MOVIES 2", STUDIO UNIVERSAL 
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1  group-title="MOVIES 2", STAR CHANNEL 
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+
 #EXTINF:-1  group-title="MOVIES 2", SYFY
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-
-#EXTINF:-1  group-title="MOVIES 2", TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1  group-title="MOVIES 2", UNIVERSAL TV
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1  group-title="MOVIES 2", WB TV
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/9Qbxdwbs/20230520-103835.jpg",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
@@ -1519,42 +1394,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="LAGU",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1 group-title="LAGU",BRAVA FM
-http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
-
 #EXTINF:-1 group-title="LAGU",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38",KPOP TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="LAGU",K Pop Channel
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Mola Hits
-http://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="LAGU", MTV HD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="LAGU", MTV Classic
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
-#EXTINF:-1 group-title="LAGU",MTV CLASSIC
-
-#EXTINF:-1 group-title="LAGU",MTV HD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
-
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",MTV Music
 https://i.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="LAGU", MTV URBAN
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="LAGU", MTV URBAN*
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
 
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",MTV Urban Music
 https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
@@ -1562,12 +1406,11 @@ https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",MTV Party Music
 https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU",Nagaswara Dangdut
-http://jakarta.nagaswarafm.com:8200/stream
-
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now80.png",NOW 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="LAGU" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",Pluto TV Music
 https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
 
@@ -1576,67 +1419,33 @@ https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://i.imgur.com/JkDD3bK.png",Panorama FM (1080p)
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://i.imgur.com/AbrHI7K.png",PMC (1080p)
-https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="LAGU" tvg-logo="https://www.dropbox.com/s/ckxdfn7jpz5gmal/reload.jpg?dl=1",Reload
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://i.imgur.com/2zFQbQi.png",Rotana Music (1080p)
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://i.postimg.cc/C1JgLtGC/stingray.png",Stingray Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://www.dropbox.com/s/ckxdfn7jpz5gmal/reload.jpg?dl=1",Reload
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://i.imgur.com/jR24flK.png",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU",Pop Nagaswara
-http://jakarta.nagaswarafm.com:8100/stream
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXeEvhFCZmf28psLTWSvQiR_MIP9vScXPJA&usqp=CAU",TOP MUSIC
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w7674435128_b2028000_sleng.m3u8
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://i.imgur.com/YaQcStz.png",Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png",MTV
-http://187.95.95.243/mtv/mono.m3u8
-
-#EXTINF:-1 group-title="LAGU",MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 #EXTINF:-1 group-title="LAGU" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",VEVO 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",VEVO 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png",Retro tv ????
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 group-title="LAGU",Prambors (G*)
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264761
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LAGU" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", ShowBiz
-http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_ShowBiz 2
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png",Retro tv
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="LAGU",VEVO 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="LAGU",VEVO 90's
+#EXTINF:-1 group-title="LAGU" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",VEVO 90's
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="LAGU",VEVO 90'
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="LAGU" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",Vevo Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",Vevo R&B
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1646,14 +1455,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",Vevo True School Hip-Hop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="LAGU" tvg-logo="https://i.imgur.com/YaQcStz.png",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",XITE*
 https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
-
-#EXTINF:-1 group-title="LAGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",Yo! MTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
 
@@ -1680,14 +1489,14 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Live Music Replay
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/bY1fJJZk/20230205-085247.png",MBC America
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",Music
 http://starshare.live:8080/live/Pirates/Pirates/151238.ts
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",Magic Music
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Mola Hits
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
@@ -1711,29 +1520,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c77
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="MUSIK" tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png",MTV Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png",MTV pluto.tv
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png",MTV pluto tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Movie Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a067e7c65ff60007b40874/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV RockZone
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cdb15d931000073ee4ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Music
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Love Music
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61923ac16d03190008138a67/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Classic
-https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV RockZone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cdb15d931000073ee4ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Unplugged
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09489197fe600073c0570/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Unplugged
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",NG Music
-http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",NICK MUSIC
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
@@ -1743,8 +1547,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",OCTO
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
-#EXTINF:-1  group-title="MUSIK",PASIONES 
-http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK",Pluto Live Concert
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a
 
@@ -1753,9 +1555,6 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VqOU-MabtqrjU9HDw2ZEH43I6WkKRixyRg&usqp=CAU",Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/BQc3h6s4/20230205-085414.png",Stingray Greatest Hits
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rHMyMa9SP9rhnPnKkqPXZ53H24EF429mTq/CDN/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/BQc3h6s4/20230205-085414.png",Stingray Holiday Hits
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 
@@ -1763,8 +1562,6 @@ https://stirr.ott-channels.stingray.com/155/master.m3u8
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Stingray Classic Rock
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Stingray Remember The '80s
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
@@ -1778,16 +1575,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&a
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",V2Beats
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/FHT44B76/20230205-085318.png",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/g2zW1WkR/20230205-085354.png",Vevo 80s
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vevo '70s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/g2zW1WkR/20230205-085354.png",Vevo 80
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vevo '80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vevo '90s
@@ -1802,12 +1594,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",XITE Hits
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="LAGU",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",XITE Classic Country
-https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
 
 
 
