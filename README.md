@@ -107,9 +107,6 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60479
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNCTV HD
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/165054
-
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/QtGZFgsb/20230910-120126.jpg",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -179,9 +176,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" group-title="TV INDO",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
-
-#EXTINF:-1,ID: MNC News
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/165058
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo=",Jakarta Globe
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
@@ -440,16 +434,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension
 
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT START HD
 http://starshare.live:8080/live/Pirates/Pirates/151188.ts
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157589
+
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT STARS 2 HD
 http://starshare.live:8080/live/Pirates/Pirates/151187.ts
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298548
+
 #EXTINF:-1 group-title="LIVE EVENT",MNC SPORT 2 HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60459
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298548
+
 #EXTINF:-1 group-title="LIVE EVENT",MNC START Sports 3 HD
 http://starshare.live:8080/live/Pirates/Pirates/151181.ts
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298549
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", MOTOGP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
@@ -691,48 +684,15 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 ################################################## LIGA EROPA ###################################################
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="LIGA EROPA",PREMIER LEAGUE 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
-https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="LIGA EROPA",LA LIGA 2
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/44473
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIGA EROPA",LIGA ITALY HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6
-http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 1
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
-
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bPXMBNH/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="LIGA EROPA",LIGA PRANCIS
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126919
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="LIGA EROPA",LIGA PRANCIS 
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126946
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="LIGA EROPA",LIGA PRANCIS 
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126935
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA", BUNDES LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA", BUNDES LIGA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA", BUNDES LIGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwsLmS0/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
@@ -744,7 +704,6 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&ext
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1330449&extension=ts&play_token=6jq4isiN0j
 #EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",LIGA INGGRIS-BEIN A SPORT
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv
-
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"?,PREMIER LEAGUE 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
