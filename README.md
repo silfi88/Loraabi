@@ -2288,7 +2288,6 @@ http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 http://kuchini.site:8080/mantul/2029fde156/279613
 #EXTINF:-1 group-title="SPORTS", GOLF+
 http://kuchini.site:8080/mantul/2029fde156/1934
-http://kuchini.site:8080/outputofflinechecker/pass/264
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORTS", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=ts
