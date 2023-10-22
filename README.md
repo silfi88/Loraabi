@@ -943,6 +943,23 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="LIFE STYLE" tvg-logo="https://i.imgur.com/AKa1X9d.png",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="LIFESTYLE", Fashion TV
+https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="LIFESTYLE", Citra Entertainment
+http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOIuoQ_oXPdWz8eBvpsQ7Cgl7fc0dpD8nEQ&usqp=CAU" group-title="LIFESTYLE", Lifestyle Channel
+http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsP9P65N/bonapetit.png" group-title="LIFESTYLE", Bonappetit
+https://bonappetit-rakuten.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0250/2033/4135/files/TPC_LOGO_COLOR_RGB_WHITE_640x640.png?v\u003d1645132925" group-title="LIFESTYLE", Pet Collective
+https://jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE", The Food Network
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
 
 
 
@@ -1070,6 +1087,86 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="KNOWLEDGE", XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png" group-title="KNOWLEDGE", Da Vinci
+http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker
+http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="KNOWLEDGE", Russia Today Documentary English
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+   
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE", DMAX TV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
+  
+#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/28163ERT%20World.jpg" group-title="KNOWLEDGE", ERT World NBA
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
+  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="KNOWLEDGE", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="KNOWLEDGE", Love Nature
+http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="KNOWLEDGE", Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="KNOWLEDGE", XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="KNOWLEDGE", INSIGHT
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAixj-Cg_35cYaCq1ZkkEiYL8e8pUuXzVzyuEYJdod4&usqp=CAU" group-title="KNOWLEDGE", Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE", HGTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE", Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="KNOWLEDGE", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE", Animal Planet
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="KNOWLEDGE", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="KNOWLEDGE", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUa5hM5YCa6hfCQUT-l-J6lWiI6JWHpXrTxg&usqp=CAU" group-title="KNOWLEDGE", Law and Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Channel
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Channel
+https://kusnadipepenk.github.io/ntn/disc.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery HD
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Turbo
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Asia
+http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE", Discovery Science
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
 
 
@@ -1136,6 +1233,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/brhkpmdJ/20230520-200241.png",Baby Shark TV
 https://i.mjh.nz/PlutoTV/60faffc3fbbc120007fc4376-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo" group-title="KIDS", Baby Shark
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Battery Pop
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
 
@@ -1150,6 +1249,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNvtykP/Boomerang-Logo.png", group-title="KIDS"​,BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS", Cartoon Network
+http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS", CARTOON NETWORK HD
 http://starshare.live:8080/live/Pirates/Pirates/151221.ts
 
@@ -1282,9 +1383,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd0000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/Wz22G13Z/20230212-134146.png",PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="KIDS", PBS Kids HD
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="KIDS", Pocket Watch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/nhz7FjVv/20230520-200212.png",Rainbow Squad
 https://i.mjh.nz/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
 
@@ -1819,6 +1920,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="LAGU",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NLgzmN6/DANGDUT.png" group-title="MUSIK",CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="MUSIK", MTV HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="MUSIK", Pop Nagaswara
+[http://jakarta.nagaswarafm.com:8100/stream](https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8)
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="MUSIK", Nagaswara Dangdut
+http://jakarta.nagaswarafm.com:8200/stream
 #EXTINF:-1 group-title="LAGU",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
@@ -2421,42 +2534,241 @@ http://starshare.live:8080/live/Pirates/Pirates/151273.ts
 
 ###################################################### MALAYSIA ################################################
 
+#EXTINF:-1 group-title="MALAYSIA",8TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71069
+#EXTINF:-1 group-title="MALAYSIA",AFC
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71134
+#EXTINF:-1 group-title="MALAYSIA",AFN HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71092
+#EXTINF:-1 group-title="MALAYSIA",TV ALHIJRAH
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71024
 
 
+#EXTINF:-1 group-title="MALAYSIA",ANIMAL PLANET HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71075
+#EXTINF:-1 group-title="MALAYSIA",ANIMAX
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71100
+#EXTINF:-1 group-title="MALAYSIA",ARENA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1703
+#EXTINF:-1 group-title="MALAYSIA",Arena2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1696
+
+#EXTINF:-1 group-title="MALAYSIA",ASTRO ASSP4 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59217
+
+#EXTINF:-1 group-title="MALAYSIA",ASTRO Ceria
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71080
+#EXTINF:-1 group-title="MALAYSIA",ASTRO ASSP HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59220
+#EXTINF:-1 group-title="MALAYSIA",ASTRO ASSP2 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
+#EXTINF:-1 group-title="MALAYSIA",ASTRO ASSP3 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59218
+#EXTINF:-1 group-title="MALAYSIA",Astro Premier 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71105
+#EXTINF:-1 group-title="MALAYSIA",Astro SuperSport Events 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71146
+#EXTINF:-1 group-title="MALAYSIA",ASTRO Super Sport 4
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1719
+#EXTINF:-1 group-title="MALAYSIA",Astro SuperSport Events 6
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71079
+#EXTINF:-1 group-title="MALAYSIA",Astro Premier 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71026
+#EXTINF:-1 group-title="MALAYSIA",aura
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71025
+#EXTINF:-1 group-title="MALAYSIA",AWANI
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1704
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani 2
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 group-title="MALAYSIA",MY043:Awesome TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71021
+#EXTINF:-1 group-title="MALAYSIA",AXN HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71087
+#EXTINF:-1 group-title="MALAYSIA",Baby TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71121
+#EXTINF:-1 group-title="MALAYSIA",beIN Sports 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71118
+#EXTINF:-1 group-title="MALAYSIA",bEIN Sports 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71101
+#EXTINF:-1 group-title="MALAYSIA",beIN SPORTS
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71104
 #EXTINF:-1 group-title="MALAYSIA",BERITA
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 group-title="MALAYSIA",BERNAMA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1717
+#EXTINF:-1 group-title="MALAYSIA",BBC Earth HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71119
+#EXTINF:-1 group-title="MALAYSIA",BBC Lifestyle
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71120
+#EXTINF:-1 group-title="MALAYSIA",BOO
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1697
+#EXTINF:-1 group-title="MALAYSIA",Cartoon Network
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71084
+#EXTINF:-1 group-title="MALAYSIA",CCM
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71046
+#EXTINF:-1 group-title="MALAYSIA",CGTN
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1708
+#EXTINF:-1 group-title="MALAYSIA",Cinemax HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71058
+#EXTINF:-1 group-title="MALAYSIA",COMEDY CENTRAL
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71098
+#EXTINF:-1 group-title="MALAYSIA",Crime Investigation
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71095
+#EXTINF:-1 group-title="MALAYSIA",Discovery HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71071
+#EXTINF:-1 group-title="MALAYSIA",DISCOVERY ASIA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71072
+#EXTINF:-1 group-title="MALAYSIA",Discovery Science
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71073
+#EXTINF:-1 group-title="MALAYSIA",DMAX HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71097
+#EXTINF:-1 group-title="MALAYSIA",EUROSPORT HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71106
+#EXTINF:-1 group-title="MALAYSIA",FOOD NTWK HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71091
+#EXTINF:-1 group-title="MALAYSIA",Global Trekker
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71137
+#EXTINF:-1 group-title="MALAYSIA",HBO
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1711
+#EXTINF:-1 group-title="MALAYSIA",HBO Family
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1707
+#EXTINF:-1 group-title="MALAYSIA",HBO Hits
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71037
 
-#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-
+#EXTINF:-1 group-title="MALAYSIA",HGTV HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71096
+#EXTINF:-1 group-title="MALAYSIA",HISTORY HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71074
+#EXTINF:-1 group-title="MALAYSIA",HITS HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71089
+#EXTINF:-1 group-title="MALAYSIA",Hits Movies HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71056
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi (Unifi)
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+#EXTINF:-1 group-title="MALAYSIA",iQIYI HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71038
+#EXTINF:-1 group-title="MALAYSIA",KBSW
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71027
+#EXTINF:-1 group-title="MALAYSIA",KBS World HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71052
+#EXTINF:-1 group-title="MALAYSIA",Kix HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1716
 
-
+#EXTINF:-1 group-title="MALAYSIA",KPLUS HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71111
+#EXTINF:-1 group-title="MALAYSIA",Lifetime
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71140
+#EXTINF:-1 group-title="MALAYSIA",Love Nature
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71141
+#EXTINF:-1 group-title="MALAYSIA",Moonbug Kids
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71061
+#EXTINF:-1 group-title="MALAYSIA",MTV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71099
+#EXTINF:-1 group-title="MALAYSIA",NICKELODEON HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71085
+#EXTINF:-1 group-title="MALAYSIA",NICK JR
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71086
+#EXTINF:-1 group-title="MALAYSIA",OASIS
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1701
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/rtmokey.png" group-title="MALAYSIA",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
+#EXTINF:-1 group-title="MALAYSIA",ONE HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71053
+#EXTINF:-1 group-title="MALAYSIA",Paramount Channel
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71135
+#EXTINF:-1 group-title="MALAYSIA",Phoenix
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71088
+#EXTINF:-1 group-title="MALAYSIA",PRIMA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1702
+#EXTINF:-1 group-title="MALAYSIA",Rania
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71022
+#EXTINF:-1 group-title="MALAYSIA",RIA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1705
+#EXTINF:-1 group-title="MALAYSIA",Ria
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71020
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MALAYSIA",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA",SCM
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71138
+#EXTINF:-1 group-title="MALAYSIA",SPOTV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71147
+#EXTINF:-1 group-title="MALAYSIA",Star Chinese Channel
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1715
+#EXTINF:-1 group-title="MALAYSIA",sukan
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71123
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/sukanrtm.png" group-title="MALAYSIA",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
+#EXTINF:-1 group-title="MALAYSIA",Super Sport 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1722
+#EXTINF:-1 group-title="MALAYSIA",Super Sport 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1721
+#EXTINF:-1 group-title="MALAYSIA",Super Sport 5
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1713
+#EXTINF:-1 group-title="MALAYSIA",TLC HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71090
+#EXTINF:-1 group-title="MALAYSIA",TV 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1734
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDzI5hF_Ozo8eGzaKLK-yo2Rj_wQ2zCqB1Q&usqp=CAU" group-title="MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sxTDt5c4tCg/mqdefault.jpg" group-title="MALAYSIA",TV2*
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
+#EXTINF:-1 group-title="MALAYSIA",TV 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1733
+#EXTINF:-1 group-title="MALAYSIA",TV 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1732
+
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="MALAYSIA",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
+#EXTINF:-1 group-title="MALAYSIA",NTV 7
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1731
+#EXTINF:-1 group-title="MALAYSIA",TV 8
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1730
+#EXTINF:-1 group-title="MALAYSIA",TV 9
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1729
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGv3vegjeW4CUGpE-JAWz00FGVowDoA1TJrw&usqp=CAU" group-title="MALAYSIA", TV9 (Unifi)
 https://aqfadtv.xyz/live/tv9/index.mpd
-
+#EXTINF:-1 group-title="MALAYSIA",TVB CLASSIC
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1712
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 group-title="MALAYSIA",TVN HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71055
+#EXTINF:-1 group-title="MALAYSIA",TVN Movies
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71059
+#EXTINF:-1 group-title="MALAYSIA",TVS
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71148
+
+#EXTINF:-1 group-title="MALAYSIA",WARNA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1706
+#EXTINF:-1 group-title="MALAYSIA",WARNER TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71094
+#EXTINF:-1 group-title="MALAYSIA",WWE
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1698
+#EXTINF:-1 group-title="MALAYSIA",XIAO TAI YANG
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1714
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2473,24 +2785,32 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71054
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1700
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1699
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia*
 http://starshare.live:8080/live/Pirates/Pirates/151211.ts
+
 
 
 
