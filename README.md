@@ -123,18 +123,13 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDO",INDOSIAR HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
 http://starshare.live:8080/live/Pirates/Pirates/151256.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV INDO", TRANS-TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV INDO", TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/DyMXtm7h/20230910-115122.jpg",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w44437729_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans-7
 http://starshare.live:8080/live/Pirates/Pirates/151262.ts
@@ -149,6 +144,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV INDO",Trans 7*
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="TV INDO" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI
+https://sport24.my.id/vidyo/Moji.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="TV INDO", TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -197,33 +195,32 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 
 ---------------------------------------------------- TV NASIONAL ----------------------------------------------------------------------- 
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14666414_ico.png?ts=1657377841",SCTV
-https://sport24.my.id/lokal/Sctv2.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI 1
-https://sport24.my.id/vidyo/Moji.m3u8
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI 2
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI
 https://sport24.my.id/lokal/moji.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719",NET 2
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719",NET TV
 https://sport24.my.id/lokal/Net.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV 1
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
 https://sport24.my.id/lokal/Antv.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV 2
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV HD
 https://sport24.my.id/lokal/Antv2.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14668612_ico.png?ts=1657379902",TVONE
 https://sport24.my.id/lokal/tvone.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14673693_ico.png?ts=1657380151",KOMPASTV
-https://sport24.my.id/lokal/kompastv.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36
 https://sport24.my.id/INEWS.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV NASIONAL", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/DyMXtm7h/20230910-115122.jpg",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w44437729_b744100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",BOOMERANG
@@ -1123,51 +1120,51 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
 ###################################################### KIDS ################################################
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwnuw_V0IGmv7aO2a05R-wlMgPWcYRunpw&usqp=CAU",Tatty Live 
-https://live-yt.streamingastv.workers.dev/live/rNU16-4oEmo/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUq0bsQHag5Bx-PBc8wl2THOALfHAUOC4VKw&usqp=CAU",Diva live 
-https://live-yt.streamingastv.workers.dev/live/OkYuxacgCNM/master.m3u8?|referer=https://t.me/astvstreaming.
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEngDdblL48x08KCPHOfAWnSpWQBfDgOhD6w&usqp=CAU",Bing Live 
-https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZGlU8rNbt78ZHdLjrUTqRrUampd5WyPUjjwNoU=s900-c-k-c0x00ffffff-no-rj",Little Angel Live 
-https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba LIVE 
-https://live-yt.streamingastv.workers.dev/live/X92lb2EwrjM/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba 1 LIVE 
-https://live-yt.streamingastv.workers.dev/live/WXuHaAhSpes/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/dfa052_17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smll.png",Jungle Beat Live ??
-https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="KIDS", TAYO Live 
-https://live-yt.streamingastv.workers.dev/live/lw-oXpGAR8Q/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96DLExPgh-UsRSem9Z91j5VRwqF6a1K10iw&usqp=CAU" group-title="KIDS",99 Animasi Live 
+#https://live-yt.streamingastv.workers.dev/live/DSoMVE0L3zI/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="KIDS",Antiks Live 
 https://live-yt.streamingastv.workers.dev/live/72i29Gls0GY/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="KIDS",BabyBus Live 
 https://live-yt.streamingastv.workers.dev/live/q3edCvRw7cU/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="KIDS",BabyBus 2 Live 
 https://live-yt.streamingastv.workers.dev/live/SavKq3DkHpc/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEngDdblL48x08KCPHOfAWnSpWQBfDgOhD6w&usqp=CAU",Bing Live 
+https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba LIVE 
+https://live-yt.streamingastv.workers.dev/live/X92lb2EwrjM/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba 1 LIVE 
+https://live-yt.streamingastv.workers.dev/live/WXuHaAhSpes/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUq0bsQHag5Bx-PBc8wl2THOALfHAUOC4VKw&usqp=CAU",Diva live 
+https://live-yt.streamingastv.workers.dev/live/OkYuxacgCNM/master.m3u8?|referer=https://t.me/astvstreaming.
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/dfa052_17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smll.png",Jungle Beat Live ??
+https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="KIDS",Larva Live 
 #https://live-yt.streamingastv.workers.dev/live/13YobiCh5BA/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Oddbods_logo.png" group-title="KIDS",Oddbods Live 
-https://live-yt.streamingastv.workers.dev/live/DeCmhwJqBhU/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ybw-QJyApUXI9KLbaXKsS0PbQXvykcFe1Q&usqp=CAU" group-title="KIDS",Shaun the Sheep Live 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-#https://live-yt.streamingastv.workers.dev/live/5g4LKPv4KeE/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegGQlaCoewiI_8tJBzzuQ09eMxIpo0JD2_g&usqp=CAU" group-title="KIDS",Om Nom Live 
-https://live-yt.streamingastv.workers.dev/live/vUQMH-Dxhyc/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZGlU8rNbt78ZHdLjrUTqRrUampd5WyPUjjwNoU=s900-c-k-c0x00ffffff-no-rj",Little Angel Live 
+https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ48aBB2mkn8jH6cjc8MdfoAIHXAYP7AlAw&usqp=CAU" group-title="KIDS",Little Pony Live 
+https://live-yt.streamingastv.workers.dev/live/JEz2xyX7IlM/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g9K_AleYd6uovloH5T0Ssy-VH1cvoT59xg&usqp=CAU" group-title="KIDS",Marsha & Bear Live 
 #https://live-yt.streamingastv.workers.dev/live/Zld07E9v7tE/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g9K_AleYd6uovloH5T0Ssy-VH1cvoT59xg&usqp=CAU" group-title="KIDS",Marsha & Bear 2 Live 
 https://live-yt.streamingastv.workers.dev/live/xhu0h8dY4Lw/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96DLExPgh-UsRSem9Z91j5VRwqF6a1K10iw&usqp=CAU" group-title="KIDS",99 Animasi Live 
-#https://live-yt.streamingastv.workers.dev/live/DSoMVE0L3zI/master.m3u8?|referer=https://t.me/astvstreaming
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ48aBB2mkn8jH6cjc8MdfoAIHXAYP7AlAw&usqp=CAU" group-title="KIDS",Little Pony Live 
-https://live-yt.streamingastv.workers.dev/live/JEz2xyX7IlM/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegGQlaCoewiI_8tJBzzuQ09eMxIpo0JD2_g&usqp=CAU" group-title="KIDS",Om Nom Live 
+https://live-yt.streamingastv.workers.dev/live/vUQMH-Dxhyc/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Oddbods_logo.png" group-title="KIDS",Oddbods Live 
+https://live-yt.streamingastv.workers.dev/live/DeCmhwJqBhU/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcFXx9vYQyRnQHV3GP22fd39-1uK1sEZWzvw&usqp=CAU" group-title="KIDS",PepPa Pig Live 
 https://live-yt.streamingastv.workers.dev/live/qWZWw55xlsI/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ybw-QJyApUXI9KLbaXKsS0PbQXvykcFe1Q&usqp=CAU" group-title="KIDS",Shaun the Sheep Live 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#https://live-yt.streamingastv.workers.dev/live/5g4LKPv4KeE/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZeM-BsWHU_RYFsBK63qrDyh0lnqebrDbYQ&usqp=CAU" group-title="KIDS",SpongeBob Live 
 https://live-yt.streamingastv.workers.dev/live/BXWNnEiTR5g/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v3XMWSp/download-41-modified.png" group-title="KIDS",Talking Tom Live 
 https://live-yt.streamingastv.workers.dev/live/iwNMxMIpLw4/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwnuw_V0IGmv7aO2a05R-wlMgPWcYRunpw&usqp=CAU",Tatty Live 
+https://live-yt.streamingastv.workers.dev/live/rNU16-4oEmo/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="KIDS", TAYO Live 
+https://live-yt.streamingastv.workers.dev/live/lw-oXpGAR8Q/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/286103abn-kids.png" group-title="KIDS", 3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
