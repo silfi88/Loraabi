@@ -213,7 +213,7 @@ https://sport24.my.id/lokal/tvone.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.98 Mobile Safari/537.36
 https://sport24.my.id/INEWS.php
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",TRANSTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV NASIONAL", TRANS-TV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
@@ -221,11 +221,11 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/DyMXtm7h/20230910-115122.jpg",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w44437729_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",MOJI HD
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",BTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg", BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
@@ -279,15 +279,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",KBS WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",KIX
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg",KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",KOMPASTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ycbxtwq/20230920-201032.png" group-title="TV NASIONAL",Kompas TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",LIFETIME
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",LOVENATURE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",METROTV HD
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png",Metro-TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
@@ -297,9 +297,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",PRA-SE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",ROCK ACTION
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", ROCK Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",SONY MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
@@ -317,11 +317,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",TV9 NUSANTARA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",TVN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq0gM81Y/tvn.jpg" group-title="TV NASIONAL", TVN HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",TVRI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDKyDXD/tvri.png" group-title="TV NASIONAL",TVRI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",ZEEBIOSKOP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="TV NASIONAL", ZEE BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 
 ################################################################## LIVE EVENT ################################################################################
@@ -2508,25 +2508,19 @@ http://103.120.172.74:5100
 
 #EXTINF:-1 group-title="INDIA",NDTV
 http://103.120.172.74:5500
-#EXTINF:-1 group-title="INDIA",Zee BIOSKOP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE BIOSKOP
 http://starshare.live:8080/live/Pirates/Pirates/151247.ts
-#EXTINF:-1 group-title="INDIA",Zee Cinema (D)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE Cinema
 http://starshare.live:8080/live/Pirates/Pirates/151274.ts
-#EXTINF:-1 group-title="INDIA",Zee India
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE DRAMA
 http://103.120.172.74:1040
 
-#EXTINF:-1 group-title="INDIA",Zee TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE TV
 http://103.120.172.74:1140
-#EXTINF:-1 group-title="INDIA",Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE  TV HD
 http://103.120.172.74:4000
 #EXTINF:-1 group-title="INDIA", KIZIK.COM TV
 http://starshare.live:8080/live/Pirates/Pirates/151273.ts
-
-
-
-
-
-
 
 
 
