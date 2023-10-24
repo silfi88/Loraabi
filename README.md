@@ -241,33 +241,33 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",CITRA MUSLIM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",CRIME INVESTIGATION
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV NASIONAL",CRIME INVESTIGATION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",DA VINCI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="TV NASIONAL",DISCOVERY CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",DREAMWORK
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="TV NASIONAL",Dream Works
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",EUROSPORT
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png" group-title="TV NASIONAL", EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",FASHIONTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875", Fashion TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",FIRST LIFESTYLE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOIuoQ_oXPdWz8eBvpsQ7Cgl7fc0dpD8nEQ&usqp=CAU" group-title="TV NASIONAL",FIRST LIFESTYLE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="TV NASIONAL",Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",GEM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXcNz3Sb/20230520-094301.jpg" group-title="TV NASIONAL", Gem
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",GLOBAL TREKKER
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",HISTORY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV NASIONAL",History
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",HITS
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502049_tvchannels_v1.jpg", HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",HITS MOVIE
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502049_tvchannels_v1.jpg", HITS MOVIE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",HOREE!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
@@ -277,15 +277,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",KBS WORLD
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg",KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ycbxtwq/20230920-201032.png" group-title="TV NASIONAL",Kompas TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",LIFETIME
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="TV NASIONAL",Lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",LOVENATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV NASIONAL",LOVE NATURE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png",Metro-TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
@@ -293,7 +293,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",MTV STAGE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",NICKELODEON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZvxQW/nickolodeon.png", group-title="TV NASIONAL"​,NICKELODEON
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",PRA-SE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
@@ -303,11 +303,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCKz6TX/First-Media-logo.png", group-title="TV NASIONAL",SONY MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",SONY ONE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV NASIONAL",Sony One
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",SPOTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="TV NASIONAL",SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",SPOTV2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tq9jh3B/spotv2.png" group-title="TV NASIONAL", SPOTV 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydfTYcw/FIRSTMEDIA.jpg", group-title="TV NASIONAL",STINGRAY NATURESCAPE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
@@ -323,6 +323,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="TV NASIONAL", ZEE BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+
+
 
 ################################################################## LIVE EVENT ################################################################################
 
@@ -2653,13 +2655,13 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1716
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71111
 #EXTINF:-1 group-title="MALAYSIA",Lifetime
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71140
-#EXTINF:-1 group-title="MALAYSIA",Love Nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="MALAYSIA",Love Nature
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71141
 #EXTINF:-1 group-title="MALAYSIA",Moonbug Kids
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71061
 #EXTINF:-1 group-title="MALAYSIA",MTV
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71099
-#EXTINF:-1 group-title="MALAYSIA",NICKELODEON HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZvxQW/nickolodeon.png", group-title="MALAYSIA"​,NICKELODEON HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71085
 #EXTINF:-1 group-title="MALAYSIA",NICK JR
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71086
@@ -2685,7 +2687,7 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71020
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",SCM
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71138
-#EXTINF:-1 group-title="MALAYSIA",SPOTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="MALAYSIA",SpoTV
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71147
 #EXTINF:-1 group-title="MALAYSIA",Star Chinese Channel
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1715
