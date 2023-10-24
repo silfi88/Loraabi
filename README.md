@@ -2381,6 +2381,8 @@ http://starshare.live:8080/live/Pirates/Pirates/151253.ts
 
 #EXTINF:-1 group-title="RELIGI",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 group-title="RELIGI",AL-WAFA TARIM TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/B4JW54M.png",Duta TV (360p)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
