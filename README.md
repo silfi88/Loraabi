@@ -1123,7 +1123,51 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
 ###################################################### KIDS ################################################
 
-
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwnuw_V0IGmv7aO2a05R-wlMgPWcYRunpw&usqp=CAU",Tatty Live 
+https://live-yt.streamingastv.workers.dev/live/rNU16-4oEmo/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUq0bsQHag5Bx-PBc8wl2THOALfHAUOC4VKw&usqp=CAU",Diva live 
+https://live-yt.streamingastv.workers.dev/live/OkYuxacgCNM/master.m3u8?|referer=https://t.me/astvstreaming.
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEngDdblL48x08KCPHOfAWnSpWQBfDgOhD6w&usqp=CAU",Bing Live 
+https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZGlU8rNbt78ZHdLjrUTqRrUampd5WyPUjjwNoU=s900-c-k-c0x00ffffff-no-rj",Little Angel Live 
+https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba LIVE 
+https://live-yt.streamingastv.workers.dev/live/X92lb2EwrjM/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba 1 LIVE 
+https://live-yt.streamingastv.workers.dev/live/WXuHaAhSpes/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/dfa052_17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smll.png",Jungle Beat Live ??
+https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="KIDS", TAYO Live 
+https://live-yt.streamingastv.workers.dev/live/lw-oXpGAR8Q/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="KIDS",Antiks Live 
+https://live-yt.streamingastv.workers.dev/live/72i29Gls0GY/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="KIDS",BabyBus Live 
+https://live-yt.streamingastv.workers.dev/live/q3edCvRw7cU/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="KIDS",BabyBus 2 Live 
+https://live-yt.streamingastv.workers.dev/live/SavKq3DkHpc/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="KIDS",Larva Live 
+#https://live-yt.streamingastv.workers.dev/live/13YobiCh5BA/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Oddbods_logo.png" group-title="KIDS",Oddbods Live 
+https://live-yt.streamingastv.workers.dev/live/DeCmhwJqBhU/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ybw-QJyApUXI9KLbaXKsS0PbQXvykcFe1Q&usqp=CAU" group-title="KIDS",Shaun the Sheep Live 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#https://live-yt.streamingastv.workers.dev/live/5g4LKPv4KeE/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegGQlaCoewiI_8tJBzzuQ09eMxIpo0JD2_g&usqp=CAU" group-title="KIDS",Om Nom Live 
+https://live-yt.streamingastv.workers.dev/live/vUQMH-Dxhyc/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g9K_AleYd6uovloH5T0Ssy-VH1cvoT59xg&usqp=CAU" group-title="KIDS",Marsha & Bear Live 
+#https://live-yt.streamingastv.workers.dev/live/Zld07E9v7tE/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g9K_AleYd6uovloH5T0Ssy-VH1cvoT59xg&usqp=CAU" group-title="KIDS",Marsha & Bear 2 Live 
+https://live-yt.streamingastv.workers.dev/live/xhu0h8dY4Lw/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96DLExPgh-UsRSem9Z91j5VRwqF6a1K10iw&usqp=CAU" group-title="KIDS",99 Animasi Live 
+#https://live-yt.streamingastv.workers.dev/live/DSoMVE0L3zI/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ48aBB2mkn8jH6cjc8MdfoAIHXAYP7AlAw&usqp=CAU" group-title="KIDS",Little Pony Live 
+https://live-yt.streamingastv.workers.dev/live/JEz2xyX7IlM/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcFXx9vYQyRnQHV3GP22fd39-1uK1sEZWzvw&usqp=CAU" group-title="KIDS",PepPa Pig Live 
+https://live-yt.streamingastv.workers.dev/live/qWZWw55xlsI/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZeM-BsWHU_RYFsBK63qrDyh0lnqebrDbYQ&usqp=CAU" group-title="KIDS",SpongeBob Live 
+https://live-yt.streamingastv.workers.dev/live/BXWNnEiTR5g/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v3XMWSp/download-41-modified.png" group-title="KIDS",Talking Tom Live 
+https://live-yt.streamingastv.workers.dev/live/iwNMxMIpLw4/master.m3u8?|referer=https://t.me/astvstreaming
 #EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/286103abn-kids.png" group-title="KIDS", 3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
