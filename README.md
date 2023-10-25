@@ -2113,10 +2113,6 @@ https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg012
 
 
 
-
-
-
-
 ##################################################### NEWS #############################################
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503416_tvchannels_v1.jpg",AL-JAZERA
@@ -2423,6 +2419,10 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&exten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbbFqFP/yacine-tv3.png" group-title="YACINE",BEIN SPORTS AFC HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
 
+
+
+
+
 ################################################### RELIGI ##########################################
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/tFEQ4da.png",MAKKAH QURAN
@@ -2514,7 +2514,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151273.ts
 
 ###################################################### MALAYSIA ################################################
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.ibb.co/vH5w53N/berita.jpg",8TV
+#EXTINF:-1 group-title="MALAYSIA",8TV
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71069
 #EXTINF:-1 group-title="MALAYSIA",AFC
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71134
@@ -2522,8 +2522,6 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71134
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71092
 #EXTINF:-1 group-title="MALAYSIA",TV ALHIJRAH
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71024
-
-
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png",ANIMAL PLANET HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71075
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.ibb.co/yV5qxkL/Animax-old-logo.png",ANIMAX
