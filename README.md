@@ -23,7 +23,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151260.ts
 http://starshare.live:8080/live/Pirates/Pirates/151249.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",Indosiar HD
-https://cdnkbl5.indihometv.com/ateme/dash/indosiar/manifest.mpd
+http://103.166.27.2:8112/play/a016
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV HD
 https://vd.iptvgo.workers.dev/hls/play.m3u8?id=204
@@ -46,7 +46,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m
 http://starshare.live:8080/live/Pirates/Pirates/151259.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA",Net TV
-
+#http://210.210.155.37/uq2663/h/h06/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",OK TV
 http://starshare.live:8080/live/Pirates/Pirates/151232.ts
@@ -84,9 +84,16 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONESIA",Usee Sports
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298577
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONESIA",Usee Sports 2
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298578
+
 #EXTINF:-1 group-title="INDONESIA", Vision Prime
 http://starshare.live:8080/live/Pirates/Pirates/151245.ts
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="INDONESIA",Warner TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157594
 
 
 #################################################### TV INDO ###################################################
@@ -123,7 +130,10 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDO",INDOSIAR HD
+https://cdnkbl5.indihometv.com/ateme/dash/indosiar/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV HD
+http://103.166.27.2:8112/play/a015
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
 http://starshare.live:8080/live/Pirates/Pirates/151256.ts
@@ -559,6 +569,48 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 
 
 ################################################## LIGA EROPA ###################################################
+
+#EXTINF:-1 group-title="LIGA EROPA",Badminton
+http://humiptv.live:8080/live/741852963/741852963/128843.ts
+#EXTINF:-1 group-title="LIGA EROPA",STAR SPORTS SELECT 1 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98867.ts
+#EXTINF:-1 group-title="LIGA EROPA",START SPORTS SELECT 2 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98868.ts
+#EXTINF:-1 group-title="LIGA EROPA",TEN 1 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98861.ts
+#EXTINF:-1 group-title="LIGA EROPA",TEN 2 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98862.ts
+#EXTINF:-1 group-title="LIGA EROPA",TEN 3 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98863.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY TEN 5 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98870.ts
+#EXTINF:-1 group-title="LIGA EROPA",STAR SPORTS 1 (4K).
+http://humiptv.live:8080/live/741852963/741852963/98864.ts
+
+#EXTINF:-1 group-title="LIGA EROPA",PTV SPORTS
+http://humiptv.live:8080/live/741852963/741852963/89.ts
+#EXTINF:-1 group-title="LIGA EROPA",TEN SPORTS
+http://humiptv.live:8080/live/741852963/741852963/98.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY TEN 1 HD
+http://humiptv.live:8080/live/741852963/741852963/154.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY Ten 2 HD
+http://humiptv.live:8080/live/741852963/741852963/192.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY Ten 2 HD.
+http://humiptv.live:8080/live/741852963/741852963/31314.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY TEN 3 HD
+http://humiptv.live:8080/live/741852963/741852963/146.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY TEN 4 (FHD)
+http://humiptv.live:8080/live/741852963/741852963/29469.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY 5 HD
+http://humiptv.live:8080/live/741852963/741852963/176.ts
+#EXTINF:-1 group-title="LIGA EROPA",SONY ESPN HD
+http://humiptv.live:8080/live/741852963/741852963/155.ts
+#EXTINF:-1 group-title="LIGA EROPA",SUPERSPORTS LALIGA HD
+http://humiptv.live:8080/live/741852963/741852963/515.ts
+#EXTINF:-1 group-title="LIGA EROPA",SUPERSPORTS PREMIER LEAGUE HD
+http://humiptv.live:8080/live/741852963/741852963/518.ts
+#EXTINF:-1 group-title="LIGA EROPA",beIN SPORTS La Liga
+http://humiptv.live:8080/live/741852963/741852963/6625.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jGRbCnn/LALIGA.png" group-title="LIGA EROPA",LA LIGA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
@@ -1556,6 +1608,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES",SUPERHERO MOVIES
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60257
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thril HD
 http://starshare.live:8080/live/Pirates/Pirates/151248.ts
