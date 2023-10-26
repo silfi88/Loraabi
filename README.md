@@ -131,7 +131,7 @@ http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=00
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDO",INDOSIAR HD
 https://cdnkbl5.indihometv.com/ateme/dash/indosiar/manifest.mpd
-
+https://op-group1-swiftservehd-1.dens.tv/h/h207/20231023T111621-02-424583804.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV HD
 http://103.166.27.2:8112/play/a015
 
