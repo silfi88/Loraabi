@@ -40,7 +40,6 @@ https://vd.iptvgo.workers.dev/hls/play.m3u8?id=8237
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI
 http://103.166.27.2:8112/play/a017/index.m3u8
 
-
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",I-NEWS
 http://starshare.live:8080/live/Pirates/Pirates/151259.ts
 
@@ -235,143 +234,143 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 
 
-#EXTINF:-1 group-title="TV NASIONAL"TRANSTV HD
+#EXTINF:-1 group-title="TV NASIONAL",TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TRANS7 HD
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ANTV HD
+#EXTINF:-1 group-title="TV NASIONAL",ANTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"BTV
+#EXTINF:-1 group-title="TV NASIONAL",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"BERITASATU WORLD
+#EXTINF:-1 group-title="TV NASIONAL",BERITASATU WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"JAKARTA GLOBE
+#EXTINF:-1 group-title="TV NASIONAL",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"KOMPASTV HD
+#EXTINF:-1 group-title="TV NASIONAL",KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"METROTV HD
+#EXTINF:-1 group-title="TV NASIONAL",METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"IDX CHANNEL
+#EXTINF:-1 group-title="TV NASIONAL",IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"GARUDATV
+#EXTINF:-1 group-title="TV NASIONAL",GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"DAAITV
+#EXTINF:-1 group-title="TV NASIONAL",DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"HOREE!
+#EXTINF:-1 group-title="TV NASIONAL",HOREE!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"JAKTV
+#EXTINF:-1 group-title="TV NASIONAL",JAKTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"JTV
+#EXTINF:-1 group-title="TV NASIONAL",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TV9 NUSANTARA
+#EXTINF:-1 group-title="TV NASIONAL",TV9 NUSANTARA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"WESTJAVA NETWORK
+#EXTINF:-1 group-title="TV NASIONAL",WESTJAVA NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"BALAIKOTA CHANNEL
+#EXTINF:-1 group-title="TV NASIONAL",BALAIKOTA CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"BALAIKOTA BANDUNG
+#EXTINF:-1 group-title="TV NASIONAL",BALAIKOTA BANDUNG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"FIRST WARRIORS
+#EXTINF:-1 group-title="TV NASIONAL",FIRST WARRIORS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"FIRST LIFESTYLE
+#EXTINF:-1 group-title="TV NASIONAL",FIRST LIFESTYLE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CITRA MUSLIM
+#EXTINF:-1 group-title="TV NASIONAL",CITRA MUSLIM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CITRA BIOSKOP
+#EXTINF:-1 group-title="TV NASIONAL",CITRA BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CITRA DRAMA
+#EXTINF:-1 group-title="TV NASIONAL",CITRA DRAMA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CITRA DANGDUT
+#EXTINF:-1 group-title="TV NASIONAL",CITRA DANGDUT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CITRA ENTERTAINMENT
+#EXTINF:-1 group-title="TV NASIONAL",CITRA ENTERTAINMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TVRI
+#EXTINF:-1 group-title="TV NASIONAL",TVRI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"AXN
+#EXTINF:-1 group-title="TV NASIONAL",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"PARAMOUNT NETWORK
+#EXTINF:-1 group-title="TV NASIONAL",PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ROCK ACTION
+#EXTINF:-1 group-title="TV NASIONAL",ROCK ACTION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="TV NASIONAL",ROCK ENTERTAINMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"HITSMOVIE
+#EXTINF:-1 group-title="TV NASIONAL",HITSMOVIE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"HITS
+#EXTINF:-1 group-title="TV NASIONAL",HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"SONY MAX
+#EXTINF:-1 group-title="TV NASIONAL",SONY MAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"KIX
+#EXTINF:-1 group-title="TV NASIONAL",KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TVN
+#EXTINF:-1 group-title="TV NASIONAL",TVN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TVNMOVIES
+#EXTINF:-1 group-title="TV NASIONAL",TVNMOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"KBSWORLD
+#EXTINF:-1 group-title="TV NASIONAL",KBSWORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ONE
+#EXTINF:-1 group-title="TV NASIONAL",ONE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ZEEBIOSKOP
+#EXTINF:-1 group-title="TV NASIONAL",ZEEBIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"SPOTV
+#EXTINF:-1 group-title="TV NASIONAL",SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"SPOTV2
+#EXTINF:-1 group-title="TV NASIONAL",SPOTV2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"EUROSPORT
+#EXTINF:-1 group-title="TV NASIONAL",EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CGTN DOCUMENTARY
+#EXTINF:-1 group-title="TV NASIONAL",CGTN DOCUMENTARY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"DISCOVERY CHANNEL
+#EXTINF:-1 group-title="TV NASIONAL",DISCOVERY CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ANIMAL PLANET
+#EXTINF:-1 group-title="TV NASIONAL",ANIMAL PLANET
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"LOVENATURE
+#EXTINF:-1 group-title="TV NASIONAL",LOVENATURE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"HISTORY
+#EXTINF:-1 group-title="TV NASIONAL",HISTORY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CRIMEINVESTIGATION
+#EXTINF:-1 group-title="TV NASIONAL",CRIMEINVESTIGATION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TECHSTORM
+#EXTINF:-1 group-title="TV NASIONAL",TECHSTORM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"GLOBAL TREKKER
+#EXTINF:-1 group-title="TV NASIONAL",GLOBAL TREKKER
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"DREAMWORK
+#EXTINF:-1 group-title="TV NASIONAL",DREAMWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"LIFETIME
+#EXTINF:-1 group-title="TV NASIONAL",LIFETIME
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"HGTV
+#EXTINF:-1 group-title="TV NASIONAL",HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"TLC
+#EXTINF:-1 group-title="TV NASIONAL",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"AFN
+#EXTINF:-1 group-title="TV NASIONAL",AFN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"FOOD NETWORK
+#EXTINF:-1 group-title="TV NASIONAL",FOOD NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"FASHIONTV
+#EXTINF:-1 group-title="TV NASIONAL",FASHIONTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"DAVINCI
+#EXTINF:-1 group-title="TV NASIONAL",DAVINCI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"ANIMAX
+#EXTINF:-1 group-title="TV NASIONAL",ANIMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"BOOMERANG
+#EXTINF:-1 group-title="TV NASIONAL",BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CARTOON NETWORK
+#EXTINF:-1 group-title="TV NASIONAL",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"NICKELODEON
+#EXTINF:-1 group-title="TV NASIONAL",NICKELODEON
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"NICKJR.
+#EXTINF:-1 group-title="TV NASIONAL",NICKJR.
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"MTV 90S
+#EXTINF:-1 group-title="TV NASIONAL",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"MTV STAGE
+#EXTINF:-1 group-title="TV NASIONAL",MTV STAGE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"STINGRAY NATURESCAPE
+#EXTINF:-1 group-title="TV NASIONAL",STINGRAY NATURESCAPE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"STINGRAY DJAZZ
+#EXTINF:-1 group-title="TV NASIONAL",STINGRAY DJAZZ
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"GEM
+#EXTINF:-1 group-title="TV NASIONAL",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-#EXTINF:-1 group-title="TV NASIONAL"CH3888
+#EXTINF:-1 group-title="TV NASIONAL",CH3888
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDKyDXD/tvri.png" group-title="TV NASIONAL",TVRI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
