@@ -22,8 +22,8 @@ http://starshare.live:8080/live/Pirates/Pirates/151260.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg", ANTV HD
 http://starshare.live:8080/live/Pirates/Pirates/151249.ts
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",Indosiar HD
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",INDOSIAR HD
+http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV HD
 https://vd.iptvgo.workers.dev/hls/play.m3u8?id=204
@@ -97,8 +97,8 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60292
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV INDO",ANTV HD
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDO",INDOSIAR HD
-http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDO",Indosiar HD
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="TV INDO", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
@@ -196,9 +196,7 @@ https://sport24.my.id/lokal/Antv.m3u8
 https://sport24.my.id/lokal/Antv2.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=antv
 
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",I-NEWS
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg" group-title="TV NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
