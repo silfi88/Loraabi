@@ -244,684 +244,140 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 01. ETV Live Event
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298491
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 02. ETV Live Event 02
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298492
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Angry Birds Toons
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298493
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 BabyBus Indonesia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298494
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Donald Ducks
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298495
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Doraemon
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298496
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Just For Laughs
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298497
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Mr Bean Cartoon
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298498
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Mr. Bean Classic
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298499
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Tom And Jerry
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298500
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Upin Ipin
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298501
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", 24/7 Warkop DKI
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298502
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", AMTV &#40;Aula Media TV&#41;
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/299484
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", ANIMAL PLANET
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157532
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Animax
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165081
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", AniPlus
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298504
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", ANTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165072
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Arirang
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/247447
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Asian Food Network
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298503
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", AXN
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165079
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Baby TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157605
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Bali TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197962
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Balikpapan TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166409
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Bandung TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166416
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", BBC Lifestyle
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264747
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", beIN Sports 1
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165105
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", beIN Sports 3
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298506
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Berita Satu
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162513
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Berita Satu news
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/287421
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Berita Satu World
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162136
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Bioskop Indonesia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264801
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Bloomberg TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157599
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Boomerang
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165109
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Boomerang EN
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298507
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Cartoon Network
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157593
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CBeebies
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/247448
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CCM
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165103
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Celestial Movies
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165065
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CGTN
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298510
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CGTN Documentary
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298511
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Champion TV 1
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298512
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Champion TV 2
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298513
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Champion TV 3
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298514
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Channel News Asia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157602
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Chinese Drama
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298516
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CinemaWorld
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165082
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Cinemax
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197964
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Citra Bioskop
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298519
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Citra Dangdut
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/247446
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Citra Drama
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264748
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Citra Entertainment
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298520
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CNBC Indonesia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165062
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CNN Indonesia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162137
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", CNN International
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264778
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Crime+ Investigation
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165052
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Da Ai TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165061
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Discovery World
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157597
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Disney Channel
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165075
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Disney Junior
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162511
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Disney XD
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/276564
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", DreamWorks
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157610
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Dunia Anak
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264753
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Dunia Lain
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298524
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Eat&Go
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264765
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Ent
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157581
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Etv Bioskop
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298526
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Etv Bioskop 02
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298527
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Etv Bioskop 03
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298528
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Etv Bioskop 04
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298529
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Fashion TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298530
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Fight Sport
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298531
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", FLIK
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165095
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", FMN
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165057
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Fox Life
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165083
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Galaxy
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264773
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Galaxy Premium
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264774
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", GEM
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298533
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", GTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157578
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", HBO
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197972
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", HBO Family
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197055
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", HBO Hits
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/196480
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", HBO Signature
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/221948
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", HGTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298535
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Hip Hip Horee!
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298536
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", History
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162519
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Hits
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165085
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Hits Movies
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/221947
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Horee!
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264750
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Huma Betang TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/299486
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Hunan TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/247443
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", I AM Channel
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/287423
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", I Konser
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264760
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", IDX
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157590
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", IMC
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264769
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Indi Kids
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298539
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Indosiar
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162138
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", INews
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157579
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Infotainment
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298541
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Insert
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264766
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Jak TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157601
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", JTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165091
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", K+
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197969
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", KBS World
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197053
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Kids TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162505
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", KIX
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165068
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Kompas TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165060
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Life
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157585
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Lifestyle & Fashion
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157592
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Lifetime
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298543
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Love Nature
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264756
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Mentari TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298546
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Metro TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165059
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Miao Mi
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/266805
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MNC News
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165058
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MNC Sports
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157589
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MNC Sports 2
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298548
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MNC Sports 3
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298549
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MNC TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165054
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Moji
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298550
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MQTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298551
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MTA 7 Asia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162522
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", MTA TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298552
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Music TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165108
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", My Cinema
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298553
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", My Cinema Asia
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", My Family
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", My Kidz
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298556
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Nat Geo
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165094
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Nat Geo Wild
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197967
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", NBA TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298558
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Net
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/80292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", NHK World
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298560
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Nick Jr
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165107
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Nick Jr EN
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298561
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", nickelodeon
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162510
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Nusantara TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166410
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", OK TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/221956
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", ONE
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298563
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Paramount Network
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298564
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Prambors
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264761
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Radar Cirebon TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/300662
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Rajawali TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/196457
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", RCTI
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157591
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Rock Action
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298490
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Rock Entertaiment
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298565
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Rock Extreme
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298566
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Rodja TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264758
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", SCTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162141
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", SEA Today
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298568
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Sindonews TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/299485
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Smithsonian Channel
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264767
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Sony One
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165077
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", SpoTV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298570
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", SpoTV 2
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298571
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Tech Storm
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298572
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Thrill
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157580
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TLC
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/165086
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Trans 7
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162502
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Trans TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162503
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TV 9 Nusantara
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162509
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TV One
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/296214
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVKU
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166709
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVN
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197965
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVN Movies
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157596
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVRI
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162504
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVRI 4
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/287433
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVRI Jambi
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166692
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVRI Kalimantan Tengah
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166702
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVRI Sport
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166686
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", TVRI Sulawesi Selatan
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/166699
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", U Channel
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162146
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Usee Prime
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/162524
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Usee Sport 1
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298577
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Usee Sport 2
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298578
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Vision Prime
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/197958
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Warner TV
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157594
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", Zee Bioskop
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157584
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV LOKAL", ZooMoo
-http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264751
-
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="CAMPURAN", RCTI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="CAMPURAN", MNC TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="CAMPURAN", GTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV One
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", Metro TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CAMPURAN", INDOSIAR
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="CAMPURAN", ANTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="CAMPURAN", TRANS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="CAMPURAN", TRANS 7
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="CAMPURAN", TV One
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="CAMPURAN", KOMPAS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="CAMPURAN", Metro TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="CAMPURAN", Net TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="NASIONAL", Rajawali TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="CAMPURAN", Rajawali TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="NASIONAL", OK TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="CAMPURAN", OK TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="NASIONAL", Jak TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="CAMPURAN", Jak TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683180&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="NASIONAL", JTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="CAMPURAN", JTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="NASIONAL", Berita Satu
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="CAMPURAN", Berita Satu
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL", Entertainment
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="CAMPURAN", Entertainment
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683188&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL", TVRI
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="CAMPURAN", TVRI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL", CNN Indonesia
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="CAMPURAN", CNN Indonesia
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NASIONAL", Infotainment
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CAMPURAN", Infotainment
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683126&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="NASIONAL", Vision Prime
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="CAMPURAN", Vision Prime
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683124&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="NASIONAL", MTA TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="CAMPURAN", MTA TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NASIONAL", ONE
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CAMPURAN", ONE
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683130&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="NASIONAL", KIX
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="CAMPURAN", KIX
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683134&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="NASIONAL", Celestial Movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="CAMPURAN", Celestial Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="NASIONAL", CCM
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="CAMPURAN", CCM
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="NASIONAL", TVN Movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="CAMPURAN", TVN Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683149&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="NASIONAL", TVN
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CAMPURAN", TVN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="NASIONAL", Thrill
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="CAMPURAN", Thrill
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="NASIONAL", CinemaWorld
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="CAMPURAN", CinemaWorld
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="NASIONAL", Hits
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="CAMPURAN", Hits
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683145&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="NASIONAL", Hits Movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="CAMPURAN", Hits Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="NASIONAL", Zee Bioskop
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="CAMPURAN", Zee Bioskop
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683155&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="NASIONAL", My Cinema
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="CAMPURAN", My Cinema
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683152&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Cinema Asia
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="CAMPURAN", My Cinema Asia
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683151&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Family Cinema 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="CAMPURAN", My Family Cinema 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683150&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="NASIONAL", Cinemachi Extra
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="CAMPURAN", Cinemachi Extra
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683161&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="NASIONAL", Cinemachi Max
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="CAMPURAN", Cinemachi Max
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="NASIONAL", Cinemachi Kids
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="CAMPURAN", Cinemachi Kids
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="NASIONAL", XingkongTV
+#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="CAMPURAN", XingkongTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="NASIONAL", Rock Action
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="CAMPURAN", Rock Action
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="NASIONAL", Paramount Network
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="CAMPURAN", Paramount Network
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="NASIONAL", Animax
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="CAMPURAN", Animax
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="NASIONAL", MKidZ
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="CAMPURAN", MKidZ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="NASIONAL", Baby TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683167&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="NASIONAL", Kids TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="CAMPURAN", Kids TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="NASIONAL", ZooMoo
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="CAMPURAN", ZooMoo
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="NASIONAL", DreamWorks
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="CAMPURAN", DreamWorks
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="NASIONAL", Nickelodeon
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="CAMPURAN", Nickelodeon
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="NASIONAL", AXN
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="CAMPURAN", AXN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://cdn.okezone.com/underwood/revamp/2023/tv/desktop/img/share.jpeg" group-title="NASIONAL", OKEZONE TV
+#EXTINF:-1 tvg-logo="https://cdn.okezone.com/underwood/revamp/2023/tv/desktop/img/share.jpeg" group-title="CAMPURAN", OKEZONE TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683128&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="NASIONAL", Lifetime
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="CAMPURAN", Lifetime
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683129&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="NASIONAL", Life
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="CAMPURAN", Life
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683125&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="NASIONAL", TV 9 Nusantara
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="CAMPURAN", TV 9 Nusantara
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683196&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="NASIONAL", FMN
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="CAMPURAN", FMN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683143&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="NASIONAL", SpoTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="CAMPURAN", SpoTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="NASIONAL", SPORTSTAR
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683133&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="NASIONAL", BEIN SPORT
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="CAMPURAN", BEIN SPORT
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="NASIONAL", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="CAMPURAN", BEIN SPORT 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="NASIONAL", Fight Sport
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="CAMPURAN", Fight Sport
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683135&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="NASIONAL", MNC News
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="CAMPURAN", MNC News
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683193&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="NASIONAL", Bandung TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="CAMPURAN", Bandung TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683107&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_78-iXAaoJEHQQEXHdIMpJCraBNrnZelBEoFFiHtWEeDzaQ8TVVTF--TIY0ua0xttzLM&usqp=CAU" group-title="NASIONAL", Tawaf TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_78-iXAaoJEHQQEXHdIMpJCraBNrnZelBEoFFiHtWEeDzaQ8TVVTF--TIY0ua0xttzLM&usqp=CAU" group-title="CAMPURAN", Tawaf TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="NASIONAL", Muslim TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="CAMPURAN", Muslim TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="NASIONAL", QURAN KARIM TV
+#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="CAMPURAN", QURAN KARIM TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="NASIONAL", Love Nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="CAMPURAN", Love Nature
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683089&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="NASIONAL", OUTDOOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="CAMPURAN", OUTDOOR
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&extension=ts&play_token=GVZS088tcf
 
 
@@ -931,32 +387,19 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&ex
 
 #EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64945_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64946_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 3
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64947_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 4
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64948_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64949_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 6
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64950_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 7
+#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 6
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64951_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 8
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64952_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 9
+#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 7
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64953_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 10
+#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 8
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64954_&extension=ts
 
 
@@ -1336,6 +779,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFqmE7vgzk_M1TO39UFbayiaVrBgVMq5tojQm973y791wakO6mj2YqmEKPURmVFtQvrgGZnoO9OcPZjegZKW4TSW0EOH-nbGAL3EK3hu5AMpFvkSc5ZGHzuhQ1xFXadLMhMdbjNDYmggNUO_yzRyohk-CKeu5Mya1D858M-vNLsOdMcH-8z1yvaahvA/s1600/640px-Logo-saktitv%20%281%29.jpg",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV DAERAH",TV MU
+http://starshare.live:8080/live/Pirates/Pirates/151173.ts
 
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/0Vp3f2J.png",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
@@ -2112,6 +1557,9 @@ https://karlfazreen.github.io/playlist/skystore/sky21.m3u8
 
 ############################################## MOVIES ####################################
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",ACTION MOVIES
+http://starshare.live:8080/live/Pirates/Pirates/151228.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH00zgrg/20230520-094926.jpg" group-title="MOVIES", Action Hollywood Movies
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN HD
@@ -2474,7 +1922,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NLgzmN6/DANGDUT.png" group-title="MUSIK",CITRA DANGDUT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="MUSIK",MTV
+http://starshare.live:8080/live/Pirates/Pirates/151182.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="MUSIK", MTV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
 
@@ -2724,45 +2175,65 @@ http://starshare.live:8080/live/Pirates/Pirates/151195.ts
 
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 1X2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242987_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243035_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243036_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 3
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243037_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243027_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243028_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 3
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243029_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 4
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243030_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 5
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243031_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 6
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243032_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 7
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243033_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 8
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243034_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 9
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55327_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 10
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55328_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 1 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=534_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT, ARENA SPORTS 2 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=535_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 3 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=536_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 4 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=537_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 5 RS
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=401_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 1 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=404_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 2 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=218_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 3 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=405_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 4 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=406_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 5 HR
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=787_&extension=ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://smartsistem.xyz:8080/oguzozkan/6726159823/72245
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://smartsistem.xyz:8080/oguzozkan/6726159823/72246
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://smartsistem.xyz:8080/oguzozkan/6726159823/72247
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://smartsistem.xyz:8080/oguzozkan/6726159823/72248
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://smartsistem.xyz:8080/oguzozkan/6726159823/72249
 
 
 
@@ -2771,39 +2242,17 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55328_&exte
 
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT HABER
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2195_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2199_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2207_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2209_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 4
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2212_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=210061_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT MAX 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2215_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT MAX 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2217_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORT",BEIN SPORT MTV
-http://starshare.live:8080/live/Pirates/Pirates/151182.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORT",BEIN SP0RTS 2
-http://starshare.live:8080/live/Pirates/Pirates/151228.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORT",BEIN SP0RTS 3
-http://starshare.live:8080/live/Pirates/Pirates/151173.ts
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="BEIN SPORT",BEIN SPORT 3*
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
-
 #EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",BEIN SPORT EXTRA
 http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/53670.ts
 #EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",BEIN SPORT 1 FRANC
@@ -2822,110 +2271,62 @@ http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/54469.ts
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS
 http://smartsistem.xyz:8080/oguzozkan/6726159823/12
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 FULL HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/5395
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/8
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 QHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/5396
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 SD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 MOBIL
 http://smartsistem.xyz:8080/oguzozkan/6726159823/11
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 480p
 http://smartsistem.xyz:8080/oguzozkan/6726159823/26
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 4K
 http://smartsistem.xyz:8080/oguzozkan/6726159823/7
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="ALL BEIN SPORTS", beIN SPORTS 2 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/14
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="ALL BEIN SPORTS", beIN SPORTS 2 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/15
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="ALL BEIN SPORTS", beIN SPORTS 2 SD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/16
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="ALL BEIN SPORTS", beIN SPORTS 3 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/17
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="ALL BEIN SPORTS", beIN SPORTS 3 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/18
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="ALL BEIN SPORTS", beIN SPORTS 3 SD 
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9237
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="ALL BEIN SPORTS", beIN SPORTS 4 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/19
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="ALL BEIN SPORTS", beIN SPORTS 4 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9238
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="ALL BEIN SPORTS", beIN SPORTS 5 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/69216
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="ALL BEIN SPORTS", beIN SPORTS 5 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/69215
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 1 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/20
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 1 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9233
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 1 Yedek
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9234
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 2 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/21
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 2 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9235
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 2
 http://smartsistem.xyz:8080/oguzozkan/6726159823/9236
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="ALL BEIN SPORTS", beIN SPORTS HABER FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/22
-
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="ALL BEIN SPORTS", beIN SPORTS HABER HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/22358
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="ALL BEIN SPORTS", BEINCONNET CANLI MAC HD -1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30561
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="ALL BEIN SPORTS", BEINCONNET CANLI MAC HD -2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30562
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="ALL BEIN SPORTS", BEINCONNET CANLI MAC HD -3
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30563
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="ALL BEIN SPORTS", BEINCONNET CANLI MAC HD -4
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30564
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="ALL BEIN SPORTS", BEINCONNET CANLI MAC HD -5
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30565
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="ALL BEIN SPORTS", BEINCONNET CANLI MAC HD -6
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30566
 
 
 
+#################################################### SUPER SPORT ###################################################
 
-
-#################################################### ARENA ASTRO ###################################################
-
-#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="-------",ARENA SPORT 4 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213663&extension=ts
-#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="-------",ARENA SPORT 5 SR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=213662&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK3WLJN/Astro-ASSP4.png" group-title="SUPER SPORT",ASTRO SUPER SPORT 4 TENNIS
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="SUPER SPORT", ASTRO SUPER SPORT 5 VOLLY
@@ -2997,7 +2398,7 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extens
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 TR
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7774_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 TR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 GOLF
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7877_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", GALATASARAY TV TR
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7875_&extension=ts
@@ -3165,27 +2566,6 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65111_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ART SPORT 3 AL
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65112_&extension=ts
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 1 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=534_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA DUNIA, ARENA SPORTS 2 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=535_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 3 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=536_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 4 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=537_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 5 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=401_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 1 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=404_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 2 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=218_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 3 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=405_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 4 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=406_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ARENA SPORTS 5 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=787_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORT 1 UK HD
@@ -3866,238 +3246,160 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 1
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4833
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 1 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4835
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 2
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4836
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 2 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4837
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 3
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4838
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 3 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4839
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 4
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4840
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 4 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4841
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 5
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4842
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 5 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4843
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 1 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4854
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 1 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4855
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 1 (2K)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4856
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 2
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4857
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 2 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4858
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 2 (2K)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4859
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 3 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4860
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 3
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4861
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 4 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4862
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 4
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4863
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 5 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4864
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 5
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4865
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 6 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4866
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 6
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4867
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 7 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4868
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 7
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4869
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 8 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4870
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 8
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4871
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 9 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4872
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 10 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4873
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 11 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4874
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 12 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4875
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 13 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4876
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 14 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4877
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT NEWS HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4878
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT TENNİS
 http://smartsistem.xyz:8080/oguzozkan/6726159823/91077
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT PREMIER LEAGUE HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70458
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT MIX FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92952
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT MIX HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92953
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 1 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4892
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 2 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4893
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 3 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4894
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 4 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4895
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT F1
 http://smartsistem.xyz:8080/oguzozkan/6726159823/32103
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT F1+
 http://smartsistem.xyz:8080/oguzozkan/6726159823/32104
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SPORT 1
 http://smartsistem.xyz:8080/oguzozkan/6726159823/65137
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 1 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4879
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 1 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4880
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 2 HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4881
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 2 FHD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4882
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 1
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70406
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 2
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70407
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 3
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70408
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 4
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70409
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 5
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70410
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 6
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70411
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 1 HD+
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92942
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 2 HD+
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92943
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 3 HD+
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92944
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 4 HD+
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92945
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 5 HD+
 http://smartsistem.xyz:8080/oguzozkan/6726159823/92946
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 1
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70423
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 2
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70424
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 3
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70425
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 4
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70426
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 5
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70427
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 1 (HD)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70454
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 2 (HD)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70455
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 3 (HD)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70456
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 4 (HD)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/70457
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 1 DE
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4883
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 1 DE (2K)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4884
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 2 DE
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4885
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 2 DE (2K)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4886
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 2 XTRA HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4887
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SPORTDIGITAL HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4889
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", ORF SPORT  HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4890
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", MOTORVISION TV
 http://smartsistem.xyz:8080/oguzozkan/6726159823/4891
 
@@ -4106,252 +3408,110 @@ http://smartsistem.xyz:8080/oguzozkan/6726159823/4891
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT NEWS (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72186
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72187
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORTS FOOTBALL (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72188
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT ACTION (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72189
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORTS ARENA (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72190
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT MIX (UK)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72191
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORTS MAIN EVENT (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72192
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORTS F1 (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72193
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT GOLF (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72194
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT CRICKET (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72195
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BT SPORT 1 (UK)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72196
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BT SPORT 2 (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72197
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BT SPORT 3 (UK)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72198
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 1 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72199
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 2 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72200
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 3 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72201
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 4 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72202
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 5 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72203
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 1 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72204
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 2 (PT)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72205
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 1 HD+(TR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72206
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 2 HD+(TR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72207
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT NEWS (DE)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72208
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT 1 (DE)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72209
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT 2 (DE)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72210
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BUNDESLIGA 1 (DE)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72211
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DAZN Sport 1 HD (DE)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72212
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DAZN Sport 2 HD (DE)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72213
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ESPN 1 HD (NL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72214
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ESPN 2 HD (NL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72215
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ZIGGO SPORT SELECT HD (NL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72216
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 1 (PL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72217
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 2 (PL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72218
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 3 (PL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72219
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Canal  Sport 1 HD (PL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72220
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Canal  Sport 2 HD (PL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72221
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS PREMIUM 1 AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS PREMIUM 1 AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72222
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS PREMIUM 2 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS PREMIUM 2 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72223
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS PREMIUM 3 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72224
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 1 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 1 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72225
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 2 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 2 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72226
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 3 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 3 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72227
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 4 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 4 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72228
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 5 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 5 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72229
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 6 (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 6 (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72230
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 7 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72231
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 1 EN (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72232
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS 2 EN (AR)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 2 EN (AR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72233
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS M*X 1 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72234
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS M*X 2 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72235
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS M*X 3 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72236
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS M*X 4 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72237
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTST M*X 5 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72238
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: b**N SP0RTS MAX 6 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72239
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 1 (FR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72240
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 2 (FR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72241
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 3 (FR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72242
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 4 (FR)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72243
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: LALIGA TV BAR (ES)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72244
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Arena Sport 1 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72245
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Arena Sport 2 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72246
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Arena Sport 3 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72247
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Arena Sport 4 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72248
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Arena Sport 5 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72249
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 1 (EX-YU)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72250
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 2 (EX-YU)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72251
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 3 (EX-YU)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72252
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 4 (EX-YU)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72253
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Super Sport 1 (AL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72254
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Super Sport 2 (AL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72255
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Super Sport 3 (AL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72256
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Tring Sport 1 (AL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72257
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Tring Sport 2 (AL)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72258
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 1 (RO)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72259
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 2 (RO)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72260
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 3 (RO)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72261
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 4 (RO)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72262
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: UFC Network
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72263
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: NBA Network (US)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72264
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: NHL Network (US)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72265
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: MLB Network (US)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72266
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: NFL Network (US)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72267
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: WWE Network (US)
 http://smartsistem.xyz:8080/oguzozkan/6726159823/72268
 
