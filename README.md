@@ -121,7 +121,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji TV
 http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
-
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://103.166.27.2:8112/play/a018/index.m3u8
 
@@ -140,10 +139,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfNgG1ZV/20230910-140923.jpg" group-title="TV INDO",Nusantara TV
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Jf14Bh/I-NEWS.png" group-title="TV INDO", iNews
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Jf14Bh/I-NEWS.png" group-title="TV INDO", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/768px-Logo_of_CNN_Indonesia.svg.png",CNN INDONESIA
@@ -171,22 +170,23 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 
 ---------------------------------------------------- TV NASIONAL ----------------------------------------------------------------------- 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNC TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNC TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/QtGZFgsb/20230910-120126.jpg",GTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/QtGZFgsb/20230910-120126.jpg",GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
@@ -206,6 +206,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w44437729_b744100_slen
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans-7
 http://starshare.live:8080/live/Pirates/Pirates/151262.ts
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14668612_ico.png?ts=1657379902",TVONE
 https://sport24.my.id/lokal/tvone.m3u8
@@ -385,23 +388,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&ex
 
 
 
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64945_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64946_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64947_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 4
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64948_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64950_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 6
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64951_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 7
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64953_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="EVENT DAZN", DAZN EVENT 8
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=64954_&extension=ts
-
 
 ################################################################## LIVE EVENT ################################################################################
 
@@ -412,58 +398,54 @@ http://starshare.live:8080/live/Pirates/Pirates/151193.ts
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="LIVE EVENT",Soccer Channel
 http://starshare.live:8080/live/Pirates/Pirates/151186.ts
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="LIVE EVENT",Soccer Channel 2
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="LIVE EVENT",Soccer Channel HD
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60459.ts
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="LIVE EVENT",Soccer Channel*
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR 12
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60357
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR 12 HD
+http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60357.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="LIVE EVENT",Soccer Channel*
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTAR*
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60357
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTAR 2 LIVE
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR HD
-http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60357.ts
-#EXTINF:-1 group-title="LIVE EVENT",SPORTSTARS 2 HD
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTARS 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60480
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTARS 2 HD
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60480.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTAR 2*
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT", SPORTSTARS 3
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60411.ts
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT", LIGA BRI 1 (SPORTSTAR3)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT", SPORTSTAR 3 HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="SPORTSTARS 4" tvg-logo="https://i.ibb.co/nmdh1gD/Sportstars-4.png",LIGA BRI 3 (SPORTSTAR 4)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTAR 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT", SPORTSTAR 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="SPORTSTARS 4" tvg-logo="https://i.ibb.co/nmdh1gD/Sportstars-4.png",SPORTSTARS 4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="LIVE EVENT"​, BWF
@@ -1582,16 +1564,18 @@ http://starshare.live:8080/live/Pirates/Pirates/151197.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCq721F3/20230520-093047.jpg" group-title="MOVIES", CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" group-title="MOVIES", Cinemachi Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" group-title="MOVIES", Cinemachi Max
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="MOVIES", Cinemachi Xtra
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="MOVIES", Cinemachi Xtra
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="MOVIES",DISCOVERY Channel
 http://starshare.live:8080/live/Pirates/Pirates/151204.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES", Dunia Sinema
@@ -1644,9 +1628,9 @@ http://starshare.live:8080/live/Pirates/Pirates/151240.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Indonesia Movie Channels
 http://starshare.live:8080/live/Pirates/Pirates/151184.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY51BSQC/KIX-LOGO.jpg" group-title="MOVIES", KIX V
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY51BSQC/KIX-LOGO.jpg" group-title="MOVIES", KIX V
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/6yH88Q1.png",MBC Plus Drama (1080p)
@@ -1717,32 +1701,37 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/MH00zgrg/20230520-094926.jpg",Action Hollywood Movies
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzysk1Jw/AXN.png" group-title="MOVIES 2", AXN HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzysk1Jw/AXN.png" group-title="MOVIES 2", AXN HD
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/LXKZhNfS/20230520-091620.jpg",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/Qdz7ZXdH/20230520-092008.jpg",Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cFXc6sR/celestial-cl-asic.jpg" group-title="MOVIES 2", Celestial Clasic Movies
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cFXc6sR/celestial-cl-asic.jpg" group-title="MOVIES 2", Celestial Clasic Movies
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2bCQXn2/20230520-092705.jpg" group-title="MOVIES 2", Celestial Movies Indonesia
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2bCQXn2/20230520-092705.jpg" group-title="MOVIES 2", Celestial Movies Indonesia
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQRGZP4x/20230520-092826.jpg" group-title="MOVIES 2", Cinema World
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQRGZP4x/20230520-092826.jpg" group-title="MOVIES 2", Cinema World
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="MOVIES 2", Citra Bioskop
@@ -1757,10 +1746,10 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1  group-title="MOVIES 2", FILM & ART
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZwrrzf/20230520-093855.jpg" group-title="MOVIES 2", FMN (Telenovela)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZwrrzf/20230520-093855.jpg" group-title="MOVIES 2", FMN (Telenovela)
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
  
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/mgpYZY8Z/20230520-094008.jpg",FOX MOVIES
@@ -1768,16 +1757,14 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XJc750z/galaxy.jpg" group-title="MOVIES 2", Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XJc750z/galaxy.jpg" group-title="MOVIES 2", Galaxy
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsz34HZt/galaxy-premium.jpg" group-title="MOVIES 2", Galaxy Premium
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsz34HZt/galaxy-premium.jpg" group-title="MOVIES 2", Galaxy Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1  group-title="MOVIES 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png",HBO*
@@ -1791,39 +1778,41 @@ http://starshare.live:8080/live/Pirates/Pirates/151250.ts
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO Xtreme
 http://208.115.225.174:14165
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YDMKY54/20230520-094435.jpg" group-title="MOVIES 2", Hits
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YDMKY54/20230520-094435.jpg" group-title="MOVIES 2", Hits
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES 2", Indonesia Movie Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES 2", Indonesia Movie Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq6cSnxw/20230520-095108.jpg" group-title="MOVIES 2", IMC+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq6cSnxw/20230520-095108.jpg" group-title="MOVIES 2", IMC+
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd 
+
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="MOVIES 2", Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcTJ9HQP/20230520-100657.jpg" group-title="MOVIES 2", OK TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcTJ9HQP/20230520-100657.jpg" group-title="MOVIES 2", OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMdQWxZ9/20230520-101041.jpg" group-title="MOVIES 2", One HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMdQWxZ9/20230520-101041.jpg" group-title="MOVIES 2", One HD
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg" group-title="MOVIES 2", Paramount Network
@@ -1879,10 +1868,10 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1  group-title="MOVIES 2", SYFY
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwpKXfz/20230520-103444.jpg" group-title="MOVIES 2", THRILL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwpKXfz/20230520-103444.jpg" group-title="MOVIES 2", THRILL
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 
@@ -1891,24 +1880,26 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq0gM81Y/tvn.jpg" group-title="MOVIES 2", TVN HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVX1TMWG/tvn-movies.jpg" group-title="MOVIES 2", TvN movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVX1TMWG/tvn-movies.jpg" group-title="MOVIES 2", TvN movies
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/9Qbxdwbs/20230520-103835.jpg",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9098ZxgB/20230520-104252.jpg" group-title="MOVIES 2", Xing Kong TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9098ZxgB/20230520-104252.jpg" group-title="MOVIES 2", Xing Kong TV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="MOVIES 2", ZEE BIOSKOP
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="MOVIES 2", ZEE BIOSKOP
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd 
 
 
@@ -2172,84 +2163,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151195.ts
 
 
 
-
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 1X2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242987_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243035_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243036_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT PREMIUM 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243037_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243027_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243028_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243029_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 4
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243030_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243031_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 6
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243032_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 7
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243033_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 8
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243034_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 9
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55327_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="ARENA SPORT", ARENA SPORT 10
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=55328_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 1 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=534_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT, ARENA SPORTS 2 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=535_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 3 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=536_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 4 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=537_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 5 RS
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=401_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 1 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=404_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 2 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=218_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 3 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=405_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 4 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=406_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ARENA SPORT", ARENA SPORTS 5 HR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=787_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 1 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72245
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 2 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72246
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 3 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72247
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 4 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72248
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARENA SPORT", VIP SPORT: Arena Sport 5 HD (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72249
-
-
-
 ####################################################### BEIN SPORT ################################################
-
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT HABER
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2195_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2199_&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2207_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="BEIN SPORT", BEIN SPORT 4
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=2212_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="BEIN SPORT",BEIN SPORT 3*
 http://starshare.live:8080/live/Pirates/Pirates/143062.ts
@@ -2269,65 +2183,13 @@ http://server.sibfungold.info:8080/live/drzeus/6dP7kJrdct/54469.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS
-http://smartsistem.xyz:8080/oguzozkan/6726159823/12
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 FULL HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/5395
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 QHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/5396
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 SD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 MOBIL
-http://smartsistem.xyz:8080/oguzozkan/6726159823/11
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 480p
-http://smartsistem.xyz:8080/oguzozkan/6726159823/26
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="ALL BEIN SPORTS", beIN SPORTS 1 4K
-http://smartsistem.xyz:8080/oguzozkan/6726159823/7
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="ALL BEIN SPORTS", beIN SPORTS 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/14
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="ALL BEIN SPORTS", beIN SPORTS 2 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/15
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="ALL BEIN SPORTS", beIN SPORTS 2 SD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/16
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="ALL BEIN SPORTS", beIN SPORTS 3 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/17
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="ALL BEIN SPORTS", beIN SPORTS 3 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/18
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="ALL BEIN SPORTS", beIN SPORTS 3 SD 
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9237
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="ALL BEIN SPORTS", beIN SPORTS 4 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/19
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="ALL BEIN SPORTS", beIN SPORTS 4 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9238
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="ALL BEIN SPORTS", beIN SPORTS 5 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/69216
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="ALL BEIN SPORTS", beIN SPORTS 5 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/69215
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 1 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/20
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9233
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 1 Yedek
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9234
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/21
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 2 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9235
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="ALL BEIN SPORTS", beIN SPORTS MAX 2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9236
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="ALL BEIN SPORTS", beIN SPORTS HABER FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/22
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="ALL BEIN SPORTS", beIN SPORTS HABER HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/22358
 
 
 
 
 #################################################### SUPER SPORT ###################################################
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK3WLJN/Astro-ASSP4.png" group-title="SUPER SPORT",ASTRO SUPER SPORT 4 TENNIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK3WLJN/Astro-ASSP4.png" group-title="SUPER SPORT",ASTRO SUPER SPORT 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="SUPER SPORT", ASTRO SUPER SPORT 5 VOLLY
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
@@ -2352,717 +2214,73 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extens
 
 
 
+#EXTINF:-1 group-title="OLAHRAGA", Bein-1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", bein3
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", sports1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", sports2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", sports3
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", sports4
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", sports5
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", premiere football1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", premiere football2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", premiere football3
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", premiere fooorball4
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", premiere fooorball5
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA", tenis
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN HABER TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27725_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 4K TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=32950_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 1 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 2 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 3 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 4 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 5 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 1 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 2 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TIVIBU SPORT 1 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13469_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TIVIBU SPORT 2 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13470_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TIVIBU SPORT 3 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13458_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SMART SPORT TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13471_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", A SPORT TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRT SPORT 1 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14828_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRT SPORT 2 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46642_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRT SPORT 3 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TAY TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14836_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", S SPORT 1 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", S SPORT 2 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46640_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7774_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 GOLF
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7877_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", GALATASARAY TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7875_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FENERBAHCE TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7874_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TJK TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=8708_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", RUMBLE TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=135160_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FIFA ESPORT TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=125225_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", WWE TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=122560_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ALEX TOPROLL TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=124333_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 1 NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2735_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 2 NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=26_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 3 NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 4 NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ZIGGO SPORT SELECT NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2343_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ZIGGO SPORT VOETBAL NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ZIGGO SPORT GOLF NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ZIGGO SPORT RACING NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=934_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EDGE SPORT NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65012_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EXTREME SPORTS NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2351_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", HOURSE COUNTRY NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65011_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", WRESTLING TV NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=124327_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", WWE TV NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=122559_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FIFA ESPORT TV NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=125226_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", UFC POWER SLAP NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=135161_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", PLAY SPORT 1 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65657_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", PLAY SPORT 2 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=66524_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", PLAY SPORT 3 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=48789_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 1 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=40242_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 2 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=40243_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 3 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65656_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN LEAGUE 1 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=66512_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN LEAGUE 2 BE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=66513_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOTORVISION DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16103_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT F1 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=86526_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT TOP EVENT DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16103_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT PREMIER LEAGUE DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=106443_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT MIX DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=106445_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT GOLF DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=106444_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT F1 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=86526_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT AUSTRIA 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15926_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT AUSTRIA 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=77871_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT AUSTRIA 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=77872_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ORF SPORT AU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=28127_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT+1 AU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=28123_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DAZN 1 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=37069_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DAZN 2 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=37070_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DAZN 1 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=37069_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT BUNDESLIGA 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15944_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT BUNDESLIGA 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16083_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT BUNDESLIGA 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16085_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 1 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=158_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 2 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=159_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 3 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1219_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 4 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19331_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 5 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19330_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 6 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19329_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 7 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19328_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 8 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19327_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 9 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63135_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 10 FR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63136_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BLUE SPORT D1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24906_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BLUE SPORT D1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=117794_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BLUE SPORT D2 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=117794_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT DIGITAL 1 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=247_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT DIGITAL 2 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=248_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT DIGITAL 3 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=249_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT DIGITAL 4 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=250_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT DIGITAL 5 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=6157_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT DIGITAL 6 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65014_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRING SPORT NEWS AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=6155_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRING SPORT 1 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2332_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRING SPORT 2 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2333_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", K SPORT 1 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9833_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", K SPORT 2 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=8967_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", K SPORT 3 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9834_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ART SPORT 1 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65110_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ART SPORT 2 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65111_&extension=ts    
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ART SPORT 3 AL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65112_&extension=ts
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORT 1 UK HD
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=213_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 1 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 2 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11485_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 3 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 4 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 5 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109870_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 6 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109871_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TNT SPORTS 7 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109872_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MUTV UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11435_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", LFC TV UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1785_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", RANGER FC TV UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=151735_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", RACING TV UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11403_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=985_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", POLSAT SPORTS EXTRA PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=22069_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", POLSAT SPORTS FIGHT PL 
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=22087_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", POLSAT SPORTS PL 
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=22086_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", POLSAT SPORTS PREMIUM 1 PL 
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63651_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", POLSAT SPORTS PREMIUM 2 PL 
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63652_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", POLSAT SPORTS PREMIUM 3 PL 
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63653_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", CANAL SPORTS+ PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=21909_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", CANAL SPORTS 2 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=21922_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", CANAL SPORTS 3 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63648_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", CANAL SPORTS 4 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63649_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", CANAL SPORTS 5 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15616_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORTKLUB PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63658_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORTS 1 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=21904_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORTS 2 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=21903_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORTS 3 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41766_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORTS 4 PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41767_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", GOLF CHANEL PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63656_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FIGHT BOX PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63656_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FIGHTKLUB PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63655_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TVP SPORT PL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=21994_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", V SPORT 1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13761_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", V SPORT PREMIUM SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61928_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", V SPORT GOLF SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61972_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", V SPORT GOLF 2 SW2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=71470_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TV3 SPORT 1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13764_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TV3 SPORT 2 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13765_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TV3 SPORT PLUS SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13763_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", C MORE SPORT GOLF SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65453_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", C MORE SPORT 1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13749_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", C MORE SPORT 2 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64962_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", C MORE SPORT 3 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64963_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORTKANALEN SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65467_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TV2 SPORT 1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111201_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TV2 SPORT 2 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111202_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TV2 SPORT PREMIUM SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111203_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT ACTION UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11400_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT ARENA UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=28035_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT CRICKET UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=210_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT F1 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=214_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT FOOTBALL UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=28034_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT GOLF UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11401_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT MAIN EVENT UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7641_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT MIX UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=22456_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18240_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 2 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18215_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FIGHT NETWORK US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29513_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FOX SPORT SOCCER US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19942_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FOX SPORT 1 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18206_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FOX SPORT 2 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18205_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NFL NETWORK US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=102466_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MBL NETWORK US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24828_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NBA TV US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18174_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NBCSN US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=19941_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORTNET ONE US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18154_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TSN 1 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18139_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TSN 2 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18138_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TSN 3 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18137_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TSN 4 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18136_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TSN 5 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18135_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", LALIGA TV ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=45121_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR LALIGA ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16510_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR LALIGA 1 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61974_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR LALIGA 2 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61975_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR LALIGA 3 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61976_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR LALIGA DE CAMPIONES ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16512_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR DEPORTES 1 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=560_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR F1 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16507_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR DAZN F1 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOVISTAR GOLF ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16509_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", REAL MADRID TV ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=845_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13173_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16539_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", GOL PLAY ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16514_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TELEDEPORTE ES
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13155_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2739_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9407_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 1 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 2 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63301_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 3 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 4 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 5 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63304_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ELEVEN SPORT 6 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63305_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", KOMBAT SPORT PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BENFICA TV PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1171_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", REAL MADRID TV PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63306_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORTING TV PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=2732_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NBA TV PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MOTORVISION TV PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63309_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 1 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=864_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 2 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13184_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 3 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=862_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 4 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1021_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 5 PT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1022_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT UNO IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=4395_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT 24 IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=296_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT F1 IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31015_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT FOOTBALL IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64224_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT NBA IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64227_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT ARENA IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64226_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY SPORT MOTOGP IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46094_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY CALCIO 1 IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46477_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SKY CALCIO 2 IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=46478_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", RAI SPORT IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=4344_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=4387_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=60822_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SUPER TENNIS IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=4299_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT ITALIA IT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=4301_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIGI SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIGI SPORTS 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIGI SPORTS 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=804_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIGI SPORTS 4
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9180_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TELEKOM SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ORANGE SPORTS 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=162299_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ORANGE SPORTS 2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ORANGE SPORTS 3
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ORANGE SPORTS 4
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 RO
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9178_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 RO
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9177_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FISHING HUNTING RO
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61556_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", RING TV BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9247_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", KHL TV BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61857_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NOVA SPORT BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MAX SPORT 1 BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61815_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MAX SPORT 2 BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61816_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MAX SPORT 3 BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61817_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MAX SPORT 4 BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIEMA SPORT 1 BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIEMA SPORT 2 BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FIGHTBOX BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TRACE SPORT STARS BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61843_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", AUTO MOTOR SPORT BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61759_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORTAL BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61840_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", AUTOMOTO TV BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61760_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 1 PREMIUM AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=117446_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 2 PREMIUM AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=117447_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 3 PREMIUM AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=117448_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 1 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13241_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 2 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13242_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 3 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13243_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 4 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13244_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 5 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1966_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 6 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13246_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 7 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13247_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 8 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13248_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 9 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13249_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT 10 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13250_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 1 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=113579_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BEIN SPORT MAX 2 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13250_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ABU DHABI SPORT 1
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63873_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ABU DHABI SPORT 1 ASIA
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63872_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", AL KASS SPORT 1 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=6992_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", AL KASS SPORT 2 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=6993_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", AL KASS SPORT 4 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63874_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", KSA SPORT 1 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63870_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", KSA SPORT 1 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63871_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DUBAI RACING 1 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61170_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DUBAI RACING 2 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61174_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DUBAI RACING 3 AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=6998_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NILE SPORT AR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7456_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", PTV SPORT IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14903_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", STAR SPORT 1 IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7892_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", STAR SPORT 2 IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7893_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SONY TEN SPORT 1 IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SONY TEN SPORT 2 IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14794_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SONY TEN SPORT 3 IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14793_&extension=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", WILLOW CRICKET IN
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14924_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", PTV SPORT PK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65510_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", TEN SPORT PK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65516_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIGI SPORT 1 HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23626_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIGI SPORT 2 HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23632_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT 1 HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23635_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT 2 HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23584_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", M4 SPORT HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=49326_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 1 HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=147286_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", EUROSPORT 2 HU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=71492_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NOVA SPORT 1 CZ
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23580_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", NOVA SPORT 2 CZ
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=23581_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 1 BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64200_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 2 BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64201_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SPORT TV 3 BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64202_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FOX SPORT 1 BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64184_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", FOX SPORT 2 BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64185_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", BAND SPORT BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=64180_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", PREMIERE SPORT 1 BR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65678_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ONE YES SPORT IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121864_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES ONE SPORT IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121864_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 1 IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121793_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 2 IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121792_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 3 IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121866_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 4 IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121790_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 5 IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121789_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 5 GOLD IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121868_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", YES SPORT 5 PLUS IL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=121867_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN MX
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24982_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 3 MX
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24981_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 1 MX
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24969_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", ESPN 2 MX
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=24970_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", WINSPORT CO
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=66833_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", DIRECT TV CO
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=66832_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", CBC SPORT AZ
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=27675_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SETANTA SPORT 1 UR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65353_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", SETANTA SPORT 2 UR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65354_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MATCH ARENA RU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65413_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MATCH BOETS RU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65325_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MATCH IGRA RU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65415_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="OLAHRAGA", MATCH CTPAHA RU
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65331_&extension=ts
 
 
 ######################################################## SPORTS ##################################################
@@ -3245,278 +2463,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4833
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 1 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4835
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4836
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4837
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 3
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4838
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 3 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4839
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 4
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4840
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 4 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4841
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 5
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4842
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", BUNDESLIGA 5 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4843
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4854
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 1 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4855
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 1 (2K)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4856
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4857
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4858
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 2 (2K)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4859
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 3 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4860
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 3
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4861
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 4 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4862
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 4
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4863
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 5 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4864
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 5
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4865
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 6 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4866
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 6
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4867
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 7 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4868
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 7
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4869
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 8 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4870
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 8
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4871
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 9 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4872
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 10 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4873
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 11 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4874
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 12 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4875
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 13 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4876
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT 14 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4877
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT NEWS HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4878
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT TENNİS
-http://smartsistem.xyz:8080/oguzozkan/6726159823/91077
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT PREMIER LEAGUE HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70458
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT MIX FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92952
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT MIX HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92953
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4892
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 2 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4893
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 3 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4894
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT AUSTRIA 4 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4895
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT F1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/32103
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SKY SPORT F1+
-http://smartsistem.xyz:8080/oguzozkan/6726159823/32104
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SPORT 1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/65137
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 1 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4879
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4880
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 2 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4881
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4882
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70406
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70407
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 3
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70408
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 4
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70409
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 5
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70410
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", DAZN Event 6
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70411
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 1 HD+
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92942
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 2 HD+
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92943
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 3 HD+
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92944
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 4 HD+
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92945
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", RTL EVENT 5 HD+
-http://smartsistem.xyz:8080/oguzozkan/6726159823/92946
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70423
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70424
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 3
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70425
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 4
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70426
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", Magenta 5
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70427
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 1 (HD)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70454
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 2 (HD)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70455
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 3 (HD)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70456
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", TELEKOM EISHOCKEY 4 (HD)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/70457
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 1 DE
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4883
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 1 DE (2K)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4884
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 2 DE
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4885
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 2 DE (2K)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4886
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", EUROSPORT 2 XTRA HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4887
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", SPORTDIGITAL HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4889
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", ORF SPORT  HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4890
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SKY SPORT", MOTORVISION TV
-http://smartsistem.xyz:8080/oguzozkan/6726159823/4891
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT MIX (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72191
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BT SPORT 1 (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72196
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BT SPORT 3 (UK)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72198
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 1 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72199
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 2 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72200
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 3 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72201
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 4 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72202
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT TV 5 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72203
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 1 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72204
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 2 (PT)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72205
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SKY SPORT NEWS (DE)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72208
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BUNDESLIGA 1 (DE)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72211
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DAZN Sport 1 HD (DE)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72212
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DAZN Sport 2 HD (DE)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72213
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ESPN 1 HD (NL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72214
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ESPN 2 HD (NL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72215
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ZIGGO SPORT SELECT HD (NL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72216
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 1 (PL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72217
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 2 (PL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72218
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: ELEVEN SPORT 3 (PL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72219
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Canal  Sport 1 HD (PL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72220
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Canal  Sport 2 HD (PL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72221
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS PREMIUM 1 AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72222
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS PREMIUM 2 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72223
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 1 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72225
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 2 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72226
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 3 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72227
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 4 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72228
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 5 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72229
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 6 (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72230
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: BEIN SP0RTS 2 EN (AR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72233
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 1 (FR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72240
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 2 (FR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72241
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 3 (FR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72242
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: RMC SPORT 4 (FR)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72243
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: LALIGA TV BAR (ES)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72244
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 1 (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72250
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 2 (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72251
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 3 (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72252
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: SPORT KLUB 4 (EX-YU)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72253
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Super Sport 1 (AL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72254
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Super Sport 2 (AL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72255
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Super Sport 3 (AL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72256
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Tring Sport 1 (AL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72257
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: Tring Sport 2 (AL)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72258
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 1 (RO)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72259
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 2 (RO)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72260
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 3 (RO)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72261
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: DIGI SPORT 4 (RO)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72262
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: NBA Network (US)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72264
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: NHL Network (US)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72265
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WORLD SPORTS", VIP SPORT: WWE Network (US)
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72268
-
-
-
 ################################################### YACINE ##########################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JyWrdV4/yacine.png" group-title="YACINE",BEIN SPORTS1
@@ -3551,136 +2497,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&exten
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242989_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242990_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242991_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242992_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 4
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242993_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=242994_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 6
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243043_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 7
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243044_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 8
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243045_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORT KLUB", SPORT KLUB 9
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=243046_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253345_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253346_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253347_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 4
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253348_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253349_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 6
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253350_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="CYTAVISION SPORT", CYTAVISION SPORT 7
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:5E:84:00&stream=253351_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="DIGI SPORT", DIGI SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31392_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31391_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31390_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ORANGE SPORT", ORANGE SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31389_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38365_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="TNT SPORT", TNT SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
-
-
-
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30335_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30334_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30333_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30332_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="SPORTV PT", SPORTV 5
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=30331_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45105_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45106_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45107_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45108_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 5
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45109_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="ELEVEN SPORT", ELEVEN SPORT 6
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45110_&extension=ts
 
 
 
