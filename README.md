@@ -26,7 +26,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151249.ts
 http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV HD
-https://vd.iptvgo.workers.dev/hls/play.m3u8?id=204
+http://103.166.27.2:8112/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans-TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -102,7 +102,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="TV INDO", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-http://103.166.27.2:8112/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans TV
 http://starshare.live:8080/live/Pirates/Pirates/151256.ts
@@ -195,6 +194,9 @@ https://sport24.my.id/lokal/Antv.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV HD
 https://sport24.my.id/lokal/Antv2.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=antv
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="TV NASIONAL", SCTV
+https://vd.iptvgo.workers.dev/hls/play.m3u8?id=204
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",I-NEWS
 
