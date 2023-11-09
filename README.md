@@ -349,7 +349,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index
 
 
 
+
+
+
 ################################################################## LIVE EVENT ################################################################################
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
