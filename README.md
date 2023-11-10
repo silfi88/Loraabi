@@ -575,12 +575,18 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
-#EXTINF:-1 group-title="CHAMPION" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",Champions League 2
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
-#EXTINF:-1 group-title="CHAMPION" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",Champions League 3
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
-#EXTINF:-1 group-title="CHAMPION" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png",Champions League 4
-http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/756
+#EXTINF:-1 group-title="CHAMPION", PLAY 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 group-title="CHAMPION", PLAY2
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 group-title="CHAMPION", PLAY3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 group-title="CHAMPION", PLAY4
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 group-title="CHAMPION", PLAY5
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+#EXTINF:-1 group-title="CHAMPION", PLAY6
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
 
@@ -680,9 +686,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="ENTERTAINMENT",Dubai One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ENTERTAINMENT",Dubai TV
@@ -2026,16 +2029,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa0500072884
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZH2XjBSCfecA6Cd_Q4jqCIEamnEfUu-f-A&usqp=CAU",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="CHAMPION", DUBAI RACING 1
+#EXTINF:-1 group-title="SPORTS", DUBAI RACING 1
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
 
-#EXTINF:-1 group-title="CHAMPION", DUBAI RACING 2
+#EXTINF:-1 group-title="SPORTS", DUBAI RACING 2
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 group-title="CHAMPION", DUBAI RACING 3
-https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0",Dubai Racing3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2698,33 +2696,4 @@ http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/69ba44eecceea93cced5aa98bc6e562e.png",TVMax
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1  group-title="INTERNATIONAL TV", 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", 2
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", 4
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
-#EXTINF:-1  group-title="INTERNATIONAL TV", 5
-https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", 6
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", bein sports 1
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="Sports", Premier League
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="Sports", Champions League
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png" group-title="Sports", Motogp
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="Sports", Bundes Liga
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="Sports", Laliga
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Sports", Seri A
-http://qtv.my.id/ch/up.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/1489px-BRI_Liga_1.svg.png" group-title="Sports", BRI liga 1
-http://qtv.my.id/ch/up.mp4 
