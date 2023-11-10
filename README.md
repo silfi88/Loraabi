@@ -49,6 +49,12 @@ http://210.210.155.37/uq2663/h/h06/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",OK TV
 http://starshare.live:8080/live/Pirates/Pirates/151232.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
+https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="INDONESIA",RTV
 http://starshare.live:8080/live/Pirates/Pirates/151271.ts
 
@@ -73,7 +79,7 @@ http://starshare.live:8080/live/Pirates/Pirates/151264.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=BTV
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/768px-Logo_of_CNN_Indonesia.svg.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -82,7 +88,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 group-title="INDONESIA",Indonesiana TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -209,11 +215,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 #EXTINF:-1 group-title="TV INDO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV INDO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
-https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
 
 
 
@@ -305,6 +307,8 @@ https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/768px-Logo_of_CNN_Indonesia.svg.png",CNN Indonesia*
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",CNBC Indonesia
