@@ -2698,5 +2698,19 @@ http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/69ba44eecceea93cced5aa98bc6e562e.png",TVMax
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1  group-title="INTERNATIONAL TV", 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1  group-title="INTERNATIONAL TV", 2
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1  group-title="INTERNATIONAL TV", 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1  group-title="INTERNATIONAL TV", 4
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1  group-title="INTERNATIONAL TV", 5
+http://smart-tv.cc:8080/steveny5997/54332611/447894
+#EXTINF:-1  group-title="INTERNATIONAL TV", 6
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+#EXTINF:-1  group-title="INTERNATIONAL TV", 7
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
