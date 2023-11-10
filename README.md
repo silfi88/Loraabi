@@ -227,6 +227,24 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",CNBC Indonesia HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL",Antara TV
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2Jyq5d7hlUjXVlrDtwOToIqAy9FO9KI43U2J2SBBvcKhNgsxSzwnuK7MMR4VNdcSm0_g5aBVt_vHHpkESI-835UHAw1Eb6FDIHKGooih2W4kiPg8LyJ52cP5WdapqYTenvIPIvfWkj5XvAGdL_qgUr9QxBuDOlu4sHa9ZP5bMX1kAkDL9hsc3vOJHQ/s1600/arek%20%281%29.jpg",Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung TV
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV Indonesia
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
 #EXTINF:-1 group-title="TV NASIONAL",GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
@@ -235,6 +253,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/0Vp3f2J.png",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-URVbbhIoYHnBPfghzsYqlESP4_UoHgmUnXye_wuZScHlgddZsZTrPPJqzw4i2JQMedB2drNzmqTLkNvBQL3n-YQLqxxIIRGCEwbcW3KesXa-XIz0w9wqYP07kVmCtnf0hDWpARdrPWgcCsexfGsdJZNFsXE8GpkCWmsNlEbtM4faAw2I6jb9yPKfIQ/s1600/ugtv%20%281%29.jpg",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -553,32 +575,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extensi
 
 
 
-#################################################### TV DAERAH ###################################################
-
-
-#EXTINF:-1 group-title="TV DAERAH",Antara TV
-https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2Jyq5d7hlUjXVlrDtwOToIqAy9FO9KI43U2J2SBBvcKhNgsxSzwnuK7MMR4VNdcSm0_g5aBVt_vHHpkESI-835UHAw1Eb6FDIHKGooih2W4kiPg8LyJ52cP5WdapqYTenvIPIvfWkj5XvAGdL_qgUr9QxBuDOlu4sHa9ZP5bMX1kAkDL9hsc3vOJHQ/s1600/arek%20%281%29.jpg",Arek TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung TV
-https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV Indonesia
-https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/0Vp3f2J.png",Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-URVbbhIoYHnBPfghzsYqlESP4_UoHgmUnXye_wuZScHlgddZsZTrPPJqzw4i2JQMedB2drNzmqTLkNvBQL3n-YQLqxxIIRGCEwbcW3KesXa-XIz0w9wqYP07kVmCtnf0hDWpARdrPWgcCsexfGsdJZNFsXE8GpkCWmsNlEbtM4faAw2I6jb9yPKfIQ/s1600/ugtv%20%281%29.jpg",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
 
