@@ -473,8 +473,13 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 
 ################################################### WORLDCUP U-17 ###################################################
-#EXTINF:-1 group-title="WORLDCUP U-17", FOOTBALL
-https://tinyurl.com/FREE-12
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 1
+http://103.166.27.2:8112/play/a015
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 2
+https://d.naccl.top/1HIabp
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 3
+https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379978.m3u8
@@ -2042,6 +2047,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/HPVsIa4.png",Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
