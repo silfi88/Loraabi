@@ -1730,12 +1730,15 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Musica Studios
 https://raw.githubusercontent.com/thefirefox12537/streams/master/musika.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Nagaswara Dangdut
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Nagaswara Koplo
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Nagaswara Pop
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3u8
@@ -1745,6 +1748,7 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
 
