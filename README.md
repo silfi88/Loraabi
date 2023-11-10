@@ -2706,11 +2706,25 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1  group-title="INTERNATIONAL TV", 4
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
 #EXTINF:-1  group-title="INTERNATIONAL TV", 5
-http://smart-tv.cc:8080/steveny5997/54332611/447894
-#EXTINF:-1  group-title="INTERNATIONAL TV", 6
 https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", 7
+#EXTINF:-1  group-title="INTERNATIONAL TV", 6
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", bein sports 1
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="Sports", Premier League
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png" group-title="Sports", Champions League
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png" group-title="Sports", Motogp
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="Sports", Bundes Liga
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="Sports", Laliga
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Sports", Seri A
+http://qtv.my.id/ch/up.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/1489px-BRI_Liga_1.svg.png" group-title="Sports", BRI liga 1
+http://qtv.my.id/ch/up.mp4 
