@@ -473,6 +473,8 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 
 ################################################### WORLDCUP U-17 ###################################################
+#EXTINF:-1 group-title="WORLDCUP U-17", FOOTBALL
+https://tinyurl.com/FREE-12
 
 #EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379978.m3u8
