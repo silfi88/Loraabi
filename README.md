@@ -480,53 +480,135 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 
 
+
+################################################### WORLDCUP U-17 ###################################################
+
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379978.m3u8
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 2 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379980.m3u8
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="WORLDCUP U-17",MY| ASTRO SUPERSPORT 2 HD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379981.m3u8
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2um05eA0_1JeNYm776sPjq.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 3 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379982.m3u8
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 4 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379984.m3u8
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT PLUS FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379986.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title=""WORLDCUP U-17"",ASTRO SUPERSPORT 1
+http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/146068
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title=""WORLDCUP U-17"",ASTRO SUPERSPORT 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6TnzYZ/assp1-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sxr3zc/assp2-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+
+#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 group-title="WORLDCUP U-17",ASTRO SUPER SPORT
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59220
+#EXTINF:-1 group-title="WORLDCUP U-17",ASTRO SUPER SPORT3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59218
+#EXTINF:-1 group-title="WORLDCUP U-17",Astro Premier 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71105
+#EXTINF:-1 group-title="WORLDCUP U-17",Astro SuperSport Events 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71146
+#EXTINF:-1 group-title="WORLDCUP U-17" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png",ASTRO SUPER SPORT 4
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1719
+#EXTINF:-1 group-title="WORLDCUP U-17" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png",ASTRO SUPER SPORT 4*
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59217
+#EXTINF:-1 group-title="WORLDCUP U-17",Astro SuperSport Events 6
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71079
+#EXTINF:-1 group-title="WORLDCUP U-17",Astro Premier 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71026
+
+#EXTINF:-1 group-title="WORLDCUP U-17",LIVE 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP U-17", LIVE 2
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP U-17", LIVE 3
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 1
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 2
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 3
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+
+
+
+
 ################################################### CHAMPION ###################################################
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-kr.png" group-title="CHAMPION", SPOTV HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-kr.png" group-title="WORLDCUP U-17", SPOTV HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60448
-#EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="CHAMPION", Spotv 2 HD
+#EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="WORLDCUP U-17", Spotv 2 HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/60482
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="CHAMPION",CHAMPION LEAGUE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="WORLDCUP U-17",CHAMPION LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
 
-#EXTINF:-1 group-title="CHAMPION",Champion 1
+#EXTINF:-1 group-title="WORLDCUP U-17",Champion 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="CHAMPION", CHAMPIONS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="WORLDCUP U-17", CHAMPIONS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="CHAMPION", CHAMPIONS 3 (BEINSPORT 3)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="WORLDCUP U-17", CHAMPIONS 3 (BEINSPORT 3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="CHAMPION", CHAMPIONS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="WORLDCUP U-17", CHAMPIONS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
 https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="CHAMPION", CHAMPIONS 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="WORLDCUP U-17", CHAMPIONS 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
-#EXTINF:-1 group-title="CHAMPION", PLAY 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 group-title="CHAMPION", PLAY2
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 group-title="CHAMPION", PLAY3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 group-title="CHAMPION", PLAY4
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 group-title="CHAMPION", PLAY5
-https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
-#EXTINF:-1 group-title="CHAMPION", PLAY6
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
 
 
 
@@ -1794,17 +1876,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoZzLb5zBTVbhenOIvhsPcuezHodLfT4y9g&usqp=CAU",ARRYADIA 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK3WLJN/Astro-ASSP4.png" group-title="SPORTS",ASTRO SUPER SPORT 4
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport 3
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport 4
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png",Belator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1945,8 +2016,6 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s.id/1d1nU",WWE Network HD
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="SPORTS",W-SPORT
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
 
 
@@ -2106,25 +2175,8 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1703
 #EXTINF:-1 group-title="MALAYSIA",ASTRO Arena2
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1696
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png",ASTRO SUPER SPORT 4
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59217
 
-#EXTINF:-1 group-title="MALAYSIA",ASTRO SUPER SPORT
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59220
-#EXTINF:-1 group-title="MALAYSIA",ASTRO SUPER SPORT2
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
-#EXTINF:-1 group-title="MALAYSIA",ASTRO SUPER SPORT3
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59218
-#EXTINF:-1 group-title="MALAYSIA",Astro Premier 2
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71105
-#EXTINF:-1 group-title="MALAYSIA",Astro SuperSport Events 3
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71146
-#EXTINF:-1 group-title="MALAYSIA",ASTRO Super Sport 4
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1719
-#EXTINF:-1 group-title="MALAYSIA",Astro SuperSport Events 6
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71079
-#EXTINF:-1 group-title="MALAYSIA",Astro Premier 1
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71026
+
 #EXTINF:-1 group-title="MALAYSIA",ASTRO aura
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71025
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",ASTRO Awani
