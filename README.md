@@ -194,6 +194,9 @@ https://sport24.my.id/lokal/tvone.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719",NET TV
 https://sport24.my.id/lokal/Net.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719",NET HD
+http://humiptv.live:8080/live/56565656/56565656/151268.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -495,20 +498,14 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",FIFA 7
 http://humiptv.live:8080/live/56565656/56565656/151171.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 1
-https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 2
 http://103.166.27.2:8112/play/a015
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 2
+http://103.30.87.238:443/wadmanet/norlec212/890
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 3
-https://d.naccl.top/1HIabp
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 4
-https://sabarinaja.questvulz.repl.co/
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",ES| FIFA+ FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/447892.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",FR| FIFA+ FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/447893.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",DE| FIFA+ FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/447894.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 4
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1.OPTUS" tvg-name="OPTUS SPORT 1 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/389186.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="2.OPTUS" tvg-name="OPTUS SPORT 2 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 2 FHD
@@ -609,6 +606,12 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71079
 #EXTINF:-1 group-title="WORLDCUP U-17",Astro Premier 1
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71026
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",ES| FIFA+ FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/447892.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",FR| FIFA+ FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/447893.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",DE| FIFA+ FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/447894.m3u8
 
 #EXTINF:-1 group-title="WORLDCUP U-17",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
@@ -625,12 +628,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 3
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 
 
