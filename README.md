@@ -487,6 +487,42 @@ https://d.naccl.top/1HIabp
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 4
 https://sabarinaja.questvulz.repl.co/
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",ES| FIFA+ FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/447892.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",FR| FIFA+ FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/447893.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="WORLDCUP U-17",DE| FIFA+ FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/447894.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1.OPTUS" tvg-name="OPTUS SPORT 1 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 1 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389186.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="2.OPTUS" tvg-name="OPTUS SPORT 2 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 2 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389187.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="3.OPTUS" tvg-name="OPTUS SPORT 3 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 3 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389188.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="4.OPTUS" tvg-name="OPTUS SPORT 4 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 4 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389189.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5.OPTUS" tvg-name="OPTUS SPORT 5 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 5 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389190.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="6.OPTUS" tvg-name="OPTUS SPORT 6 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 6 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389191.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="7.OPTUS" tvg-name="OPTUS SPORT 7 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 7 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389192.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="8.OPTUS" tvg-name="OPTUS SPORT 8 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 8 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389193.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9.OPTUS" tvg-name="OPTUS SPORT 9 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 9 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389194.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="10.OPTUS" tvg-name="OPTUS SPORT 10 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 10 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389195.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="11.OPTUS" tvg-name="OPTUS SPORT 11 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 11 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389196.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="12.OPTUS" tvg-name="OPTUS SPORT 12 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 12 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389197.m3u8
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" ,SCTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" ,INDOSIAR
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379978.m3u8
 
@@ -526,16 +562,16 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
-#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
@@ -561,6 +597,7 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59217
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71079
 #EXTINF:-1 group-title="WORLDCUP U-17",Astro Premier 1
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71026
+
 
 #EXTINF:-1 group-title="WORLDCUP U-17",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
@@ -720,7 +757,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.png",Rock Entertainment
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.png",Rock Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM
@@ -860,7 +897,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime Investigation Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery HD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
@@ -931,7 +968,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/XD8Vr0d.jpg",NASA TV Media HD
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/Kz00bJbt/National-Geographic.png",National Geograpic
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/Kz00bJbt/National-Geographic.png",National Geograpic
 http://173.225.246.25:8889/udp/239.203.20.73:4003
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://cdn4.mbahnunungonline.net/img/AiXXYZK.png?v=1.0.0.1",National Geographic Abu Dhabi
@@ -1430,7 +1467,7 @@ https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png",Rock Action
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png",Rock Action
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 group-title="MOVIES",SUPERHERO MOVIES
@@ -1864,7 +1901,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TRT%20World%20SD-FirstMedia-Chl-240.jpg",TRT World HD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="NEWS",TVRI WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="NEWS",TVRI WORLD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 
@@ -1911,7 +1948,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLAAZAcZy9o3qEzr6FOHB4Y-bJRnDNzQme4Q&usqp=CAU",Hard Knock TV
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=byPFmwd4yw8HDyR1xiKT&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/220px-Harley-Davidson_logo.svg.png" group-title="SPORTS",Harley Davidson Factory TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/220px-Harley-Davidson_logo.svg.png" group-title="SPORTS",Harley Davidson Factory TV
 https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.livehdtv.net/uploads/kanal/25715irib-varzesh.png",Irib Varzesh
