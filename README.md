@@ -498,53 +498,13 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",FIFA 7
 http://humiptv.live:8080/live/56565656/56565656/151171.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 1
-http://103.166.27.2:8112/play/a015
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 2
 http://103.30.87.238:443/wadmanet/norlec212/890
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 2
+http://103.166.27.2:8112/play/a015
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 4
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1.OPTUS" tvg-name="OPTUS SPORT 1 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 1 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389186.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="2.OPTUS" tvg-name="OPTUS SPORT 2 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 2 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389187.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="3.OPTUS" tvg-name="OPTUS SPORT 3 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 3 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389188.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="4.OPTUS" tvg-name="OPTUS SPORT 4 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 4 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389189.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5.OPTUS" tvg-name="OPTUS SPORT 5 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 5 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389190.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="6.OPTUS" tvg-name="OPTUS SPORT 6 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 6 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389191.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="7.OPTUS" tvg-name="OPTUS SPORT 7 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 7 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389192.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="8.OPTUS" tvg-name="OPTUS SPORT 8 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 8 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389193.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9.OPTUS" tvg-name="OPTUS SPORT 9 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 9 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389194.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="10.OPTUS" tvg-name="OPTUS SPORT 10 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 10 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389195.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="11.OPTUS" tvg-name="OPTUS SPORT 11 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 11 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389196.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="12.OPTUS" tvg-name="OPTUS SPORT 12 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 12 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389197.m3u8
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379978.m3u8
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 2 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379980.m3u8
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 2 HD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379981.m3u8
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2um05eA0_1JeNYm776sPjq.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 3 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379982.m3u8
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 4 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379984.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT PLUS FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379986.m3u8
@@ -552,32 +512,22 @@ http://smart-tv.cc:8080/live/steveny5997/54332611/379986.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1
 http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/146068
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 2
-http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6TnzYZ/assp1-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8sxr3zc/assp2-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 3
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 4
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 5
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
@@ -588,6 +538,16 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&ex
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 4 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/379984.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+
 
 #EXTINF:-1 group-title="WORLDCUP U-17",ASTRO SUPER SPORT
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59220
@@ -621,6 +581,31 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 
 #EXTINF:-1 group-title="WORLDCUP U-17", LIVE 3
 https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1.OPTUS" tvg-name="OPTUS SPORT 1 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 1 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389186.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="2.OPTUS" tvg-name="OPTUS SPORT 2 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 2 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389187.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="3.OPTUS" tvg-name="OPTUS SPORT 3 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 3 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389188.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="4.OPTUS" tvg-name="OPTUS SPORT 4 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 4 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389189.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5.OPTUS" tvg-name="OPTUS SPORT 5 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 5 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389190.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="6.OPTUS" tvg-name="OPTUS SPORT 6 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 6 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389191.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="7.OPTUS" tvg-name="OPTUS SPORT 7 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 7 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389192.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="8.OPTUS" tvg-name="OPTUS SPORT 8 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 8 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389193.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9.OPTUS" tvg-name="OPTUS SPORT 9 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 9 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389194.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="10.OPTUS" tvg-name="OPTUS SPORT 10 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 10 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389195.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="11.OPTUS" tvg-name="OPTUS SPORT 11 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 11 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389196.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="12.OPTUS" tvg-name="OPTUS SPORT 12 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 12 FHD
+http://smart-tv.cc:8080/live/steveny5997/54332611/389197.m3u8
 
 #EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 1
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
