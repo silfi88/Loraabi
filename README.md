@@ -37,14 +37,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",Indosiar HD
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="TV LOKAL" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV",SCTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/TwZ3Tw0j/transtv.jpg",Trans-TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="INDONESIA",Trans 7*
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
@@ -144,16 +144,12 @@ https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
 #################################################### TV NASIONAL ###################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="TV NASIONAL", RCTI HD
-https://link.zozotv.xyz:443/FR433/KKFz7/47
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4OlqKa.png" group-title="TV NASIONAL",MNC TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV
-https://link.zozotv.xyz:443/FR433/KKFz7/48
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
 https://sport24.my.id/lokal/Antv.m3u8
@@ -193,11 +189,8 @@ https://sport24.my.id/lokal/tvone.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719",NET TV
 https://sport24.my.id/lokal/Net.m3u8
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719",NET HD
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET TV HD
 http://humiptv.live:8080/live/56565656/56565656/151268.ts
-
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET TV
-https://link.zozotv.xyz:443/FR433/KKFz7/50
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -294,14 +287,11 @@ http://103.30.87.238:443/wadmanet/norlec212/858
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="TV LOKAL"catchup="", GTV HD
 http://103.30.87.238:443/wadmanet/norlec212/5628
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaIQLv5hJMZMToZZezmYP69sCl72z89ZL688b3LGIH9TjICmCCiBpOrwWp2UFtq2Y_A3HCNql5yYbhn73CwBi-HM5RFYv63oQm8kD0SHhr3MfrgWR-THYAJs6fsAyyseTJ9TKpiDyUKD5bSSemHZv3iEwcsAs8KbtPCmTw6LyrNageuEYSQ44ZIUI/s720/HunanTV.png",ANTV
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV*
-https://link.zozotv.xyz:443/FR433/KKFz7/51
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV LOKAL"catchup="", INDOSIAR HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV LOKAL"catchup="", INDOSIAR
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV LOKAL"catchup="", INDOSIAR HD 
 http://103.30.87.238:443/wadmanet/norlec212/907
