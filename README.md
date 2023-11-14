@@ -61,7 +61,7 @@ http://103.166.27.2:8112/play/a017/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="TV LOKAL", Metro TV 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="INDONESIA", Metro TV 
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -214,9 +214,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png",JTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png",Metro-TV
-http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -282,14 +279,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 
 #################################################### TV LOKAL ###################################################
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
-http://103.30.87.238:443/wadmanet/norlec212/516
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="TV LOKAL", MNCTV HD
-http://103.30.87.238:443/wadmanet/norlec212/858
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="TV LOKAL", GTV HD
-http://103.30.87.238:443/wadmanet/norlec212/5628
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -297,11 +287,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV LOKAL", INDOSIAR
 http://103.166.27.2:8112/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV LOKAL", INDOSIAR HD 
-http://103.30.87.238:443/wadmanet/norlec212/907
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV LOKAL" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="INDOSIAR", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="TV LOKAL" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="INDOSIAR", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
@@ -312,8 +300,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|&User-Agent=YoVide
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="TV LOKAL", RTV
-http://103.30.87.238:443/wadmanet/norlec212/1193
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NZrjLnX/Kompas-TV.png" group-title="TV LOKAL", Kompas TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
@@ -322,9 +308,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8?app_type=web&userid=jjj&chname=Kompas_TV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="TV LOKAL", Metro TV 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7anU0V0.png?v=1.1.1.1" group-title="TV LOKAL",TV ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
@@ -332,15 +315,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nS2rFdl.png" group-title="TV LOKAL",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="TV LOKAL", CNN Indonesia* 
-http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="TV LOKAL",TVRI 
-https://nonton.site:8443/live/ekos/7483/36.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="TV LOKAL",BERITA SATU 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="TV LOKAL", TATV Solo 
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
@@ -364,16 +338,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="LIVE EVENT",WC U 17 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="LIVE EVENT", WC U 17 1 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf 
+ 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -381,36 +346,13 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel VIDIO
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="LIVE EVENT",Soccer Channel VISION+
-http://starshare.live:8080/live/Pirates/Pirates/151186.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="LIVE EVENT",PRO LIGA 
-https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="LIVE EVENT",VOLLY 
-http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/298550 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="LIVE EVENT",VOLY KOREA 
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTk2MTE1MzUsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiZWI5MGVhMy1mNGE4LTRhNmQtOTIwZC0yNWJmMDk4MzUxODgiLCJpYXQiOjE2OTk2MDQzMzV9.buYHtlZ6Vup-WXzzCR2Vnc27VXES4fqfKRcQLD2HGO0 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",INDONESIA VS ECUADOR 
-https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI INDOSIAR
 http://103.166.27.2:8112/play/a016/index.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="LIVE EVENT",MOTO GP 2 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="LIVE EVENT",MOTO GP 3 
-http://esuniptvstream.com:88/F9864567/CARPUHECVV1VMZ3/192420 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="LIVE EVENT"​, BWF 1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="LIVE EVENT", BWF 3 
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR 12
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60357.ts
@@ -520,50 +462,12 @@ https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 #EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 7
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 1
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 2
+#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 3
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 4
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 5
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 6
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 7
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 8
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 9
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 10
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 11
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 12
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT",Event Sport 13
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 14
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE EVENT", Event Sport 15
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIVE EVENT",LIVE 1
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -585,14 +489,18 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 ################################################### WORLDCUP U-17 ###################################################
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV", WORLD CUP 1
-http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/162141
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",Wold CUP Astro SS
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV", WORLD CUP 2
 http://103.166.27.2:8112/play/a016
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV", WORLD CUP 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",WORLD CUP 4
-http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8 
+ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",WORLD CUP 5
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",WORLD CUP 6
@@ -613,9 +521,7 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17" tvg-id="001" tvg-name="016-LABURATV",FIFA 6
 
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 1
-http://103.30.87.238:443/wadmanet/norlec212/890
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL SCTV
 http://103.166.27.2:8112/play/a015
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
@@ -695,18 +601,11 @@ http://smart-tv.cc:8080/live/steveny5997/54332611/389192.m3u8
 http://smart-tv.cc:8080/live/steveny5997/54332611/389193.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="9.OPTUS" tvg-name="OPTUS SPORT 9 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 9 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/389194.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="10.OPTUS" tvg-name="OPTUS SPORT 10 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 10 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389195.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="11.OPTUS" tvg-name="OPTUS SPORT 11 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 11 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389196.m3u8
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="12.OPTUS" tvg-name="OPTUS SPORT 12 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 12 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/389197.m3u8
 
-#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 1
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 2
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP 3
+#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
