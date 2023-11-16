@@ -127,7 +127,6 @@ https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
 
 
 
-
 #################################################### TV NASIONAL ###################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
