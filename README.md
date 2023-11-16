@@ -73,6 +73,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|refe
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|referer=https://www.visionplus.id/
 
+#EXTVLCOPT:http-user_agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png",Usee Prime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
@@ -116,11 +122,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",SindoNews
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|referer=https://www.visionplus.id/
 
-#EXTVLCOPT:http-user_agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png",Usee Prime
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
+
 
 
 
@@ -135,10 +137,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fgcHi2h8yWt6Bc3A7XSquRqWDCQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="TV NASIONAL", RCTI
 https://dev-multiwebdotnet.pantheonsite.io/n91a.mpd
 
-
 #EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV NASIONAL", INDOSIAR
 http://103.166.27.2:8112/play/a016/index.m3u8
@@ -174,11 +174,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JwH9DLklZ3CJDAuN14MsfVhuWbA=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="TV NASIONAL", RTV
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc-3T5MTXozNpOK6KJNdfFTU/ts
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="TV NASIONAL", Moji
 http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc_Whdf5XL2OlOJRnFQLCLyk/ts
-
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3Rte7qwJQ2WFEz9sHdATWI/ts
@@ -188,10 +186,9 @@ http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3Rte7qwJQ2WFEz9sHdATWI/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOov4vv7TEYHQZFTaQ7Kg4Rd6WIBxKb74SLQ&usqp=CAU" group-title="TV NASIONAL", IMC Auto
 https://dev-multiwebdotnet.pantheonsite.io/wgwv.mpd|http-referer=https://visionplus.id
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://img.inews.co.id/media/600/files/inews_new/2020/05/20/vision_prime.jpg",Vision Prime Auto
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://img.inews.co.id/media/600/files/inews_new/2020/05/20/vision_prime.jpg",Vision Prime
 https://dev-multiwebdotnet.pantheonsite.io/y1zm.mpd|http-referer=https://visionplus.id
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14668612_ico.png?ts=1657379902",TVONE
@@ -337,9 +334,8 @@ http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/12/inews-tv-stream.jpg" group-title="TV LOKAL", INews Auto
-https://dev-multiwebdotnet.pantheonsite.io/18gj.mpd
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/12/inews-tv-stream.jpg" group-title="TV LOKAL", INews
+https://dev-multiwebdotnet.pantheonsite.io/18gj.mpd|http-referer=https://visionplus.id
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/12/inews-tv-stream.jpg" group-title="TV LOKAL", INews FHD
 http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3Uv4n-Fsv0_mA7fZXFAttg/ts
@@ -391,17 +387,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|refe
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referer=https://www.visionplus.id/
- 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel VIDIO
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd|referer=https://www.visionplus.id/
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI INDOSIAR
-http://103.166.27.2:8112/play/a016/index.m3u8 
-
+http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="LIVE EVENT",MOTO GP 2 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
