@@ -31,7 +31,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="INDONESIA", INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -145,7 +145,7 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV NASIONAL", INDOSIAR
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV NASIONAL", INDOSIAR hd
-http://103.166.27.2:8112/play/a016/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="TV NASIONAL", SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
