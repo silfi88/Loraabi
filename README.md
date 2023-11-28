@@ -1233,28 +1233,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Gravitas Movies
 https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3MUPATIATFPOHKZPA2ZAORGVFU.jpg" group-title="MOVIES", HBO
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc0yzq9HK97IoLKYJEr7LxQw/ts
-
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3MUPATIATFPOHKZPA2ZAORGVFU.jpg" group-title="MOVIES", HBO HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgcyr31bLenBcEBrP9y_LoEWI/ts 
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/441788568-54be8df07bea97187395dfb255990762ade9fa67d20cb2e34c684283f044084b-d?f=webp" group-title="MOVIES", HBO Hits
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc_k_ukFANAW6kgsC67MggfI/ts 
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/441788568-54be8df07bea97187395dfb255990762ade9fa67d20cb2e34c684283f044084b-d?f=webp" group-title="MOVIES", HBO Hits HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgczLt3knZUKYGuWITwk1vnHg/ts
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ugeBtiJ3omk/maxresdefault.jpg" group-title="MOVIES", HBO Family HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc_uWNADp12eTDIvV6r5goZo/ts 
-
-#EXTINF:-1 tvg-logo="https://proflix.pro/upload/images/h%20(3).jpg" group-title="MOVIES", HBO Signature HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc0tQOSvl8dbwumuFuqEAH0I/ts 
-
-#EXTINF:-1 tvg-logo="https://proflix.pro/upload/images/h%20(3).jpg" group-title="MOVIES", HBO Signature HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3_Z01ce95iCnRxotiILLLU/ts
-
 #EXTINF:-1  group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",HBO Mundi
 http://208.115.225.174:14148
 
@@ -1410,12 +1388,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|referer=https:
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVX1TMWG/tvn-movies.jpg" group-title="MOVIES 2", TvN movies
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|referer=https://www.visionplus.id/
-http://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg",TVN MOVIES*
-http://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1436,6 +1408,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|
 ##################################################### MUSIK #############################################
 
 
+#EXTINF:-1 group-title="MUSIK", ADELLA
+https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA-TASYA-ROSMALA-OM.-ADELLA-LIVE-DI-HJS-PAMEKASAN-MADURA.mp4?rlkey=heqykn0jmdoq5bi672xvx2gns&dl=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIK",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
@@ -1455,9 +1430,6 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIK",K Pop2 Channel
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Live Music Replay
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",Magic Music
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
@@ -1507,17 +1479,11 @@ https://i.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Music*
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",MTV Party Music
-https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
-
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png",MTV pluto tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MTV Unplugged
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09489197fe600073c0570/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",MTV Urban Music
-https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1526,9 +1492,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 #EXTINF:-1 group-title="MUSIK",Nagaswara Dangdut
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="MUSIK", Nagaswara Pop
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -1542,14 +1505,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",OCTO FLIRT
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
-
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/JkDD3bK.png",Panorama FM (1080p)
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/887f87f5db4607fe06a5c084439cbf8c.jpg" group-title="MUSIK",Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LIFE_IS_MUSIC_LOGO_PNG_1300x1300_black.png",Pluto TV Music
-https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png",Play Music
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
@@ -1558,8 +1515,6 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png",Retro tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/2zFQbQi.png",Rotana Music (1080p)
-https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/C1JgLtGC/stingray.png",Stingray Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
@@ -1607,10 +1562,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03
 #EXTINF:-1 group-title="MUSIK" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIK",VEVO 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIK",VEVO 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIK",VEVO 90's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIK",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -1722,221 +1679,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",Bein Sports 1 HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc104gpbtxYVNkQKr3rtS7uM/ts 
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq87dPMlqWCj5VZME2ZyC_mGU1hJhbPP3sYkwtJ-mf2hF/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8PWuy-_eDym7g1hhCCG4aJ-ufnKZhK6dJ0BOgFfyhgF/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqz8z34CIv5XPzIsSnBIQBNMYT3t8M6L9pFLXq1h_k4dZ/ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",Bein Sports 3 HD
-http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc1fUTdk7l41KIK-CQiMKS58/ts 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxR-gcuV84HeJNuKXKUJ0pgU6gmeaZHxrHccZn8HTdwi/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqykaHNhjE-a6tZVI0YntzqlSyJRF8rQf8f7ssFZEYEXo/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyLLhkMVSngHyf-kZR6KC0TKKHgQP2HxBqcss3ISZt1y/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4efyNA5X7GvgxNc3o6pEw0Uq5k_D4Cx3PBD2GKhyfxd/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8z1re-wiGZ0J0dZm9YTyL7l5FVYtaRGl0G7ppsl-eDi/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyyvd8v2BaYDbwfEYUX7h9A-jQJncWmu8OrcvmOih06c/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-kVWJkH4tTdfQCbtvOxlCMJGTCXgQWJ0hriGLh_iA48/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6JHxaQ-x-20T4QrqjgrTx23zdvWgch32G7uzP0XQ09z/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3OIVFu4nHV4WwMgA6MofN4HUPNsoFrCsbXyzuqfmaDf/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-1bE5iK7U0neT1MgB6Uladq40stLeLTI9Xus6UTC-tm/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3byg21TbCl66vZwTFXenM_eE1zP93BO_BTn_3tftw1B/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1JSWN6ZYNlkQgjBBGiUk3fJbSv4hqFykrWy_bhbgp00/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq38ZW2pqJ5A52WVb411U84Is526lextDfH_PLhezPCGW/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3WA0a1Fq6L8iHi4YEVBUrx-Ncw7rmtfROko0aC4D-Is/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzpEfl8q4pBRtmH8K5MO9XvYL4xwKJT9e--W3hViuGRj/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8KaIyuIj_5idrYtLqpMs15NNVno3gQuO4zIyo3oHsL6/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxY5ce1JzfWlAapkassN8RaQIDpGDCjsUXthgbE5OpJw/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwZtk9mBjtRIEEYgiGiX0iGXpO8iDbDtwvzI1_VxpHxA/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5lgk7r8Mp2iBeoHWj6I0XDsXUB-5zs0zeybbknL4f3v/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6ebAX3z8VASUsKkBUIka2uHUQBYvoKHEk-MnLjXiw1W/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq89VY7dtW3CObZ1pkbsxhuHNvryJGzmcpMFcNBT6Fix6/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6kLLl_jNBva1_c6XlTTurZZsTm9EYrJGMBY5rgJ7wpj/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-JfDrq_VCn4gKVbfszfgmoXcrqzJ26wAdn5gCPKwBJ7/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwzc9sBmFAB3a9wtYPTUsb-hpObnGHbMmLbM9Skc-c-n/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-nfiCvoL0JFHNCIwQhxk-uZa_kBgJoZENtcQ-pBdVj2/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq29gihPa3VXqaiouEcla2tDnonP-mAJKOp266mM0TOAJ/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS 2
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5JxXtnbS_YknqNw2CAWak-kmZkvRnyhT5rS6L6dfYER/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS 3
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-V1KmKeuXfBStGdMrVH3cJo-zZtoyFWuevYf1Txqqdu/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS 4
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1e6pYNpXPquie-pZ3zegeUdi4SkHDmSJe9KPPHuZI1j/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS 5
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3DA7m5QaLfIV4IOvuqXerBtf_eN6Ab9aW7S9qB4HUGP/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS EXTRA 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1C_1mchF8Q-96c47q-nDRCg_BIx8KRVMC73A_CJcGRQ/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS EXTRA 2
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq96ANUyiwZex0sVnzAbYxCibjgZQLfmPhmxm3x7HVtZ5/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX HD : SSC SPORTS EXTRA 3
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-tc4Bo3NIMH5WpPPpd-JLAnOZR4H5Furhknxn--07LU/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8MaoV-Dy4Z-sFH_fe_DH8xCWcS_POxg-7x7EVLgUjVV/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS 2
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwOjpN8Tqmg7443Ns0O8k2Jsv7stVAc-ll8lNB8ET8W7/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS 3
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0duFlzo61HuBLT_1KNcktgQGLmS9gruq4xtKPxyzdvU/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS 4
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4wTIQ71PND-E1KtG7EHO_fGDXxTdWLy_SWG7ROWvjqp/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS 5
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0wezfrYInaVnpY6WiNhdoW-BdGhi0sF5TXZYTYrocwq/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS EXTRA 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6GljkvkjI0rrPAsRmbLZzq1wXvzBp0hmo3eurfU7ss5/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS EXTRA 2
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8YAX-lE-39vWJrUcdKrOhWdcsDZRSwA6LOSFmFgx3Ke/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX FHD : SSC SPORTS EXTRA 3
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1HJv9vHz6vfgtn_EFu86Rii3ZXSre3gFwTxHNcIh_Jz/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", GOBX 4K : SSC SPORTS 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8hbscMz-C9c4SkIrJlz88GfUl83Q-ndXt_ZepAbUvFK/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", AD SPORTS PREMIUM HD 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4X9TRyPFynobBBf3Pj9q_SG7IFIHhqWVvji9bEfo4TC/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", AD SPORTS PREMIUM HD 2
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyawQbCzmin8lpdW1UJOzM097rbKWGEqdRsd3klbRONu/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", AD SPORTS PREMIUM FHD 1
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxizr5b9cS0zXryUEReYXHo4BQR2QzkJi9mKrEKVyLKL/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", AD SPORTS PREMIUM FHD 2
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_3piMJvN0DIp4tRciVYxbylSS4M8V3Bi0jGEWyvuHZ2/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2m966b6EVGSKlPZ761bAkjOh8xYT5s0Q9BQFVcPz1j1/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqypeijDNX2xdH8f0mwnOd3zKme6l1gx4guo2j7yB06oF/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9SfMZggJlaAmHRQiASGu7mcDtsn61NfoDXSD0jJ2Q7f/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzT_pzcU_T35zDpV0rIUa52DgwmIi6FLuscZb9Xl6HXv/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwBSbjbIGuh-Vq1TIeCQwIR-TnK2VBU4XuOJSShYALA/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-X9ErGWCS5CNkSG6JZqC2E0AMy_msqSYs3Sv1gE3nvB/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 SD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0nStofCj3Uj224j39w8WU5YT1vMpv7YEDzoLxpcl_B7/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzyR_PKJhXrQ-qU-9vjD2SnMZ39kkoz--VsH5M88X2wy/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2bt6Bi1-cD-ZuNOiVj_KO6CWKd2s3eSUw60z_c6R6MN/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqw3ETANNFwtXgCfDXkAcn_W8tldWC-_hJA-5Zx3Z9Ndd/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9uJGzZcstCSDHzo35Z4PjZ9zfSJ6OJxicuBZIjwtrBj/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3eCwWmAOXgrHGQNBS_pmMHLeoD08R1oAIPFJgyPnUVB/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7ye1WVgpQ7wbEOqML84TmkLMMdX2Z5NRGxyA4z6cKS1/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 HD (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8AighD9aqFKThV2z6uvHh119RQ05Ze-PqwWpY-KPauy/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7qAA036558u_H2u_dZCkPU_et9ce_UIjSezMwznrG_X/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8Kel4NRWjNx3mO0h0rIwy3Q0Oz_Xe3IBmoiBaUZfORH/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_h8gKNUJRd40ghNZu0Rw6zu2_WvrTz7Gp5Q9XQwmErj/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9eWojMzHlx-r9HokEcyl9zKykIM7gk6AZ__lQGaNAvK/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-NYeFPcq4RJ9QPTZVP9fnWqzLzby8Ybl4xTZlwu4FJV/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8zlf_bmIZ_uI3PPmrejog-IwfqBIMCeDea-NUDry1_9/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 FHD H.265 (UHD)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6cXrXUaNmZZ5p3_mat3VSizMkzQSi19Ug-qp8-5xlL0/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8kdUTNLGbo1ROcnsS14mwLS4kEiA56WFe6DXiMRlqEM/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8g-P8VgMZN2F7bZY4Etz4Okn23sqHq3ldP4doiTd6tP/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyuV9QO0uD1jWFY1WI7jUwN454aW4awxWFsl0OQGmIyt/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyUUKnvMXHtHz0Z_IFo1nRvGob4OmTg7YCCZ2co8e6br/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy8ymasOrIH8qZw8cu-xaLUAtFuCtFpjeJTITuLEY-aX/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-gVgRUStnmPcPCtSx0G8ICNECqxdenaYYJaZWHZ44fP/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 SD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3l01oE0C8cKWFRe6CWHhIxHHwRjtrTHn8oVX99IC0uM/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8gzfeMU8UnJ6sWaZyuDddgaGpMObmvAQYnydPya8uM_/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzLRRygjlEiu1Q-hJKLLnxCkDrEMREiTcFJ_13xXP_jL/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq17VN9dRDUxcnH6nD-Iitbf94bszY6-Ud1DteZtHwFgA/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxZ7gKMh2VeopwbuS0P3w7H8KYxkyLJJ3YIstkfR1gm_/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3AGoobGJQmyP8JUuOtnUthWpg1ivS0Jy_90EQIxo2tx/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8Hcd4-EbrVoLMCYJ_dQuvvWR7BQyjD5fMcC62hPxysk/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 HD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-lZueJJPHeipWlnTVhXQADXGQCOWA1K25YLjnKt5YTK/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy_z0mo2W24BJJ8iOT2FEA7NSWxL6Vz414X9477PBJ9-/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9LQliNxI2JQ_VbG3Q8lvRKNBPhrf7WUCrsPVBfJqYMg/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-bRNHul8VoC_730OuRoLeY2_aA4GmnkK7mbyhkOHr0i/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxJB07bRucrqeVHbiZZQtU3yNu-3nn8r-Yc3k2Q19N05/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3_xGkg-O28ullGf41p0f2mLY2487fmUDZYFZB-6u5bQ/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0f4Fkv56hv9sUNf4wZatA5T9k7fr9ICKpe4EKLorLl0/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 FHD (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8D1iQBfnlyIV_rjwWebwq8Q-ZwubWidRel-vs_g9bcY/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 1 FHD H(GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwMpHQazSmNF8uuxSecyLg0Zs8BzPdr-2l9H7X5qgbGG/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 2 FHD H.265 (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxA1tMvZYVKvqbs4GeQXklrUT61qmLr8_EsxA9UP93oN/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 3 FHD H.265 (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq43BRuki6WthOk8LMWVyVaLfb6Kn_qO31gF_ZkxU1mxW/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 4 FHD H.265 (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqz_iOHDR_0P8IzIKHw95a0zmuVULQOzYM518cljOTczD/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 5 FHD H.265 (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8LGZCMS2ksG1L9fBLQFlDe7wmtWlKlGq3g6TfsuuB8Z/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 6 FHD H.265 (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1udZvE012PWMzBti8TUJF4h6DACp-l0iDerDZOtg0T6/ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORTS", BeIN Sports 7 FHD H.265 (GOGO)
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyQC2yaG0wNER3WVQo7-Y4vKopEmzIHKkcQ9HrCVI2EE/ts
 
 
 
@@ -2253,83 +1995,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN 1 
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/48355 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN 2 
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/2387 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN IT 1 
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/79220
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN IT 2 
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/39497 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN ES 1 
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/64711 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN ES 1 
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/64712
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",AC Milan TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-025/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",M+ LaLiga TV UHD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=2e0bb7fb0aa441758a91e758bf30d829:e0b47b64161c8f96933d4e828b0e8a7e 
-https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manifest.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",Eurosport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",Inter Milan TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",TNT Sports 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",Eleven 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS DAZN",DAZN Eleven 2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="SPORTS DAZN", DANZ ELEVEN 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6
-ttps://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="SPORTS DAZN", DANZ ELEVEN 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="SPORTS DAZN", DANZ ELEVEN 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png" group-title="SPORTS DAZN", DANZ ELEVEN 4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png" group-title="SPORTS DAZN", DANZ ELEVEN 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png" group-title="SPORTS DAZN", DANZ ELEVEN 6 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS DAZN",SPORTSTAR 2 
@@ -2362,44 +2027,29 @@ http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157558
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS DAZN", Astro SuperSport 5 
 http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/287792 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS DAZN",BEIN 1 AIS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889 
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 1 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.ts 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="SPORTS DAZN",BEIN 2 AIS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 2 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5158.ts 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="SPORTS DAZN",BEIN 3 AIS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c 
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 3 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5159.ts 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="SPORTS DAZN",BEIN 4 AIS 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299 
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 4 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5160.ts 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="SPORTS DAZN",BEIN 5 AIS #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 5 (1080p) 
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5161.ts 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS DAZN",BEIN 6 AIS #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 6 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5162.ts 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="SPORTS DAZN",BEIN 7 AIS #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 1 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.ts 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 2 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5158.ts 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 3 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5159.ts 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 4 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5160.ts 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 5 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5161.ts 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 6 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5162.ts 
-
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 7 (1080p) 
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 7 (1080p) 
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5163.ts 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 8 (1080p) http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5164.ts 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" group-title="SPORTS DAZN",HUB PREMIER 8 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5164.ts 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS DAZN", True Vision NBA 
 http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/281638 
@@ -2409,9 +2059,6 @@ http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/162591
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS DAZN", True Sport 4 
 http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/285569 
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS DAZN", True vision Premer Lague (English) 
-http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/298491 
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://i.imgur.com/6bnikru.png",Orange Sport 1 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
@@ -2428,46 +2075,8 @@ https://webudit.hlsjs.ru/lb/premium440/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.hlsjs.ru/lb/premium441/index.m3u8 
 
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://i.imgur.com/PJxNAre.png",Orange Sport 4 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 https://webudit.hlsjs.ru/lb/premium442/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS DAZN", ELEVEN SPORTS 1 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1499 
-
-#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS DAZN", ELEVEN SPORTS 2 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1503 
-
-#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS DAZN", ELEVEN SPORTS 3 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1506 
-
-#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS DAZN", ELEVEN SPORTS 4 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1509 
-
-#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS DAZN", ELEVEN SPORTS 5 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1512 
-
-#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS DAZN", ELEVEN SPORTS 6 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1515 
-
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9 
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd 
-
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee 
-http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd 
-
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e 
-http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd 
-
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a 
-http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dPp8GSr/SS-Variety-1.png" group-title="SPORTS DAZN",Supersport Variety 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.hlsjs.ru/lb/premium416/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzjY2yzX/SS-Variety-2.png" group-title="SPORTS DAZN",Supersport Variety 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.hlsjs.ru/lb/premium417/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t49ZMwhb/SS-Variety-3.png" group-title="SPORTS DAZN",Supersport Variety 3 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.hlsjs.ru/lb/premium418/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="SPORTS DAZN",Supersport Variety 4 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="SPORTS DAZN",Supersport Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.hlsjs.ru/lb/premium419/index.m3u8 
 
