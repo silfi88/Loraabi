@@ -285,6 +285,68 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 
 #################################################### TV LOKAL ###################################################
 
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV LOKAL", GTV
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157578
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV LOKAL", INews
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157579
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="TV LOKAL", MNC News
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165058
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV LOKAL", MNC TV
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165054
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV LOKAL", RCTI
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157591
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/162138
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV LOKAL", GTV
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157578
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV LOKAL", INews
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157579
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="TV LOKAL", MNC News
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165058
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV LOKAL", MNC TV
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165054
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV LOKAL", RCTI
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV LOKAL", INDOSIAR
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="TV LOKAL", KOMPAS TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="TV LOKAL", ANTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV LOKAL", TRANS 7
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="TV LOKAL", TRANS TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV LOKAL", RCTI
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV LOKAL", MNC TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV LOKAL", GTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="TV LOKAL", TV One
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683101&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="TV LOKAL", Metro TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="TV LOKAL", Net TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="TV LOKAL", Rajawali TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683095&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="TV LOKAL", OK TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683105&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="TV LOKAL", Jak TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="TV LOKAL", JTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="TV LOKAL", Berita Satu
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683182&extension=ts&play_token=GVZS088tcf
+https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/4.m3u8
+https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/5.m3u8
+https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA-TASYA-ROSMALA-OM.-ADELLA-LIVE-DI-HJS-PAMEKASAN-MADURA.mp4?rlkey=heqykn0jmdoq5bi672xvx2gns&dl=1
+#EXTINF:-1 tvg-id="" group-title="TV LOKAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
+https://mangga-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eI49eXBY54xsgtlYOP5B0QxWsos=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="TV LOKAL", MNCTV
 http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc0DdzTY3uWXs-Fh5e7OmA_A/ts 
 
@@ -397,6 +459,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|re
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/rFfr9sD/syed1.jpg" group-title="LIVE EVENT",Badminton COURT 1
+http://43.175.45.147/play.cbalive.weibisai.com/live/3437336302481061_AiSD.m3u8?txSecret=17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6&txTime=6566C550&utm_medium=social&utm_source=heylink.me        
+#EXTINF:0 tvg-logo="https://i.ibb.co/rFfr9sD/syed1.jpg" group-title="LIVE EVENT",Badminton COURT 2
+http://43.175.45.147/play.cbalive.weibisai.com/live/3437336547273061_AiSD.m3u8?txSecret=d4a07091e57e368b4e23639741b2ef2d&txTime=6566C550&utm_medium=social&utm_source=heylink.me        
+#EXTINF:0 tvg-logo="https://i.ibb.co/rFfr9sD/syed1.jpg" group-title="LIVE EVENT",Badminton court 3
+http://43.175.45.147/play.cbalive.weibisai.com/live/3437336766441061_AiSD.m3u8?txSecret=60e3fa6d052019e92edaae315607b5c2&txTime=6566C550&utm_medium=social&utm_source=heylink.me        
+#EXTINF:0 tvg-logo="https://i.ibb.co/rFfr9sD/syed1.jpg" group-title="LIVE EVENT",Badminton court 4
+http://43.175.45.147/play.cbalive.weibisai.com/live/3437336964459061_AiSD.m3u8?txSecret=fc109f4c6b5add10659f32ffac1ffdae&txTime=6566C550&utm_medium=social&utm_source=heylink.me
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI INDOSIAR
 http://103.166.27.2:8112/play/a016/index.m3u8
