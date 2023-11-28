@@ -13,17 +13,17 @@ https://dl.dropboxusercontent.com/s/apmezzrgt4wapua/subs.mp4?dl=0.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="INDONESIA", RCTI
-http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157591
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/fyWdh93z/20230910-115225.jpg",MNC TV
-http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165054
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/QtGZFgsb/20230910-120126.jpg",GTV
-http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157578
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -63,7 +63,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extensi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Jf14Bh/I-NEWS.png" group-title="INDONESIA", iNews
-http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157579
+http://starshare.live:8080/live/123456/654321/151259.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -122,20 +122,19 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fgcHi2h8yWt6Bc3A7XSquRqWDCQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="TV NASIONAL", RCTI
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+
 
  
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV NASIONAL", MNC TV HD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
+
 
 #EXTINF:-103 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/hGFhQQvT/logo-gtv.png",GTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV NASIONAL", INDOSIAR
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/162138
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="TV NASIONAL", SCTV
-
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
 https://sport24.my.id/lokal/Antv.m3u8
@@ -216,7 +215,6 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="TV NASIONAL", MNC News
-http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165058
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="TV NASIONAL", Jak TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf 
@@ -3082,417 +3080,3 @@ http://37.26.86.39:48768/movies/traintobusan2.mp4
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="BACKUP", (VD) NHK World Japan
-http://starshare.live:8080/live/123456/654321/151135.ts
-
-#EXTINF:-1 group-title="BACKUP", (VD) FashionTV L'Original
-http://starshare.live:8080/live/123456/654321/151138.ts
-
-#EXTINF:-1 group-title="BACKUP", (VD) Rock Action
-http://starshare.live:8080/live/123456/654321/151142.ts
-
-#EXTINF:-1 group-title="BACKUP", (VD) ROCK Entertainment
-http://starshare.live:8080/live/123456/654321/151143.ts
-
-#EXTINF:-1 group-title="BACKUP", (VD) Champions TV 3
-http://starshare.live:8080/live/123456/654321/151151.ts
-
-#EXTINF:-1 group-title="BACKUP", (VD) Kompas TV
-http://starshare.live:8080/live/123456/654321/151164.ts
-
-#EXTINF:-1 group-title="BACKUP", (VD) Indosiar
-http://starshare.live:8080/live/123456/654321/151171.ts
-
-#EXTINF:-1 group-title="BACKUP", Bein Sport 3 HD (D)
-http://starshare.live:8080/live/123456/654321/151173.ts
-
-#EXTINF:-1 group-title="BACKUP", CNBC INDONESIA (D)
-http://starshare.live:8080/live/123456/654321/151175.ts
-
-#EXTINF:-1 group-title="BACKUP", CNN INDONESIA (D)
-http://starshare.live:8080/live/123456/654321/151176.ts
-
-#EXTINF:-1 group-title="BACKUP", INDOSIAR (D)
-http://starshare.live:8080/live/123456/654321/151177.ts
-
-#EXTINF:-1 group-title="BACKUP", BERITA SATU WORLD (D)
-http://starshare.live:8080/live/123456/654321/151178.ts
-
-#EXTINF:-1 group-title="BACKUP", BERITA SATU (D)
-http://starshare.live:8080/live/123456/654321/151179.ts
-
-#EXTINF:-1 group-title="BACKUP", TVKU (D)
-http://starshare.live:8080/live/123456/654321/151180.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Sports 3 HD (D)
-http://starshare.live:8080/live/123456/654321/151181.ts
-
-#EXTINF:-1 group-title="BACKUP", Bein Sports 1 HD (D)
-http://starshare.live:8080/live/123456/654321/151182.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC News HD (D)
-http://starshare.live:8080/live/123456/654321/151183.ts
-
-#EXTINF:-1 group-title="BACKUP", Indonesia Movie Channels HD (D)
-http://starshare.live:8080/live/123456/654321/151184.ts
-
-#EXTINF:-1 group-title="BACKUP", RCTI HD (D)
-http://starshare.live:8080/live/123456/654321/151185.ts
-
-#EXTINF:-1 group-title="BACKUP", Soccer Channel HD (D)
-http://starshare.live:8080/live/123456/654321/151186.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Sports 2 HD (D)
-http://starshare.live:8080/live/123456/654321/151187.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Sports HD (D)
-http://starshare.live:8080/live/123456/654321/151188.ts
-
-#EXTINF:-1 group-title="BACKUP", Galaxy Premium HD (D)
-http://starshare.live:8080/live/123456/654321/151189.ts
-
-#EXTINF:-1 group-title="BACKUP", Galaxy HD (D)
-http://starshare.live:8080/live/123456/654321/151190.ts
-
-#EXTINF:-1 group-title="BACKUP", Asian Food Network HD (D)
-http://starshare.live:8080/live/123456/654321/151191.ts
-
-#EXTINF:-1 group-title="BACKUP", NickJr HD (D)
-http://starshare.live:8080/live/123456/654321/151192.ts
-
-#EXTINF:-1 group-title="BACKUP", SPOTV 2 HD (D)
-http://starshare.live:8080/live/123456/654321/151193.ts
-
-#EXTINF:-1 group-title="BACKUP", SPOTV HD (D)
-http://starshare.live:8080/live/123456/654321/151194.ts
-
-#EXTINF:-1 group-title="BACKUP", SEA Channel (D)
-http://starshare.live:8080/live/123456/654321/151195.ts
-
-#EXTINF:-1 group-title="BACKUP", NHK World Japan (D)
-http://starshare.live:8080/live/123456/654321/151196.ts
-
-#EXTINF:-1 group-title="BACKUP", Cinemax (D)
-http://starshare.live:8080/live/123456/654321/151197.ts
-
-#EXTINF:-1 group-title="BACKUP", Arirang Korea (D)
-http://starshare.live:8080/live/123456/654321/151198.ts
-
-#EXTINF:-1 group-title="BACKUP", Celestial Movies (D)
-http://starshare.live:8080/live/123456/654321/151199.ts
-
-#EXTINF:-1 group-title="BACKUP", SCM (D)
-http://starshare.live:8080/live/123456/654321/151200.ts
-
-#EXTINF:-1 group-title="BACKUP", Fox News (D)
-http://starshare.live:8080/live/123456/654321/151201.ts
-
-#EXTINF:-1 group-title="BACKUP", CNN (D)
-http://starshare.live:8080/live/123456/654321/151202.ts
-
-#EXTINF:-1 group-title="BACKUP", History (D)
-http://starshare.live:8080/live/123456/654321/151203.ts
-
-#EXTINF:-1 group-title="BACKUP", Discovery Channel (D)
-http://starshare.live:8080/live/123456/654321/151204.ts
-
-#EXTINF:-1 group-title="BACKUP", Nat Geo Wild (D)
-http://starshare.live:8080/live/123456/654321/151205.ts
-
-#EXTINF:-1 group-title="BACKUP", HBO Signature (D)
-http://starshare.live:8080/live/123456/654321/151206.ts
-
-#EXTINF:-1 group-title="BACKUP", Sony ONE (D)
-http://starshare.live:8080/live/123456/654321/151207.ts
-
-#EXTINF:-1 group-title="BACKUP", Animax (D)
-http://starshare.live:8080/live/123456/654321/151208.ts
-
-#EXTINF:-1 group-title="BACKUP", AXN (D)
-http://starshare.live:8080/live/123456/654321/151209.ts
-
-#EXTINF:-1 group-title="BACKUP", Lifetime (D)
-http://starshare.live:8080/live/123456/654321/151210.ts
-
-#EXTINF:-1 group-title="BACKUP", News Asia Channel (D)
-http://starshare.live:8080/live/123456/654321/151211.ts
-
-#EXTINF:-1 group-title="BACKUP", HBO Hits (D)
-http://starshare.live:8080/live/123456/654321/151212.ts
-
-#EXTINF:-1 group-title="BACKUP", Crime Investigation (D)
-http://starshare.live:8080/live/123456/654321/151214.ts
-
-#EXTINF:-1 group-title="BACKUP", Warner TV (D)
-http://starshare.live:8080/live/123456/654321/151215.ts
-
-#EXTINF:-1 group-title="BACKUP", CNBC (D)
-http://starshare.live:8080/live/123456/654321/151216.ts
-
-#EXTINF:-1 group-title="BACKUP", Nat Geo (D)
-http://starshare.live:8080/live/123456/654321/151217.ts
-
-#EXTINF:-1 group-title="BACKUP", Nickelodeon (D)
-http://starshare.live:8080/live/123456/654321/151218.ts
-
-#EXTINF:-1 group-title="BACKUP", TV5 Monde Asia (D)
-http://starshare.live:8080/live/123456/654321/151219.ts
-
-#EXTINF:-1 group-title="BACKUP", Animal Planet (D)
-http://starshare.live:8080/live/123456/654321/151220.ts
-
-#EXTINF:-1 group-title="BACKUP", Cartoon Network (D)
-http://starshare.live:8080/live/123456/654321/151221.ts
-
-#EXTINF:-1 group-title="BACKUP", Baby TV
-http://starshare.live:8080/live/123456/654321/151222.ts
-
-#EXTINF:-1 group-title="BACKUP", FMN (D)
-http://starshare.live:8080/live/123456/654321/151223.ts
-
-#EXTINF:-1 group-title="BACKUP", Fight Sports (D)
-http://starshare.live:8080/live/123456/654321/151224.ts
-
-#EXTINF:-1 group-title="BACKUP", Disney XD
-http://starshare.live:8080/live/123456/654321/151225.ts
-
-#EXTINF:-1 group-title="BACKUP", MiaoMI (D)
-http://starshare.live:8080/live/123456/654321/151226.ts
-
-#EXTINF:-1 group-title="BACKUP", CGTN (D)
-http://starshare.live:8080/live/123456/654321/151227.ts
-
-#EXTINF:-1 group-title="BACKUP", Bein Sport 2 (D)
-http://starshare.live:8080/live/123456/654321/151228.ts
-
-#EXTINF:-1 group-title="BACKUP", Bandung TV (D)
-http://starshare.live:8080/live/123456/654321/151229.ts
-
-#EXTINF:-1 group-title="BACKUP", Tawaf TV (D)
-http://starshare.live:8080/live/123456/654321/151230.ts
-
-#EXTINF:-1 group-title="BACKUP", LifeStyle Fashion (D)
-http://starshare.live:8080/live/123456/654321/151231.ts
-
-#EXTINF:-1 group-title="BACKUP", OK TV (D)
-http://starshare.live:8080/live/123456/654321/151232.ts
-
-#EXTINF:-1 group-title="BACKUP", Kids TV (D)
-http://starshare.live:8080/live/123456/654321/151233.ts
-
-#EXTINF:-1 group-title="BACKUP", DW (D)
-http://starshare.live:8080/live/123456/654321/151234.ts
-
-#EXTINF:-1 group-title="BACKUP", France24 (D)
-http://starshare.live:8080/live/123456/654321/151235.ts
-
-#EXTINF:-1 group-title="BACKUP", Al Jazeera English (D)
-http://starshare.live:8080/live/123456/654321/151236.ts
-
-#EXTINF:-1 group-title="BACKUP", Hits (D)
-http://starshare.live:8080/live/123456/654321/151237.ts
-
-#EXTINF:-1 group-title="BACKUP", Music TV (D)
-http://starshare.live:8080/live/123456/654321/151238.ts
-
-#EXTINF:-1 group-title="BACKUP", BBC Cbeebies (D)
-http://starshare.live:8080/live/123456/654321/151239.ts
-
-#EXTINF:-1 group-title="BACKUP", IDX (D)
-http://starshare.live:8080/live/123456/654321/151240.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Infotainment (D)
-http://starshare.live:8080/live/123456/654321/151241.ts
-
-#EXTINF:-1 group-title="BACKUP", Life (D)
-http://starshare.live:8080/live/123456/654321/151242.ts
-
-#EXTINF:-1 group-title="BACKUP", Muslim TV (D)
-http://starshare.live:8080/live/123456/654321/151243.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Entertainment (D)
-http://starshare.live:8080/live/123456/654321/151244.ts
-
-#EXTINF:-1 group-title="BACKUP", Vision Prime (D)
-http://starshare.live:8080/live/123456/654321/151245.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Shop Smart (D)
-http://starshare.live:8080/live/123456/654321/151246.ts
-
-#EXTINF:-1 group-title="BACKUP", Zee Bioskop (D)
-http://starshare.live:8080/live/123456/654321/151247.ts
-
-#EXTINF:-1 group-title="BACKUP", Thrill (D)
-http://starshare.live:8080/live/123456/654321/151248.ts
-
-#EXTINF:-1 group-title="BACKUP", ANTV (D)
-http://starshare.live:8080/live/123456/654321/151249.ts
-
-#EXTINF:-1 group-title="BACKUP", HBO Family (D)
-http://starshare.live:8080/live/123456/654321/151250.ts
-
-#EXTINF:-1 group-title="BACKUP", TVN Movies (D)
-http://starshare.live:8080/live/123456/654321/151251.ts
-
-#EXTINF:-1 group-title="BACKUP", TVN (D)
-http://starshare.live:8080/live/123456/654321/151252.ts
-
-#EXTINF:-1 group-title="BACKUP", Al Quran Al Karem (D)
-http://starshare.live:8080/live/123456/654321/151253.ts
-
-#EXTINF:-1 group-title="BACKUP", HITS Movies (D)
-http://starshare.live:8080/live/123456/654321/151254.ts
-
-#EXTINF:-1 group-title="BACKUP", TV One (D)
-http://starshare.live:8080/live/123456/654321/151255.ts
-
-#EXTINF:-1 group-title="BACKUP", TransTV (D)
-http://starshare.live:8080/live/123456/654321/151256.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC TV (D)
-http://starshare.live:8080/live/123456/654321/151257.ts
-
-#EXTINF:-1 group-title="BACKUP", Metro TV (D)
-http://starshare.live:8080/live/123456/654321/151258.ts
-
-#EXTINF:-1 group-title="BACKUP", iNews (D)
-http://starshare.live:8080/live/123456/654321/151259.ts
-
-#EXTINF:-1 group-title="BACKUP", GTV (D)
-http://starshare.live:8080/live/123456/654321/151260.ts
-
-#EXTINF:-1 group-title="BACKUP", MNC Shop Trendy (D)
-http://starshare.live:8080/live/123456/654321/151261.ts
-
-#EXTINF:-1 group-title="BACKUP", Trans7 (D)
-http://starshare.live:8080/live/123456/654321/151262.ts
-
-#EXTINF:-1 group-title="BACKUP", KompasTV (D)
-http://starshare.live:8080/live/123456/654321/151264.ts
-
-#EXTINF:-1 group-title="BACKUP", BaliTV (D)
-http://starshare.live:8080/live/123456/654321/151265.ts
-
-#EXTINF:-1 group-title="BACKUP", &TV (D)
-http://starshare.live:8080/live/123456/654321/151266.ts
-
-#EXTINF:-1 group-title="BACKUP", Reformed 21 (D)
-http://starshare.live:8080/live/123456/654321/151267.ts
-
-#EXTINF:-1 group-title="BACKUP", NET. (D)
-http://starshare.live:8080/live/123456/654321/151268.ts
-
-#EXTINF:-1 group-title="BACKUP", TRT World (D)
-http://starshare.live:8080/live/123456/654321/151269.ts
-
-#EXTINF:-1 group-title="BACKUP", RT English (D)
-http://starshare.live:8080/live/123456/654321/151270.ts
-
-#EXTINF:-1 group-title="BACKUP", RTV (D)
-http://starshare.live:8080/live/123456/654321/151271.ts
-
-#EXTINF:-1 group-title="BACKUP", EWTN (D)
-http://starshare.live:8080/live/123456/654321/151272.ts
-
-#EXTINF:-1 group-title="BACKUP", Zee TV (D)
-http://starshare.live:8080/live/123456/654321/151273.ts
-
-#EXTINF:-1 group-title="BACKUP", Zee Cinema (D)
-http://starshare.live:8080/live/123456/654321/151274.ts
-
-#EXTINF:-1 group-title="BACKUP", ZING (D)
-http://starshare.live:8080/live/123456/654321/151275.ts
-
-#EXTINF:-1 group-title="BACKUP", Daai TV (D)
-http://starshare.live:8080/live/123456/654321/151276.ts
-
-#EXTINF:-1 group-title="BACKUP", HBO (D)
-http://starshare.live:8080/live/123456/654321/151277.ts
-
-#EXTINF:-1 group-title="BACKUP", KIX (D)
-http://starshare.live:8080/live/123456/654321/151278.ts
-
-#EXTINF:-1 group-title="BACKUP", Cinema World (D)
-http://starshare.live:8080/live/123456/654321/151279.ts
-
-#EXTINF:-1 group-title="BACKUP", Boomerang (D)
-http://starshare.live:8080/live/123456/654321/151280.ts
-
-#EXTINF:-1 group-title="BACKUP", Jak TV (D)
-http://starshare.live:8080/live/123456/654321/151281.ts
-
-#EXTINF:-1 group-title="BACKUP", HGTV (D)
-http://starshare.live:8080/live/123456/654321/151282.ts
-
-#EXTINF:-1 group-title="BACKUP", Euronews (D)
-http://starshare.live:8080/live/123456/654321/151283.ts
-
-#EXTINF:-1 group-title="BACKUP", Bloomberg (D)
-http://starshare.live:8080/live/123456/654321/151284.ts
-
-#EXTINF:-1 group-title="BACKUP", Besmart (D)
-http://starshare.live:8080/live/123456/654321/151285.ts
-
-#EXTINF:-1 group-title="BACKUP", NHK World Premium (D)
-http://starshare.live:8080/live/123456/654321/151286.ts
-
-#EXTINF:-1 group-title="BACKUP", Berita Satu (D)
-http://starshare.live:8080/live/123456/654321/151287.ts
-
-#EXTINF:-1 group-title="BACKUP", BBC World News
-http://starshare.live:8080/live/123456/654321/151288.ts
-
-#EXTINF:-1 group-title="BACKUP", CGTN Documentary (D)
-http://starshare.live:8080/live/123456/654321/151289.ts
-
-#EXTINF:-1 group-title="BACKUP", BBC Earth
-http://starshare.live:8080/live/123456/654321/151290.ts
-
-#EXTINF:-1 group-title="BACKUP", CCM (D)
-http://starshare.live:8080/live/123456/654321/151291.ts
-
-#EXTINF:-1 group-title="BACKUP", TV9 (D)
-http://starshare.live:8080/live/123456/654321/151293.ts
-
-#EXTINF:-1 group-title="BACKUP", TVRI (D)
-http://starshare.live:8080/live/123456/654321/151294.ts
-
-#EXTINF:-1 group-title="BACKUP", TV Muhammadiyah (D)
-http://starshare.live:8080/live/123456/654321/151295.ts
-
-#EXTINF:-1 group-title="BACKUP", AnhuiTV  (D)
-http://starshare.live:8080/live/123456/654321/151296.ts
-
-#EXTINF:-1 group-title="BACKUP", Xing Kong TV (D)
-http://starshare.live:8080/live/123456/654321/151297.ts
-
-#EXTINF:-1 group-title="BACKUP", Shanghai Dragon TV (D)
-http://starshare.live:8080/live/123456/654321/151298.ts
-
-#EXTINF:-1 group-title="BACKUP", Jiangsu TV (D)
-http://starshare.live:8080/live/123456/654321/151299.ts
-
-#EXTINF:-1 group-title="BACKUP", Hunan TV (D)
-http://starshare.live:8080/live/123456/654321/151300.ts
-
-#EXTINF:-1 group-title="BACKUP", Cinema World HD
-http://starshare.live:8080/live/123456/654321/152369.ts
-
-#EXTINF:-1 group-title="BACKUP", Rock Entertainment HD
-http://starshare.live:8080/live/123456/654321/152370.ts
-
-#EXTINF:-1 group-title="BACKUP", CINEMAX HD
-http://starshare.live:8080/live/123456/654321/152371.ts
-
-#EXTINF:-1 group-title="BACKUP", HBO Hits HD
-http://starshare.live:8080/live/123456/654321/152372.ts
-
-#EXTINF:-1 group-title="BACKUP", HBO HD
-http://starshare.live:8080/live/123456/654321/152373.ts
-
-#EXTINF:-1 group-title="BACKUP", Movies Now (FHD)
-http://starshare.live:8080/live/123456/654321/152387.ts
-
-#EXTINF:-1 group-title="BACKUP", Movies Now SD
-http://starshare.live:8080/live/123456/654321/152388.ts
