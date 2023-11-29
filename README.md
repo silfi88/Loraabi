@@ -144,8 +144,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV NASIONAL", INDOSIAR HD
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/162138
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV NASIONAL", INDOSIAR FHD
-https://etslive-2-vidio-com.akamaized.net/exp=1701265615~acl=/hls-b/ingest_205_*/*~hmac=61e766200e317ea9ecafa7bd9859c9677333ea45cbf4fddf9a233c52ecc17c0d/hls-b/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="TV NASIONAL", SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -289,9 +287,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV LOKAL", INDOSIAR FHD
 http://premiumiptvmk.com:8080/pachaman/kcxSPa4CExFPFjm2/162138
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="TV LOKAL", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1701265399~acl=/hls-p/ingest_204_*/*~hmac=dbda561e9d41b7a57aae6fd7361e0d32f26cbec5a80841971548cff69c649f7d/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -658,7 +653,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
-https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="ENTERTAINMENT",Warner TV
 http://208.115.225.174:14132
