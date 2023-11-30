@@ -2101,8 +2101,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="KOREA", lTV
-https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="KOREA",21+ 
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8 
@@ -2192,6 +2191,9 @@ https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="KOREA", LJH
 https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="KOREA", lTV
+https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="KOREA", MBC
 https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8 
