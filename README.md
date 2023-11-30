@@ -65,10 +65,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|re
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Jf14Bh/I-NEWS.png" group-title="INDONESIA", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|referer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFdhuwS.png" group-title="TV LOKAL",NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -314,9 +313,10 @@ http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hFdhuwS.png" group-title="TV LOKAL",NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET TV
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://i.imgur.com/LGo706i.png",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -449,6 +449,11 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 
 ################################################### WORLDCUP U-17 ###################################################
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="KOREA", FIFA+ 
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
 #EXTINF:-1 group-title="WORLDCUP U-17", FIFA FOOTBALL 1
 https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/4.m3u8
 #EXTINF:-1 group-title="WORLDCUP U-17", FIFA FOOTBALL 2
@@ -491,7 +496,6 @@ http://103.166.27.2:8112/play/a015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
-
 
 #EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT PLUS FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379986.m3u8
@@ -624,9 +628,6 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
 https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ENTERTAINMENT",MBC
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",MNC Entertainment
@@ -690,12 +691,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIFE STYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="LIFE STYLE" tvg-logo="https://i.imgur.com/ePBvFC8.png",MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-
-#EXTINF:-1 group-title="LIFE STYLE" tvg-logo="https://i.imgur.com/snkewG1.png",MBC 4 (1080p)
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1283,6 +1278,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/tYOxhA9.png",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/6yH88Q1.png",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
@@ -1696,15 +1695,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="SPORTS",Bahrain Sports 1 
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="SPORTS",Bahrain Sports 2 
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="SPORTS",BEK TV Sports West 
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="SPORTS",Barca TV 
-http://clientsportals.com:80/d4Je5xwD/yadTXB63/48659
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png",Belator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1712,16 +1704,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa0500072884
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZH2XjBSCfecA6Cd_Q4jqCIEamnEfUu-f-A&usqp=CAU",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="SPORTS", DUBAI RACING 1
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
-
-#EXTINF:-1 group-title="SPORTS", DUBAI RACING 2
-https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="SPORTS",Dubai Racing 
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORTS",Dubai Racing 2 
+#EXTINF:-1 group-title="SPORTS", DUBAI RACING 1
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="SPORTS", DUBAI RACING 2
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORTS",Dubai Racing 2*
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORTS",Dubai Racing 3 
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
@@ -1760,11 +1749,6 @@ https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5cf6a5_35cYaCq1ZkkEiYL8e8pUuXzVzyuEYJdod4~mv2.jpg/v1/fill/w_640,h_400,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/5cf6a5_35cYaCq1ZkkEiYL8e8pUuXzVzyuEYJdod4~mv2.jpg" group-title="SPORTS",IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter Milan TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd 
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.livehdtv.net/uploads/kanal/25715irib-varzesh.png",Irib Varzesh
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8?efwgrgr=undefined
 
@@ -1780,18 +1764,11 @@ https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="SPORTS",Lax Sports Network TV 
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",LFC TV 
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6 
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="SPORTS",M-Net Sport 
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="SPORTS",MavTV Select 
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS", Match Football 1
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45645
@@ -1804,12 +1781,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="https://cdn.browsercam.com/headers/com.manutd.mutv-header.png" group-title="SPORTS", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",NBA TV
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -1833,9 +1805,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nSYgjEz.png",Red Bull 3
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-
 #EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORTS",RealMadrid TV*
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
@@ -1857,19 +1826,10 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
 #EXTINF: -1 tvg-logo="https://cdn1.vc4a.com/media/2017/01/SCA-Logo-JPG-1024x512.jpg" group-title="SPORTS", SPORTS Connect
 https://origin2.afxp.telemedia.co.za/abr/sportsconnect/abr/kapang_sportsconnect_720p/chunks.m3u8?id=777
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="SPORTS",SportsGrid 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="SPORTS",Sports Grid 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="SPORTS",Stadium
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="SPORTS",Star sports
-http://103.120.172.74:4600|http-referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="SPORTS",Star sports2
 http://103.120.172.74:4800
 
 #EXTINF:-1 tvg-logo="http://gostiptv.vip:80/images/cf54d2ebf6c3a4b356cf1b22b643f75a.jpg" group-title="SPORTS",Star Sports Select 1 
@@ -1878,7 +1838,7 @@ http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45799
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45800
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",SUPERSPORT S-PREMIER LEAGUE
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/85jDnDz5/TENNIS.png",TENNIS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/85jDnDz5/TENNIS.png",TENNIS TV
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/JApkfiF.png",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -1933,16 +1893,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg", TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
-https://mantul.biz.id:443/ekos/748382/234.ts
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlnWcBAcGcX_6aguTYkQHcfynjyB7zSDB9Q&usqp=CAU",UFC
 https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848" group-title="SPORTS", UNIFY SPORT1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/vp1.png",VIA PLAY 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extension=ts&play_token=L5v3eNkEQU
@@ -1950,8 +1902,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45235&extensi
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extension=ts&play_token=weRjYwEZxO
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/vpe.png",VIA PLAY XTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-FwvkhhlPkHsmg_xFO238f7EFWOv1Mlxnw&usqp=CAU" group-title="SPORTS", VTV 5
-http://171.238.181.52:18080/194.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s.id/1d1nU",WWE Network HD
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
@@ -2148,71 +2099,147 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="KOREA", lTV
+https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="KOREA",21+ 
+https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8 
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="KOREA", 연합뉴스TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="KOREA", YTN
-https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="KOREA", MBC
-https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20230823T005038SQUARE.png_20230823005039.png" tvg-chno="507" group-title="KOREA", tvN
-https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20230823T005021SQUARE.png_20230823005022.png" tvg-chno="508" group-title="KOREA", MBC
-https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png" tvg-chno="510" group-title="KOREA", SBS TV 
-https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20231025T004708SQUARE.png_20231025004709.png" tvg-chno="513" group-title="KOREA", tvN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20231011T013507SQUARE.png_20231011013508.png" tvg-chno="524" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20231011T013510SQUARE.png_20231011013510.png" tvg-chno="525" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231011T013505SQUARE.png_20231011013506.png" tvg-chno="530" group-title="KOREA", PLAY
-https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="KOREA", Mnet 2 HOT CLIP 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="KOREA", tvN HOT CLIP 
-https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8 
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-title="KOREA", Animax 
-https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8 
+https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="KOREA",K-STAR 
-https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="KOREA", AO
+https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20230913T010335SQUARE.png_20230913010336.png" tvg-chno="539" group-title="KOREA", PGA Tour 
-https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" tvg-chno="800" group-title="KOREA", Bloomberg TV+ 
+https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20230913T010304SQUARE.png_20230913010305.png" tvg-chno="540" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="KOREA", Bloomberg Originals 
+https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png" tvg-chno="541" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="KOREA",BVG
+https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230913T010312SQUARE.png_20230913010313.png" tvg-chno="542" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20230308T013144SQUARE.png_20230308013145.png" tvg-chno="752" group-title="KOREA", cgv
+https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="KOREA", ch
+https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="KOREA",CHE
+https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
+https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="KOREA", E
+https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20230809T021230SQUARE.png_20230809021231.png" tvg-chno="653" group-title="KOREA", hb
+https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="KOREA", hi
+https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
+https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="KOREA", iHQ 
+https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
+https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="KOREA", JG
+https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="KOREA", JG*
+ttps://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20230809T021503SQUARE.png_20230809021504.png" tvg-chno="626" group-title="KOREA", jhg
+https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="KOREA", JTBC 
+https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20230913T010319SQUARE.png_20230913010320.png" tvg-chno="543" group-title="KOREA", KBS 
 https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20231025T004645SQUARE.png_20231025004646.png" tvg-chno="544" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="KOREA", KBS Joy 
+https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230913T010314SQUARE.png_20230913010315.png" tvg-chno="545" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png" tvg-chno="546" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20230926T013853SQUARE.png_20230926013854.png" tvg-chno="537" group-title="KOREA",K-STAR 
+https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="KOREA",LeadStory 
+https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="KOREA", LJH
+https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="KOREA", MBC
+https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/ePBvFC8.png",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="KOREA", MBC every1
+https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="KOREA", MBN
+https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="KOREA", Mnet
+https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230926T013833SQUARE.png_20230926013834.png" tvg-chno="533" group-title="KOREA", Mnet 2 HOT CLIP 
+https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="KOREA", NEW MOVIES 
+https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="KOREA", nhg
+https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="KOREA", OGN 
+https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20230913T010335SQUARE.png_20230913010336.png" tvg-chno="539" group-title="KOREA", PGA Tour 
+https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20231011T013505SQUARE.png_20231011013506.png" tvg-chno="530" group-title="KOREA", PLAY
+https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="KOREA", PLAY*
+https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20230913T010304SQUARE.png_20230913010305.png" tvg-chno="540" group-title="KOREA", SBS 
+https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png" tvg-chno="510" group-title="KOREA", SBS TV 
+https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJp6XWKg80JwM-6zpli16elnB20SmsIAEpw&usqp=CAU",TBS TV Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20231101T012203SQUARE.png_20231101012204.png" tvg-chno="754" group-title="KOREA", TED 
+https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20230913T010404SQUARE.png_20230913010405.png" tvg-chno="547" group-title="KOREA", TV
 https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8 
@@ -2223,205 +2250,25 @@ https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png" tvg-chno="553" group-title="KOREA", TV
 https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20230913T010340SQUARE.png_20230913010341.png" tvg-chno="555" group-title="KOREA", PLAYY 
-https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230913T010352SQUARE.png_20230913010353.png" tvg-chno="556" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20230913T010355SQUARE.png_20230913010356.png" tvg-chno="557" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png" tvg-chno="558" group-title="KOREA", MBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png" tvg-chno="559" group-title="KOREA", MBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" tvg-chno="561" group-title="KOREA", MBC https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000016BM_20230913T010317SQUARE.png_20230913010318.png" tvg-chno="563" group-title="KOREA", JTBC
-https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png" tvg-chno="565" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png" tvg-chno="566" group-title="KOREA", AO
-https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20231025T004642SQUARE.png_20231025004643.png" tvg-chno="567" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20230913T010424SQUARE.png_20230913010425.png" tvg-chno="568" group-title="KOREA", tvN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png" tvg-chno="570" group-title="KOREA", JG
-https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png" tvg-chno="571" group-title="KOREA", LJH
-https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png" tvg-chno="601" group-title="KOREA", MBN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png" tvg-chno="602" group-title="KOREA", ch
-https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png" tvg-chno="604" group-title="KOREA", SBS
-https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20230809T021317SQUARE.png_20230809021318.png" tvg-chno="606" group-title="KOREA", MBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png" tvg-chno="607" group-title="KOREA",CHE
-https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230809T021309SQUARE.png_20230809021310.png" tvg-chno="608" group-title="KOREA", MBC 
-https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png" tvg-chno="609" group-title="KOREA", MBC every1 
-https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png" tvg-chno="610" group-title="KOREA",BVG
-https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="KOREA", TV
+https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png" tvg-chno="613" group-title="KOREA", TV CHOSUN 
 https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" tvg-chno="614" group-title="KOREA", JG
-ttps://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20230823T005038SQUARE.png_20230823005039.png" tvg-chno="507" group-title="KOREA", tvN
+https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230809T021244SQUARE.png_20230809021245.png" tvg-chno="615" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png" tvg-chno="535" group-title="KOREA", tvN HOT CLIP 
+https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230809T021338SQUARE.png_20230809021339.png" tvg-chno="616" group-title="KOREA", Mnet
-https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="KOREA", YTN
+https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20230809T021328SQUARE.png_20230809021329.png" tvg-chno="618" group-title="KOREA", MBN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20230809T021413SQUARE.png_20230809021414.png" tvg-chno="620" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20231025T004651SQUARE.png_20231025004652.png" tvg-chno="621" group-title="KOREA", MBC 
-https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="KOREA", TV
-https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20230809T021320SQUARE.png_20230809021321.png" tvg-chno="623" group-title="KOREA", MBC
-https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230809T021404SQUARE.png_20230809021405.png" tvg-chno="624" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20230809T021503SQUARE.png_20230809021504.png" tvg-chno="626" group-title="KOREA", jhg
-https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" tvg-chno="627" group-title="KOREA", MBC every1
-https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230809T021523SQUARE.png_20230809021524.png" tvg-chno="628" group-title="KOREA", nhg
-https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png" tvg-chno="629" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png" tvg-chno="630" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20230809T021436SQUARE.png_20230809021437.png" tvg-chno="631" group-title="KOREA", TV CHOSUN 
-https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20231025T004648SQUARE.png_20231025004649.png" tvg-chno="632" group-title="KOREA", MBC 
-https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png" tvg-chno="633" group-title="KOREA", TV CHOSUN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230809T021350SQUARE.png_20230809021351.png" tvg-chno="634" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png" tvg-chno="635" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png" tvg-chno="637" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20230809T021430SQUARE.png_20230809021431.png" tvg-chno="638" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" tvg-chno="642" group-title="KOREA", lTV
-https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png" tvg-chno="644" group-title="KOREA", iHQ 
-https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png" tvg-chno="645" group-title="KOREA", E
-https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png" tvg-chno="646" group-title="KOREA", KBS Joy
-https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png" tvg-chno="647" group-title="KOREA", KBS Joy 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png" tvg-chno="648" group-title="KOREA", MBN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png" tvg-chno="649" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230809T021407SQUARE.png_20230809021408.png" tvg-chno="651" group-title="KOREA", SBS 
-https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="KOREA", MBN
-https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20230809T021230SQUARE.png_20230809021231.png" tvg-chno="653" group-title="KOREA", hb
-https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="KOREA", hi
-https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="KOREA", NEW MOVIES 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="KOREA", OGN 
-https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20230308T013144SQUARE.png_20230308013145.png" tvg-chno="752" group-title="KOREA", cgv
-https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20231101T012203SQUARE.png_20231101012204.png" tvg-chno="754" group-title="KOREA", TED 
-https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" tvg-chno="800" group-title="KOREA", Bloomberg TV+ 
-https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="KOREA", Bloomberg Originals 
-https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20231101T012207SQUARE.png_20231101012208.png" tvg-chno="802" group-title="KOREA",LeadStory 
-https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="KOREA", JTBC 
-https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="KOREA", JTBC
-https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="KOREA", FIFA+ 
-https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20230726T002359SQUARE.png_20230726002400.png" tvg-chno="842" group-title="KOREA", KBS 
-https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="KOREA", KBS 
-https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8 
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="KOREA",21+ 
-https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8 
 
 
 
@@ -2429,18 +2276,12 @@ https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 ###################################################### MALAYSIA ################################################
 
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",ASTRO Awani 2
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",ASTRO Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA",BERITA
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi (Unifi)
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/rtmokey.png" group-title="MALAYSIA",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MALAYSIA",RTB Sukmaindera
@@ -2462,10 +2303,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="MALAYSIA",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGv3vegjeW4CUGpE-JAWz00FGVowDoA1TJrw&usqp=CAU" group-title="MALAYSIA", TV9 (Unifi)
-https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
@@ -2484,23 +2321,20 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 
 
@@ -2508,55 +2342,10 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 
 
-
-##################################################### INDIA #############################################
-
-
-#EXTINF:-1 group-title="INDIA",Colors
-http://103.120.172.74:1070
-
-#EXTINF:-1 group-title="INDIA",DD news
-http://103.120.172.74:1170
-#EXTINF:-1 group-title="INDIA",India news
-http://103.120.172.74:1090
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.imgur.com/tYOxhA9.png",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",Star India
-http://103.120.172.74:1060
-
-#EXTINF:-1 group-title="INDIA",StarPlus
-http://103.120.172.74:1120
-
-#EXTINF:-1 group-title="INDIA",Sony Max
-http://103.120.172.74:1150
-#EXTINF:-1 group-title="INDIA",Star Gold
-http://103.120.172.74:5000
-#EXTINF:-1 group-title="INDIA",Sony HD
-http://103.120.172.74:5100
-
-#EXTINF:-1 group-title="INDIA",NDTV
-http://103.120.172.74:5500
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE DRAMA
-http://103.120.172.74:1040
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE TV
-http://103.120.172.74:1140
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyXSPMb/20230520-104337.jpg" group-title="INDIA", ZEE  TV HD
-http://103.120.172.74:4000
 
 
 
 ################################################### INTERNATIONAL TV ##########################################
-
-
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJp6XWKg80JwM-6zpli16elnB20SmsIAEpw&usqp=CAU",TBS TV Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2575,11 +2364,6 @@ http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL TV", COMEDY CENTRAL
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
-https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id/
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="INTERNATIONAL TV",Dubai One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -2587,13 +2371,12 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="INTERNATIONAL TV",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="INTERNATIONAL TV",Dubai TV HD
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", E
+
+#EXTINF:-1 group-title="INTERNATIONAL TV", E
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", ENI
+#EXTINF:-1 group-title="INTERNATIONAL TV", ENI
 http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
-#EXTINF:-1  group-title="INTERNATIONAL TV", ENLACE
+#EXTINF:-1 group-title="INTERNATIONAL TV", ENLACE
 http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL TV", GOLDEN
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
@@ -2604,25 +2387,6 @@ http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL TV", HOLA TV
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
-https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd|referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
-https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="INTERNATIONAL TV", KBS World
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="INTERNATIONAL TV", KBS World HD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="INTERNATIONAL TV",MBC
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1  group-title="INTERNATIONAL TV", MODO CINE
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1  group-title="INTERNATIONAL TV", MULTIPREMIER
@@ -2649,8 +2413,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd|referer=https:
 http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
 #EXTINF:-1  group-title="INTERNATIONAL TV", TRU TV
 http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/69ba44eecceea93cced5aa98bc6e562e.png",TVMax
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
 
 
 
