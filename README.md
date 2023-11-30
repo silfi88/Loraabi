@@ -451,7 +451,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 ################################################### WORLDCUP U-17 ###################################################
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="KOREA", FIFA+ 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="WORLDCUP U-17", FIFA+ 
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 
 #EXTINF:-1 group-title="WORLDCUP U-17", FIFA FOOTBALL 1
