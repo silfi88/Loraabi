@@ -1675,7 +1675,7 @@ http://starshare.live:8080/live/123456/654321/151248.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="" group-title="TV LOKAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
-https://mangga-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd|referer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq0gM81Y/tvn.jpg" group-title="MOVIES", TVN
 http://starshare.live:8080/live/123456/654321/151252.ts
