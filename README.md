@@ -494,6 +494,55 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="LIVE EVENT",MOTO GP 2 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="LIVE EVENT",ASTRO SUPERSPORT PLUS 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="LIVE EVENT",ASTRO SUPERSPORT HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="LIVE EVENT",ASTRO SUPERSPORT 1
+http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/146068
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6TnzYZ/assp1-big-copy.png" group-title="LIVE EVENT", Astro SUPERSPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sxr3zc/assp2-big-copy.png" group-title="LIVE EVENT", Astro SUPERSPORT 2 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sxr3zc/assp2-big-copy.png" group-title="LIVE EVENT", Astro SUPERSPORT 2*
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="LIVE EVENT",ASTRO SUPERSPORT 2
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="LIVE EVENT", Astro SUPERSPORT 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="LIVE EVENT", Astro SUPERSPORT 3 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
+
+
+#EXTINF:-1 tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="LIVE EVENT",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="LIVE EVENT", Astro SUPERSPORT 4 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png",Astro SUPERSPORT 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR 12
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60357.ts
 
@@ -529,6 +578,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd|refe
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="LIVE EVENT", FIFA+ 
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT", FIFA FOOTBALL 1
+https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/4.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", FIFA FOOTBALL 2
+https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/5.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 #EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 5
@@ -539,135 +596,34 @@ https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
 #EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="LIVE EVENT", Event MolaTV 6
 https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="LIVE EVENT",FOX SOCCER PLUS
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="LIVE EVENT",WORLD CUP 8
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIVE EVENT",LIVE 1
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIVE EVENT",LIVE 2 CCTV 5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE 3
-https://admdn1.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE 4
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-################################################### WORLDCUP U-17 ###################################################
-
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="WORLDCUP U-17", FIFA+ 
-https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17", FIFA FOOTBALL 1
-https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/4.m3u8
-#EXTINF:-1 group-title="WORLDCUP U-17", FIFA FOOTBALL 2
-https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/83988084-1cc2-43e9-b303-362e1fc7e483/5.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17",Wold CUP Astro SS
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17", WORLD CUP 2
-http://103.166.27.2:8112/play/a016
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17", WORLD CUP 3
-http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17",WORLD CUP 5
-http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17",WORLD CUP 6
-http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17",WORLD CUP 7
-http://humiptv.live:8080/live/56565656/56565656/151171.ts 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="WORLDCUP U-17",WORLD CUP 8
-http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="WORLDCUP U-17",FOOTBALL SCTV
-http://103.166.27.2:8112/play/a015
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT PLUS FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379986.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 1
-http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/146068
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6TnzYZ/assp1-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 1
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8sxr3zc/assp2-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 2
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8sxr3zc/assp2-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 2 UHD
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 3
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnn3pnG/assp3-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 3 HD
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="WORLDCUP U-17",Astro SuperSport 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7rTysBV/assp4-big-copy.png" group-title="WORLDCUP U-17", Astro SUPERSPORT 4 HD
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
-
-#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="WORLDCUP U-17",ASTRO SUPERSPORT 4 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/379984.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png",Astro SUPERSPORT 5
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
-
-#EXTINF:-1 tvg-logo=" group-title="WORLDCUP U-17",ES| FIFA+ FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/447892.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17",FR| FIFA+ FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/447893.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17",DE| FIFA+ FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/447894.m3u8
-
-#EXTINF:-1 group-title="WORLDCUP U-17",LIVE 1
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
-#EXTINF:-1 group-title="WORLDCUP U-17", LIVE 2
+#EXTINF:-1 group-title="LIVE EVENT", LIVE 2
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 
-#EXTINF:-1 group-title="WORLDCUP U-17", LIVE 3
+#EXTINF:-1 group-title="LIVE EVENT", LIVE 3
 https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TwsLmS0/OPTUS.png" group-title="WORLDCUP U-17",OPTUS SPORT 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE 4
+https://admdn1.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE 5
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OPTUS SPORT 6 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 6 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389191.m3u8
-#EXTINF:-1 tvg-name="OPTUS SPORT 7 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17",OPTUS SPORT 7 FHD
-http://smart-tv.cc:8080/live/steveny5997/54332611/389192.m3u8
-
-#EXTINF:-1 tvg-name="OPTUS SPORT 10 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="WORLDCUP U-17"​,OPTUS SPORT 10 FHD 
-http://smart-tv.cc:8080/live/steveny5997/54332611/389195.m3u8 
-
-#EXTINF:-1 group-title="WORLDCUP U-17", BACKUP
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE 6
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-
 
 
 
