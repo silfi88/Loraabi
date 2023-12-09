@@ -990,26 +990,14 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="KIDS",Antiks Live 
 https://live-yt.streamingastv.workers.dev/live/72i29Gls0GY/master.m3u8?|referer=https://t.me/astvstreaming
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba TV
-https://live-yt.streamingastv.workers.dev/live/WXuHaAhSpes/master.m3u8?|referer=https://t.me/astvstreaming
-
 #EXTINF:-1 group-title="KIDS", BBC Cbeebies
 http://starshare.live:8080/live/123456/654321/151239.ts
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/dfa052_17SUf7F65grAa2uj2Kj8ng6rLWNah4Y5x6~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smll.png",Jungle Beat Live
-https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="KIDS",Larva Live 
-https://live-yt.streamingastv.workers.dev/live/13YobiCh5BA/master.m3u8?|referer=https://t.me/astvstreaming
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/78/c1/77/78c17781ea72e00b7b85be8bc58e0219.png",Booba TV
+https://live-yt.streamingastv.workers.dev/live/WXuHaAhSpes/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZGlU8rNbt78ZHdLjrUTqRrUampd5WyPUjjwNoU=s900-c-k-c0x00ffffff-no-rj",Little Angel Live 
 https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZeM-BsWHU_RYFsBK63qrDyh0lnqebrDbYQ&usqp=CAU" group-title="KIDS",SpongeBob
-https://live-yt.streamingastv.workers.dev/live/BXWNnEiTR5g/master.m3u8?|referer=https://t.me/astvstreaming
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v3XMWSp/download-41-modified.png" group-title="KIDS",Talking Tom Live 
-https://live-yt.streamingastv.workers.dev/live/iwNMxMIpLw4/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="KIDS", TAYO Live 
 https://live-yt.streamingastv.workers.dev/live/lw-oXpGAR8Q/master.m3u8?|referer=https://t.me/astvstreaming
