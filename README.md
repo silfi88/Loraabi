@@ -947,17 +947,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="KIDS", Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="KIDS", Avatar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png" group-title="KIDS", Baby First
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="KIDS", BBC Cbeebies
 http://starshare.live:8080/live/123456/654321/151239.ts
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="KIDS", Beyblade
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.ksa.my.id/bizkids.png",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -977,20 +971,14 @@ http://starshare.live:8080/live/123456/654321/151280.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", Cartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS", Cartoon Network
-http://starshare.live:8080/live/123456/654321/151221.ts
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS", Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW50uTW1MR5hTfFcxVESyDEbDt92jYd_nD2Q&usqp=CAU" group-title="KIDS", Cine Infantil Kids
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KIDS", CINEMA KIS
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KIDS", CINEMA KIDS
 http://starshare.live:8080/live/123456/654321/151220.ts
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="KIDS", Detective Conan
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="KIDS", Discovery Kids
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryKids.m3u8
@@ -1001,34 +989,16 @@ http://starshare.live:8080/live/123456/654321/151225.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fX6Rgg9/DRAGON.jpg" group-title="KIDS"​,DRAGON BALL
 http://ghost1.tv:80/movie/162CBDA1CFAF/64ff5ef7debbf/58604.mkv
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="KIDS",Dream Works
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="KIDS",DreamWorks
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/rFgx2CTV/20230520-200344.png",Find Out Why
-https://i.mjh.nz/PlutoTV/60faf9368c7ad900082bc9a8-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prJ8TKnB/20230520-200309.png" group-title="KIDS", Garfield and Friends
-https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
-
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://hometv.biz.id/logo/kids/gross_out.jpg",GROSS OUT
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="KIDS", IGN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="KIDS", Inazuma Eleven
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/68dMn8P/upin-dan-ipin.jpg" group-title="KIDS",IPIN UPIN
 http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/298501
-
-#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/24007ketnet%20jr.png" group-title="KIDS", Ketnet Junior
-https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_MPEG_DASH/ketnet_junior_prod_mpeg_dash-dash.mpd|referer=https://www.livehdtv.net/
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Rs19sdFRTfJdn9Wyxa4f&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=5eea605574085f0040ddc797&is_lat=0
@@ -1091,6 +1061,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEeGcdUevHmPyV-wiapX8NFCdBNh6okMQmA&usqp=CAU" group-title="KIDS", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS", PARAMOUNT Network
+http://starshare.live:8080/live/123456/654321/151221.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" group-title="KIDS", Pluto TV Kids Animation
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
