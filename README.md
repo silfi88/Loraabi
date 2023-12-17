@@ -3520,9 +3520,6 @@ https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=
 #EXTINF:-1 group-title="BIOSKOP HOROR",Titisan Setan 2 
 https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
-#EXTINF:-1 group-title="BIOSKOP HOROR",Suster Keramas 
-https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
-
 #EXTINF:-1 group-title="BIOSKOP HOROR",Suzzanna: 
 Bernapas Dalam Kubur https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
@@ -3640,4 +3637,3 @@ http://37.26.86.39:48768/movies/traintobusan.mp4
 
 #EXTINF:-1 group-title="FILM BARAT"tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan (2016) 
 http://37.26.86.39:48768/movies/traintobusan2.mp4
-
