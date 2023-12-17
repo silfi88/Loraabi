@@ -1018,7 +1018,7 @@ https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LIFE STYLE" group-title="LIFE STYLE",The Food Network
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/jb6zL13/imc.png" group-title="LIFE STYLE", THE INDONESIAN CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb6zL13/imc.png" group-title="LIFE STYLE", THE INDONESIAN CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1107,7 +1107,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.zhetv.eu.org/drm
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/7nGXhYD/cgtndock.png"group-title="KNOWLEDGE", CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nGXhYD/cgtndock.png"group-title="KNOWLEDGE", CGTN DOCUMENTARY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2545,7 +2545,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 #EXTINF:-1 tvg-logo="https://mmauk.net/wp-content/uploads/2018/07/fight-network.jpg" group-title="SPORTS",Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/SBmp9Dt/fight.png" group-title="SPORTS", FIGHT PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBmp9Dt/fight.png" group-title="SPORTS", FIGHT PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3335,7 +3335,7 @@ http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL TV", MULTIPREMIER
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/WvFFdpy/one.png" group-title="INTERNATIONAL TV", ONE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvFFdpy/one.png" group-title="INTERNATIONAL TV", ONE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3577,33 +3577,33 @@ http://37.26.86.39:48768/movies/traintobusan2.mp4
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/Nxhhbnq/transtv-big-copy.png" group-title="INDIHOME", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nxhhbnq/transtv-big-copy.png" group-title="INDIHOME", TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/1ZddHp7/trans7-big-copy.png" group-title="INDIHOME", TRANS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZddHp7/trans7-big-copy.png" group-title="INDIHOME", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/nBVJShL/net-big-copy.png" group-title="INDIHOME", NET.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBVJShL/net-big-copy.png" group-title="INDIHOME", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/d0PZNhX/useesports-big-copy.png" group-title="INDIHOME", USEE SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0PZNhX/useesports-big-copy.png" group-title="INDIHOME", USEE SPORT 1
 https://thefirefox12537.github.io/streams/yusisport.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/0QFv68b/useesport2-big-copy.png" group-title="INDIHOME", USEE SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0QFv68b/useesport2-big-copy.png" group-title="INDIHOME", USEE SPORT 2
 https://thefirefox12537.github.io/streams/yusisport_loro.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/ctjCDQN/spotv-big-copy.png" group-title="INDIHOME", SPOTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ctjCDQN/spotv-big-copy.png" group-title="INDIHOME", SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/spotv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/GVbzQ0x/spotv2-big-copy.png" group-title="INDIHOME", SPOTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVbzQ0x/spotv2-big-copy.png" group-title="INDIHOME", SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/spotv2/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/dPZ5T9t/inews-big-copy.png" group-title="INDIHOME", iNEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPZ5T9t/inews-big-copy.png" group-title="INDIHOME", iNEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/inews/manifest.mpd
 
@@ -3634,177 +3634,177 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png"group-title="INDIHOME",DISCOVERY ASIA
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MAw-zWiusVMn-KXBRkEQRGTa8Rp7LpsPlgaDpLgzRbgn8Tg61yxWcR2FvfjXYbiGCYk&usqp=CAU" group-title="INDIHOME", ANIPLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MAw-zWiusVMn-KXBRkEQRGTa8Rp7LpsPlgaDpLgzRbgn8Tg61yxWcR2FvfjXYbiGCYk&usqp=CAU" group-title="INDIHOME", ANIPLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/0CG53pM/mncnews-big-copy.png" group-title="INDIHOME", SINDONEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0CG53pM/mncnews-big-copy.png" group-title="INDIHOME", SINDONEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mncnews/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/S7qCgx0/rtv-big-copy.png" group-title="INDIHOME", RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7qCgx0/rtv-big-copy.png" group-title="INDIHOME", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="INDIHOME", ANTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="INDIHOME", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/CHRNF7k/idx-big-copy.png" group-title="INDIHOME", IDX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHRNF7k/idx-big-copy.png" group-title="INDIHOME", IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/DWS9MtW/tvri-big-copy.png" group-title="INDIHOME", TVRI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWS9MtW/tvri-big-copy.png" group-title="INDIHOME", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvri/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/svczMYY/kompastv-big-copy.png" group-title="INDIHOME", KOMPAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svczMYY/kompastv-big-copy.png" group-title="INDIHOME", KOMPAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/89qXRtm/metrotv-big-copy.png" group-title="INDIHOME", METROTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89qXRtm/metrotv-big-copy.png" group-title="INDIHOME", METROTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/BLMkGyz/prambors-big-copy.png" group-title="INDIHOME", PRAMBORS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BLMkGyz/prambors-big-copy.png" group-title="INDIHOME", PRAMBORS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/pramborstv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/jh4VZM5/antara-big-copy.png" group-title="INDIHOME", ANTARA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh4VZM5/antara-big-copy.png" group-title="INDIHOME", ANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/antara/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/qrGHh3t/tvone-big-copy.png" group-title="INDIHOME", TVONE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qrGHh3t/tvone-big-copy.png" group-title="INDIHOME", TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/tvone/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/p0Q5n5F/seatoday-big-copy.png" group-title="INDIHOME", SEA TODAY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0Q5n5F/seatoday-big-copy.png" group-title="INDIHOME", SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/seatoday/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/MkTkdZg/indonesiana-big-copy.png" group-title="INDIHOME", INDONESIANA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkTkdZg/indonesiana-big-copy.png" group-title="INDIHOME", INDONESIANA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/indonesiana/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/VQfw1GS/nusantaratv-big-copy.png" group-title="INDIHOME", NUSANTARA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQfw1GS/nusantaratv-big-copy.png" group-title="INDIHOME", NUSANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/nusantaratv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/KK3C10Z/jtv-big-copy.png" group-title="INDIHOME", JTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KK3C10Z/jtv-big-copy.png" group-title="INDIHOME", JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/jtv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/SxvNZQq/jaktv-big-copy.png" group-title="INDIHOME", JaK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxvNZQq/jaktv-big-copy.png" group-title="INDIHOME", JaK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/jaktv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/BNV4jmW/rri-big-copy.png" group-title="INDIHOME", RRI NET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNV4jmW/rri-big-copy.png" group-title="INDIHOME", RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/rrinet/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/w4rDKB8/balitv-big-copy.png" group-title="INDIHOME", BALI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4rDKB8/balitv-big-copy.png" group-title="INDIHOME", BALI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/balitv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDIHOME", SERU CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDIHOME", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="INDIHOME", MUSIKINDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="INDIHOME", MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/8bLtS2v/daaitv-big-copy.png" group-title="INDIHOME", DAAI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bLtS2v/daaitv-big-copy.png" group-title="INDIHOME", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/Xsv7TW8/atv-big-copy.png" group-title="INDIHOME", ATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xsv7TW8/atv-big-copy.png" group-title="INDIHOME", ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="INDIHOME", MAXSTREAM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="INDIHOME", MAXSTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="INDIHOME", NHK WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="INDIHOME", NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/nhkworld/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/7vB55bZ/useeprime-big-copy.png" group-title="INDIHOME", USEE PRIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vB55bZ/useeprime-big-copy.png" group-title="INDIHOME", USEE PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="INDIHOME",  INDI KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="INDIHOME",  INDI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/cxWPXfS/mykids-big-copy.png" group-title="INDIHOME",  My KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxWPXfS/mykids-big-copy.png" group-title="INDIHOME",  My KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/SrrSSSC/cctv4-big-copy.png" group-title="INDIHOME",  CCTV 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrrSSSC/cctv4-big-copy.png" group-title="INDIHOME",  CCTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/cctv4/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/yBFSB5S/tvedukasi-big-copy.png" group-title="INDIHOME",  TV EDUKASI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBFSB5S/tvedukasi-big-copy.png" group-title="INDIHOME",  TV EDUKASI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/tvedukasi/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/2yR0Trw/cgtn-big-copy.png" group-title="INDIHOME",  CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yR0Trw/cgtn-big-copy.png" group-title="INDIHOME",  CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/cgtndocumentary/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/tPzHxNT/TRTworld-big-copy.png" group-title="INDIHOME",  TRT WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPzHxNT/TRTworld-big-copy.png" group-title="INDIHOME",  TRT WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/trtworld/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/vVZFmN0/arirang-big-copy.png" group-title="INDIHOME",  ARIRANG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVZFmN0/arirang-big-copy.png" group-title="INDIHOME",  ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/arirang/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/dM3901n/dwtv-big-copy.png" group-title="INDIHOME",  DWTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dM3901n/dwtv-big-copy.png" group-title="INDIHOME",  DWTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/dwtv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/WHgQmQw/euronews-big-copy.png" group-title="INDIHOME",  EURO NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHgQmQw/euronews-big-copy.png" group-title="INDIHOME",  EURO NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/4g2PWvT/abc-big-copy.png" group-title="INDIHOME",  ABC AUSTRALIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g2PWvT/abc-big-copy.png" group-title="INDIHOME",  ABC AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/abcaustralia/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/0fnhDcy/f24-big-copy.png" group-title="INDIHOME",  FRANCE 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fnhDcy/f24-big-copy.png" group-title="INDIHOME",  FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/france24/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/8X9M4zh/CNA-big-copy.png" group-title="INDIHOME",  CHANNEL NEWS ASIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8X9M4zh/CNA-big-copy.png" group-title="INDIHOME",  CHANNEL NEWS ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/newsasia/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/HGWr22B/aljazeera-big-copy.png" group-title="INDIHOME",  AL JAZEERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGWr22B/aljazeera-big-copy.png" group-title="INDIHOME",  AL JAZEERA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/aljazeera/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/CKmqddD/mycinema-big-copy.png" group-title="INDIHOME", MY CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmqddD/mycinema-big-copy.png" group-title="INDIHOME", MY CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/VgtbdHC/lifetime-big-copy.png" group-title="INDIHOME", LIFETIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgtbdHC/lifetime-big-copy.png" group-title="INDIHOME", LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="INDIHOME", MENTARI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="INDIHOME", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/z7RLb6x/beritasatu-ver2-copy.png" group-title="INDIHOME", BTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RLb6x/beritasatu-ver2-copy.png" group-title="INDIHOME", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/130/beritasatu/manifest.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/DKS9LZC/moji-ocha-big-copy.png" group-title="INDIHOME", MOJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKS9LZC/moji-ocha-big-copy.png" group-title="INDIHOME", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
