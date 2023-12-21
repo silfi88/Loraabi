@@ -3646,9 +3646,6 @@ http://37.26.86.39:48768/movies/traintobusan2.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="BACKUP" INDOSIAR
-http://103.166.27.2:8112/play/a016/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="BACKUP" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
@@ -3670,29 +3667,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="BACKUP",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 
+#EXTINF:-1 group-title="BACKUP",Tennis+ 10
+https://webudit.webhd.ru/lb/premium709/ index.m3u8
+Referer=https://weblivehdplay. ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-group-togo- https://1.bp. co/3089bZJ/daddy.png" group- title="BACKUP", Tennis+ 10
+#EXTINF:-1 group-title="BACKUP",Tennis+ 11
+https://webudit.webhd.ru/lb/premium710/ index.m3u8
+Referer=https://weblivehdplay. ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-90 https://webudit.webhd.ru/lb/premium709/ index.m3u8|Referer=https://weblivehdplay. ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-91
-
-#EXTINF:-1 group-logo="https://i.ibb. co/3089bZJ/daddy.png" group- title="BACKUP", Tennis+ 11
-
-92
-
-https://webudit.webhd.ru/lb/premium710/ index.m3u8|Referer=https://weblivehdplay. ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-93
-
-#EXTINF:-1 group-logo="https://i.ibb. co/3089bZJ/daddy.png" group- title="BACKUP", Tennis+ 12
-
-94 https://webudit.webhd.ru/lb/premium711/
-
-index.m3u8|Referer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="BACKUP",HBO
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="BACKUP",HBO Family
+#EXTINF:-1 group-title="BACKUP",Tennis+ 12
+https://webudit.webhd.ru/lb/premium711/index.m3u8
+Referer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT
