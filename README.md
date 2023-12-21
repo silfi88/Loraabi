@@ -3609,25 +3609,3 @@ http://37.26.86.39:48768/movies/traintobusan.mp4
 
 #EXTINF:-1 group-title="FILM BARAT"tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan (2016) 
 http://37.26.86.39:48768/movies/traintobusan2.mp4
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="BACKUP",Tennis+ 10
-https://webudit.webhd.ru/lb/premium709/ index.m3u8
-Referer=https://weblivehdplay. ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="BACKUP",Tennis+ 11
-https://webudit.webhd.ru/lb/premium710/ index.m3u8
-Referer=https://weblivehdplay. ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="BACKUP",Tennis+ 12
-https://webudit.webhd.ru/lb/premium711/index.m3u8
-Referer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT
