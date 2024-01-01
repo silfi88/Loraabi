@@ -1782,6 +1782,9 @@ http://starshare.live:8080/live/123456/654321/151189.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium*
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg" group-title="Film",HBO NEW
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES", HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://conn.livetvgo.my.id/cumbu/
