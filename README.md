@@ -406,9 +406,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|re
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel VIDIO
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/ars/libyach.png", LIBYA SPORT CHANNEL
-http://mytv-extra.com:80/t12mgxyb335/9832948789/112529
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/XtbZ62P/BWF.jpg" group-title="LIVE EVENT", court 1 LIVE BADMINTON
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_131223/master_p4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XtbZ62P/BWF.jpg" group-title="LIVE EVENT", court 2 LIVE BADMINTON
