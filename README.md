@@ -1236,22 +1236,24 @@ https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197972
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197055
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196480
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/221948
 
-#EXTINF:-1 group-title="MOVIES", HBO FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family*
 http://starshare.live:8080/live/123456/654321/151250.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES", HBO HITS
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196480
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES", HBO HITS*
 http://starshare.live:8080/live/123456/654321/151212.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES", HBO HITS HD
 http://starshare.live:8080/live/123456/654321/152372.ts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS+
+http://starshare.live:8080/live/123456/654321/151237.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",HBO Mundi
 http://208.115.225.174:14148
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/221948
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
@@ -1260,9 +1262,6 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature HD
 http://starshare.live:8080/live/123456/654321/151206.ts
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS 
-http://starshare.live:8080/live/123456/654321/151237.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies
 http://starshare.live:8080/live/123456/654321/151254.ts
