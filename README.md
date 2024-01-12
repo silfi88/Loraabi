@@ -149,6 +149,11 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Madu TV
+https://v6.siar.us/madutv/hd720/playlist
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDONESIA", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
