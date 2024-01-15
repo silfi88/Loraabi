@@ -376,6 +376,111 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extensi
 
 ################################################################## LIVE EVENT ################################################################################
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="LIVE EVENT",
+AFC ASIAN CUP  1
+http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422120&extension=ts&play_token=kRgSkpTZuH
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="LIVE EVENT",
+AFC ASIAN CUP 2
+http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422124&extension=ts&play_token=4oQLjHkfLN
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SA: SSC 1 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38864.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/7adf79234a7f5aa30729bc49bb7c8c7a.png" group-title="LIVE EVENT",SA: SSC 2 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38865.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 3 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38866.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 4 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38867.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="SSC LIVE EVENT",SSC 5 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38868.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SSC 1 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46825.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SSC 1 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46826.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SSC 1 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46827.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/7adf79234a7f5aa30729bc49bb7c8c7a.png" group-title="LIVE EVENT",SSC 2 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46828.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/7adf79234a7f5aa30729bc49bb7c8c7a.png" group-title="LIVE EVENT",SSC 2 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46829.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/7adf79234a7f5aa30729bc49bb7c8c7a.png" group-title="LIVE EVENT",SSC 2 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46830.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 3 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46831.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 3 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46832.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 3 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46833.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 4 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46834.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 4 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46835.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 4 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46836.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="LIVE EVENT",SSC 5 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46837.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="LIVE EVENT",SSC 5 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46838.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="LIVE EVENT",SSC 5 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46839.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/08aa744d59146bad7f70c7f68ad5a222.png" group-title="LIVE EVENT",SSC EXTRA 1
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38869.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/2193264c173bf98437b303fe08271182.png" group-title="LIVE EVENT",SSC EXTRA 2
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38870.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/08aa744d59146bad7f70c7f68ad5a222.png" group-title="LIVE EVENT",SSC EXTRA 1 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46816.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/08aa744d59146bad7f70c7f68ad5a222.png" group-title="LIVE EVENT",SSC EXTRA 1 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46817.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/08aa744d59146bad7f70c7f68ad5a222.png" group-title="LIVE EVENT",SSC EXTRA 1 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46818.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/2193264c173bf98437b303fe08271182.png" group-title="LIVE EVENT",SSC EXTRA 2 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46819.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/2193264c173bf98437b303fe08271182.png" group-title="LIVE EVENT",SSC EXTRA 2 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46820.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/2193264c173bf98437b303fe08271182.png" group-title="LIVE EVENT",SSC EXTRA 2 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46821.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/8a870deda9e6bcccb92934891fec76e4.png" group-title="LIVE EVENT",SSC EXTRA 3 SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46822.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/8a870deda9e6bcccb92934891fec76e4.png" group-title="LIVE EVENT",SSC EXTRA 3 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46823.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/8a870deda9e6bcccb92934891fec76e4.png" group-title="LIVE EVENT",SSC EXTRA 3 FHD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/46824.ts
+
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="LIVE EVENT",SSC 5 HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/16315.ts
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT", LIGA BRI 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
