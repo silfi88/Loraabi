@@ -305,7 +305,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
 
-
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_sleng.m3u8
 
@@ -389,16 +388,13 @@ http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422124&extens
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",
-LIGA BRI 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 2
 http://37.49.225.197:8080/silversatcom/uSKcm5tNBsrJ2HZE/162138
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",
-LIGA BRI
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI
 http://iptvaruba.com:8080/Kenann666/bpLTekVQBMD3yaWq/162138
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",
-LIGA BRI HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI HD
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1350,11 +1346,11 @@ https://karlfazreen.github.io/playlist/skystore/sky11.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill SD 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill HD 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
