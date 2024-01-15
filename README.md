@@ -397,7 +397,7 @@ http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38866.ts
 #EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 4 HD
 http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38867.ts
 
-#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="SSC LIVE EVENT",SSC 5 HD
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/06fdebb2731812e39f5ebf90f64cc181.png" group-title="LIVE EVENT",SSC 5 HD
 http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38868.ts
 
 #EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SSC 1 SD
