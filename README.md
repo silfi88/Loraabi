@@ -377,18 +377,16 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extensi
 ################################################################## LIVE EVENT ################################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="LIVE EVENT",
-AFC ASIAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="LIVE EVENT",AFC ASIAN
 http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422120&extension=ts&play_token=kRgSkpTZuH
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="LIVE EVENT",
-AFC ASIAN2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="LIVE EVENT",AFC ASIAN2
 http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422124&extension=ts&play_token=4oQLjHkfLN
 
-#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SA: SSC 1 HD
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="LIVE EVENT",SSC 1 HD
 http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38864.ts
 
-#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/7adf79234a7f5aa30729bc49bb7c8c7a.png" group-title="LIVE EVENT",SA: SSC 2 HD
+#EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/7adf79234a7f5aa30729bc49bb7c8c7a.png" group-title="LIVE EVENT",SSC 2 HD
 http://cxz.orannge.net:8080/live/152076685451860/152031548389758/38865.ts
 
 #EXTINF:-1 tvg-logo="http://s1.czxbexchange.xyz:8080/images/82ded90794124e294e7471341dc5d895.png" group-title="LIVE EVENT",SSC 3 HD
