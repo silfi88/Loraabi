@@ -969,6 +969,15 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", Cartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="KIDS",Cartoon Network ASIA
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/82584
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="KIDS",Cartoon Network SD
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/157593
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/a7e076dc55f6f28f063d81b51eeacedc.png" group-title="KIDS",Cartoon Network HD
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/144835
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS", Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
