@@ -2752,6 +2752,11 @@ http://37.26.86.39:48768/movies/traintobusan2.mp4
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1rflp0cfws80mJOOgwdxSr0obQGfOvB1Jg&usqp=CAU",Premier Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
