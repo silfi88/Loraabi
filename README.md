@@ -165,6 +165,10 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 
 
+
+
+
+
 #################################################### TV NASIONAL ###################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dM0SYrN/rcti.png" group-title="TV NASIONAL", RCTI
@@ -867,9 +871,6 @@ https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryKids.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fX6Rgg9/DRAGON.jpg" group-title="KIDS"​,DRAGON BALL
 http://ghost1.tv:80/movie/162CBDA1CFAF/64ff5ef7debbf/58604.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fX6Rgg9/DRAGON.jpg" group-title="KIDS"​,DRAGON BALL Z
-https://adem-tv.000webhostapp.com/dragonballz/guko.m3u8?token=kalau_nonton_dragonball_itu_rasanya_jadi_adem
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="KIDS",DreamWorks
@@ -882,7 +883,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS HD 
+#EXTINF:-1 group-title="KIDS", KARTUN SIS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 
