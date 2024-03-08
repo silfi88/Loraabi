@@ -203,7 +203,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjNQwrH/indosiar.png" group-title="TV NASIONAL", INDOSIAR OFF
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+http://ua-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="TV NASIONAL", INDOSIAR OFF
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
