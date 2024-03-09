@@ -192,7 +192,9 @@ https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV OFF
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://firebasestorage.googleapis.com/v0/b/filmkita-cdc48.appspot.com/o/logo_stor%2F1657295419551.jpg?alt=media&token=0c9243bf-219d-47ab-9603-87b6a508c690",ANTV testOFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
