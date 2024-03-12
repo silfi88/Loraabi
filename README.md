@@ -541,20 +541,10 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1097
 #KODIPROP:inputstream.adaptive.license_key=01010873199d66a055cfd9b3383805b3:f4fd7461c2eda88e6185f2b4a7840a20
 https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/36399/master.mpd
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",LIGA INGGRIS-BEIN SPORT 
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&extension=ts&play_token=hD9xbee4BC
-
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",LIGA INGGRIS-BEIN SPORT ENG
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1330449&extension=ts&play_token=6jq4isiN0j
-
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",LIGA INGGRIS-BEIN A SPORT
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="LIGA EROPA", HUB SPORT PREMIER 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="LIGA EROPA", HUB SPORT PREMIER 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350558_&extension=ts
-
 
 #EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -1925,6 +1915,15 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 
 
 
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",BEIN SPORT 
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&extension=ts&play_token=hD9xbee4BC
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",BEIN SPORT ENG
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1330449&extension=ts&play_token=6jq4isiN0j
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",BEIN A SPORT
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="BEIN SPORTS",beIN Sports Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
