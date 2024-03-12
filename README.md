@@ -190,7 +190,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qjg9wCC/mnctv.png" group-title="TV NASIONAL", MNC-TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qjg9wCC/mnctv.png" group-title="TV NASIONAL", MNC-TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
@@ -266,11 +266,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="TV NASIONAL", Metro-TV
-http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+http://iptvkita.my.id:25461/Toni/0895810355575/12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G9NY1P4/metrotv.png" group-title="TV NASIONAL", METRO TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/x8nKHkTW/20230910-164153.jpg",METRO GLOBE INDONESIA 3
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
@@ -347,27 +348,62 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
-################################################################## LIVE EVENT ################################################################################
+
+=====================================================================================================================================
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT", LIGA BRI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel 
+#EXTINF:-1 group-title="LIGA BRI" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/3lo1rsg.png",SportStars 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI", LIGA BRI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 2
+http://iptvkita.my.id:25461/Toni/0895810355575/3
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 6
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIGA BRI",SPORTSTAR HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="LIGA BRI" tvg-logo="https://i.imgur.com/3lo1rsg.png",SportStars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="LIGA BRI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT", LIGA BRI - SPORTSTARS3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -375,25 +411,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd|referer=https://www.visionplus.id/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="LIVE EVENT",SPORTSTAR HD
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|referer=https://www.visionplus.id/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd|referer=https://www.visionplus.id/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|referer=https://www.visionplus.id/
+
+################################################################## LIVE EVENT ################################################################################
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -954,17 +979,14 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L2YDRd5/20230212-134246.png" group-title="KIDS",Moonbug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="KIDS", MinecrafTV
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/24090Mondo%20TV%20Kids%20Diretta.jpg" group-title="KIDS", Mondo TV Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="KIDS", Mr.Bean
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2632,6 +2654,49 @@ http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP1
+https://www.googleapis.com/drive/v3/files/1PYffF_xxw60gN43jtautSgS6FwZXfHbX?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP2
+https://www.googleapis.com/drive/v3/files/1cqi8btg4hrEwpISOPTRLmvwoh8ENsqGh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP3
+https://www.googleapis.com/drive/v3/files/1eRmx5ceMhdOK4SStnuvC7zxz_qcH62Mu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP4
+https://www.googleapis.com/drive/v3/files/17ByL3qxVwVWcZ9Q8ubbuuNLshHgcx4t7?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP5
+https://www.googleapis.com/drive/v3/files/1dcPOFw0NDxbxHYkvprLdcdxu_yflDC-e?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP6
+https://www.googleapis.com/drive/v3/files/18GKkg444PAXXek9CFbEU9rcWUD1SiZ4n?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP7
+https://cldup.com/ugUEKtyAda3/UEkDJl.mp4?download=Naruchiha_Avatar_Dub_Indo_07_HD.mp4
+#EXTINF:-1 tvg-logo="http://i.ibb.co/q5DzzSP/The-Lost-Ship-in-the-Sky-2010.jpg" group-title="AVATAR THE LEGEND", The Lost Ship in the Sky (2010) 
+https://filmku.yesioktaviana.workers.dev/The%20Lost%20Ship%20in%20the%20Sky%20(2010).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/5kyJ4sW/Quarter-of-Silence-2011.jpg" group-title="AVATAR THE LEGEND", Quarter of Silence (2011) 
+https://filmku.yesioktaviana.workers.dev/Quarter%20of%20Silence%20(2011).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2njZL69/The-Eleventh-Striker-2012.jpg" group-title="AVATAR THE LEGEND", The Eleventh Striker (2012) 
+https://filmku.yesioktaviana.workers.dev/The%20Eleventh%20Striker%20(2012).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NrbwQ5z/Private-Eye-in-the-Distant-Sea-2013.jpg" group-title="AVATAR THE LEGEND", Private Eye in the Distant Sea (2013) 
+https://filmku.yesioktaviana.workers.dev/Private%20Eye%20in%20the%20Distant%20Sea%20(2013).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nn366sV/The-Sniper-from-Another-Dimension-2014.jpg" group-title="AVATAR THE LEGEND", The Sniper from Another Dimension (2014) 
+https://filmku.yesioktaviana.workers.dev/The%20Sniper%20from%20Another%20Dimension%20(2014).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xq956Qf/Sunflowers-of-Inferno-2015.jpg" group-title="AVATAR THE LEGEND", Sunflowers of Inferno (2015) 
+https://filmku.yesioktaviana.workers.dev/Sunflowers%20of%20Inferno%20(2015).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7nJwnj1/The-Darkest-Nightmare-2016.jpg" group-title="AVATAR THE LEGEND", The Darkest Nightmare (2016) 
+https://hadeh.pitoyoabdi.workers.dev/The%20Darkest%20Nightmare%20(2016).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nzJrFYv/Crimson-Love-Letter-2017.jpg" group-title="AVATAR THE LEGEND", Crimson Love Letter (2017) 
+https://hadeh.pitoyoabdi.workers.dev/Crimson%20Love%20Letter%20(2017).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gTNGP4R/Zero-the-Enforcer-2018.jpg" group-title="AVATAR THE LEGEND", Zero the Enforcer (2018)
+https://hadeh.pitoyoabdi.workers.dev/Zero%20the%20Enforcer%20(2018).mp4
+ 
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xjvSTXF/The-Fist-of-Blue-Sapphire-2019.jpg" group-title="AVATAR THE LEGEND", The Fist of Blue Sapphire (2019) 
+https://hadeh.pitoyoabdi.workers.dev/The%20Fist%20of%20Blue%20Sapphire%20(2019).mp4
 
 ################################################### BIOSKOP HOROR ##########################################
 
