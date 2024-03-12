@@ -2653,6 +2653,8 @@ http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
 
 
 
+#EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/pEitthkMas2A54wA4zMei6F4NeI.jpg" group-title="AVATAR THE LEGEND", The Last Airbender (2024)
+https://filmovie.github.io/yip3fft/i85FtikK9rZ/q1i7t56.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="AVATAR THE LEGEND",Avatar The Legend of Aang EP1
 https://www.googleapis.com/drive/v3/files/1PYffF_xxw60gN43jtautSgS6FwZXfHbX?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
