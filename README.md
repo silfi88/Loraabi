@@ -144,7 +144,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDONESIA", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -358,7 +358,6 @@ https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/639.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJrj97X/nusantaratv.png" group-title="TV NASIONAL", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="TV NASIONAL", TVRI NASIONAL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -691,9 +690,6 @@ https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN" group-title="HIBURAN",The Food Network
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/AKa1X9d.png",Thikrayat TV
-https://edge.taghtia.com/sa/3.m3u8
-
 #EXTINF:-1 group-title="HIBURAN",Time Line
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 
@@ -743,9 +739,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|refe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU"group-title="PENGETAHUAN",CURIOSITY
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/crimeinvestigation.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime Investigation Asia
@@ -754,40 +747,34 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="PENGETAHUAN",Discovery HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="PENGETAHUAN",Discovery ASIA
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia",Discovery ASIA
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia",Discovery Asia*
 http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/03.m3u8
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Asia (HD)
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia",Discovery Asia (HD)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="PENGETAHUAN",Discovery Channel
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel*
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="PENGETAHUAN",Discovery Channel (HD)
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel (HD)
 https://kusnadipepenk.github.io/ntn/disc.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN", Discovery KidS
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="PENGETAHUAN", Discovery Science HD
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png",Discovery Science HD
 https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png",Discovery Science+
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="PENGETAHUAN",Discovery Science
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png",Discovery Science
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="PENGETAHUAN",Discovery Science*
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png",Discovery Science*
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/RhjKg87N/20230524-164646.png",Discovery Turbo
