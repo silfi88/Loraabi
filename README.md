@@ -1873,12 +1873,12 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_5.png" group-title="ARENA SPORTS",Arena Sport 5
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_5.png" group-title="cSPORTS",Arena Sport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 6
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_5.png" group-title="cSPORTS",Arena Sport 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
