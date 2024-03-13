@@ -507,13 +507,13 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="LIGA EROPA",PREMIER LEAGUE 1
 http://iptvkita.my.id:25461/Toni/0895810355575/9149
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS1.png" group-title="LIGA EROPA",PREMIER LEAGUE-NOW HK NOW SPORTS 1
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS1.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 1
 http://202.21.104.6:88/sps-prime/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS2.png" group-title="LIGA EROPA",PREMIER LEAGUE-NOW HK NOW SPORTS 2
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS2.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 2
 http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS3.png" group-title="LIGA EROPA",PREMIER LEAGUE-NOW HK NOW SPORTS 3
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS3.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 3
 http://202.21.104.6:88/sps-action/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS4.png" group-title="LIGA EROPA",PREMIER LEAGUE-NOW HK NOW SPORTS 5
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS4.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 5
 http://202.21.104.6:88/sps-plus/index.m3u8
 
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
@@ -539,11 +539,6 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1097
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01010873199d66a055cfd9b3383805b3:f4fd7461c2eda88e6185f2b4a7840a20
 https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/36399/master.mpd
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="LIGA EROPA", HUB SPORT PREMIER 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="LIGA EROPA", HUB SPORT PREMIER 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350558_&extension=ts
 
 #EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -671,9 +666,6 @@ https://jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="HIBURAN",Real Stories
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/b1piasb.png",Rotana+
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -970,9 +962,6 @@ https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png" group-title="KIDS", Baby First
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.ksa.my.id/bizkids.png",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
