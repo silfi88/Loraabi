@@ -519,60 +519,114 @@ https://bp1.mrgaminghoster.xyz/bar.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="LIGA EROPA",LA LIGA 2
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="LIGA EROPA",PREMIER LEAGUE 1
-http://iptvkita.my.id:25461/Toni/0895810355575/9149
+#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS1.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 1
-http://202.21.104.6:88/sps-prime/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS2.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 2
-http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS3.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 3
-http://202.21.104.6:88/sps-action/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS4.png" group-title="LIGA EROPA",PREMIER LEAGUE-SPORTS 5
-http://202.21.104.6:88/sps-plus/index.m3u8
+#EXTINF:-1 group-title="LIGA EROPA"  tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" ,LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://cors-proxy.cluster.fun/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA EROPA"​,PREMIER LEAGUE 5
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" ,LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA EROPA", PREMIER LEAGUE​ 6
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/266
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA EROPA"​,PREMIER LEAGUE 7
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA EROPA"​,PREMIER LEAGUE 8
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60799
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA EROPA"​,PREMIER LEAGUE 9
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/55270
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA EROPA"​,PREMIER LEAGUE 10
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1097
+#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" ,LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXTINF:-1 group-title="LIGA EROPA",LIVE CHAMPION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01010873199d66a055cfd9b3383805b3:f4fd7461c2eda88e6185f2b4a7840a20
 https://live.cf.latam.hbomaxcdn.com/cmaf/live/2031610/dash/cenc/36399/master.mpd
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Premier Football 1
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="LIGA EROPA",ITALIA-true bein 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="LIGA EROPA",BELANDA- TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS",Bein ais
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS", LIVE event only
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45b3388e1ade3e9a8c5ebf6e63476d31:0f527d33b27cc9502540da2dfc7ccc68
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4505377-605640-418fd6e8808)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true", tvg-id="ksport1hd" group-title="LIGA INGGRIS",USA Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="LIGA INGGRIS",PREMIER LEAGUE 1
+http://iptvkita.my.id:25461/Toni/0895810355575/9149
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS1.png" group-title="LIGA INGGRIS",PREMIER LEAGUE-SPORTS 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS2.png" group-title="LIGA INGGRIS",PREMIER LEAGUE-SPORTS 2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS3.png" group-title="LIGA INGGRIS",PREMIER LEAGUE-SPORTS 3
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS4.png" group-title="LIGA INGGRIS",PREMIER LEAGUE-SPORTS 5
+http://202.21.104.6:88/sps-plus/index.m3u8
+
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS"​,PREMIER LEAGUE 5
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS", PREMIER LEAGUE​ 6
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/266
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS"​,PREMIER LEAGUE 7
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS"​,PREMIER LEAGUE 8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60799
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS"​,PREMIER LEAGUE 9
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/55270
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS"​,PREMIER LEAGUE 10
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1097
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Sports 1
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://smart-tv.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Sports 2
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS",True sport 1 HD
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Sports 3 BILLYARD
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS",True sport-2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS",True sport 2 HD
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg",True Sports 3 BILLYARD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
-
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
@@ -582,48 +636,45 @@ https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-0 tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="LIGA EROPA",True Sports 7
+#EXTINF:-0 tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="LIGA INGGRIS",True Sports 7
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
-
-
-
 
 
 
