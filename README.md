@@ -80,10 +80,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14668612_ico.png?ts=1657379902" group-title="INDONESIA", TV ONE
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -307,7 +304,10 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="TV NASIONAL", TVONE HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14668612_ico.png?ts=1657379902" group-title="TV NASIONAL", TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -529,10 +529,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS",Bein ais
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIGA INGGRIS", LIVE event only
 #KODIPROP:inputstream.adaptive.license_type=clearkey
