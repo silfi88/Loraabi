@@ -449,8 +449,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|refe
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZBMwBxB/malay.png" group-title="LIVE EVENT"​, COURT 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZBMwBxB/malay.png" group-title="LIVE EVENT"​,LIVE BADMINTON - COURT 1
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_090124/master_p4.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/JHQwXd6/images-2.jpg" group-title="LIVE EVENT"​,LIVE BADMINTON - COURT 1 HD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_060324/master_p2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JHQwXd6/images-2.jpg" group-title="LIVE EVENT"​,LIVE BADMINTON - COURT 2
+http://43.152.161.122/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/mobilelive-pull.ysp.cctv.cn/ysp/2022851901_hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JHQwXd6/images-2.jpg" group-title="LIVE EVENT"​,LIVE BADMINTON - COURT 3
+http://43.152.161.122/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/mobilelive-pull.ysp.cctv.cn/ysp/2022857801_hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JHQwXd6/images-2.jpg" group-title="LIVE EVENT"​,LIVE BADMINTON - COURT 4
+http://43.152.161.122/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/mobilelive-pull.ysp.cctv.cn/ysp/2022857901_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="LIVE EVENT", FORMULA 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=295373&extension=ts
@@ -488,6 +497,26 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
 ################################################## LIGA EROPA ###################################################
+
+#EXTINF:-1 group-title="LIGA EROPA",EURO ES1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd
+
+#EXTINF:-1 group-title="LIGA EROPA",EURO ES 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 group-title="LIGA EROPA",Euro It1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-029/stream.mpd
+
+#EXTINF:-1 group-title="LIGA EROPA",Euro IT2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-030/stream.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="LIGA EROPA",LA LIGA
 https://bp1.mrgaminghoster.xyz/bar.m3u8
@@ -798,7 +827,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime Investigation Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY*
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY*
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
@@ -806,7 +835,7 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/disc
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="PENGETAHUAN",Discovery HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA+
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia",Discovery ASIA
@@ -1463,8 +1492,8 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family 
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family +
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family*
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/197055
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1477,24 +1506,14 @@ http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11836
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="MOVIES",HBO Hits HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family*
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/197055
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",HBO Mundi
 http://208.115.225.174:14148
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature++
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
@@ -1518,7 +1537,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XY51BSQC/KIX-LOGO.jpg" group-title="MOVIES", KIX V
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2142,14 +2160,6 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/
 
 
 
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="ESPN SPORTS", ESPN DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="ESPN SPORTS", ESPN  MX
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sbviiu1645298475.png" group-title="ESPN SPORTS",ESPN 3
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="ESPN SPORTS", ESPN 2 MX
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="ESPN SPORTS", ESPN
@@ -2493,12 +2503,12 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlnWcBAcGcX_6aguTYkQHcfynjyB7zSDB9Q&usqp=CAU",UFC unifi Sports
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_useesport_ver1.png",USEESPORT 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_useesport_ver1.png",USEESPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_useesports2_ver1.png",USEESPORT 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_useesports2_ver1.png",USEESPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
