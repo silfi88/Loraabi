@@ -2443,8 +2443,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/HPVsIa4.png",Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.imgur.com/nUlZvSe.png",Iqraa Europe Africa
-https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2808,9 +2806,6 @@ http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL TV", MULTIPREMIER
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac781e12572abe1b4451609cd1253888.png",Reelz Channel
-https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL TV", SPACE
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
