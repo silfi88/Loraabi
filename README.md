@@ -1099,6 +1099,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png" group-title="KIDS", Pluto TV Tween
+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/Wz22G13Z/20230212-134146.png",PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -1909,10 +1910,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 1
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/KYdtBm6d/20230520-093740.jpg",RAKUTEN 2
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
