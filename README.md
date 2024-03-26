@@ -727,7 +727,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="PENGETAHUAN", Animal Planet HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="PENGETAHUAN", Animal Planet
+#EXTINF:-1 tvg-logo="PENGETAHUAN://mncvision.id/userfiles/image/channel/channel_203.png" group-title="PENGETAHUAN", Animal Planet
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kH414m4/BBC-Earth.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="PENGETAHUAN",BBC Earth
