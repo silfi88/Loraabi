@@ -403,7 +403,7 @@ http://iptvkita.my.id:25461/Toni/0895810355575/3
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 3
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 group-title=">> voly<<" tvg-logo="https://hometv.pw/logo/sports2/live_event.png",VOLLY BALL-Red Spark
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://hometv.pw/logo/sports2/live_event.png",VOLLY BALL-Red Spark
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711468593/ei/0ZsCZrCFJK2QvcAP3-eu2AE/ip/36.71.82.201/id/K4GNqkcA9-Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/force_finished/1/maudio/1/spc/UWF9f1xC2eIz5WlRjQY0zPb_dA3c_ECHjP_otxdmvp4ou4w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVZcr8FODwnqRsPbHr75LFidYCIsRqMGCHPh0x04l6U4CIQDvppiYYdvCJ-f2nu5LlYnvGiKTRwulUw8lHEw_4hDUQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR
@@ -518,35 +518,35 @@ http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/277909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",ARENA PREMIUM
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 1 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",PRIME VIDEO 1 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363356&extension=ts
 
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 2 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",PRIME VIDEO 2 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363357&extension=ts
 
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION", CHAMPIONS LEAGUE - PRIME VIDEO 3 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",PRIME VIDEO 3 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363358&extension=ts
 
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 4 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",PRIME VIDEO 4 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363359&extension=ts
 
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 5 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",PRIME VIDEO 5 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363360&extension=ts
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 6 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",PRIME VIDEO 6 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363361&extension=ts
-#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 7 (ONLY EVENT)
+#EXTINF:-1 Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg"  group-title="LIGA CHAMPION",PRIME VIDEO 7 (ONLY EVENT)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363362&extension=ts
