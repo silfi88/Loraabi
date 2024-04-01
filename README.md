@@ -583,6 +583,18 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA",BUNDES LIGA 7 (DAZN 1)
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/48355
 
+#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7ld6v6PW-lUFEwu_Z14T8-tHQ5FIplk75A&usqp=CAU", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="LIGA EROPA",LA LIGA
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
@@ -2712,7 +2724,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerLib 
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 group-title=" Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByCUqHFxle-55IF_ZmwsodirZG3xlIt1ZhCxyh_Ot_hZeaR21stG9diYU&s=10", Zona DAZN
+#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByCUqHFxle-55IF_ZmwsodirZG3xlIt1ZhCxyh_Ot_hZeaR21stG9diYU&s=10", Zona DAZN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib 
@@ -2724,17 +2736,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerLib 
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7ld6v6PW-lUFEwu_Z14T8-tHQ5FIplk75A&usqp=CAU", DAZN LaLiga
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-user-agent=ExoPlayerLib 
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-user-agent=ExoPlayerLib 
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
 #EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3bAbfF4cH3-4s_UVPG2LpQgWu737H0MXwZE3-yP75SpuBAmDDogqVfQE&s=10", L'EQUIPE Du soir
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2742,47 +2743,52 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerLib 
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 1
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd 
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 2
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 3
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 4
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd 
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 5
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 group-title="Dazn Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 6
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw2u6J7gNtAL_c0oaklDXoOnKUuhc3bY4lKVMnCpxvI0RGwsXQKTfrjFx&s=10",Eleven Sports 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="ELEVEN SPORTS", ELEVEN SPORT 1 HD
 #EXTVLCOPT:cache=17238
