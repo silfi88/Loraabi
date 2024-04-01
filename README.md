@@ -496,8 +496,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",CHAMPION 1 (TNT SPORT)
-http://iptvkita.my.id:25461/Toni/0895810355575/1615
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",S-SPORT 2 HD
 http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/277909
