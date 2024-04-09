@@ -27,11 +27,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="INDONESIA",INDOSIAR
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDONESIA", SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://iptvtree.net:8080/c4596f70/c3848d92/162141
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="INDONESIA",TRANS-TV
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
@@ -236,6 +237,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV NASIONAL", Indosiar
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="TV NASIONAL",Indosiar HD
+http://iptvkita.my.id:25461/Toni/0895810355575/3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="TV NASIONAL",INDOSIAR*
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="TV NASIONAL", SCTV HD
 #EXTVLCOPT:http-user-agent=aura1234
