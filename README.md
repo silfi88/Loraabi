@@ -389,6 +389,24 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 ################################################################## LIVE EVENT ################################################################################
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",INDO VS QATAR 1
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/60479
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",INDO VS QATAR 2
+http://protv.fun:80/b7b8c490e690/9ba37c198c8d/926768
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",INDO VS QATAR 3
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/5144
+
+#EXTINF:-1 group-title="LIVE EVENT"tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",INDO VS QATAR 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",INDO VS QATAR 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -408,6 +426,9 @@ http://iptvkita.my.id:25461/Toni/0895810355575/3
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 3
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 6
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
