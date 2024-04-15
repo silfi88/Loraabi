@@ -405,6 +405,16 @@ https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png",FIFA+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="LIVE EVENT", MOTOGP
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="LIVE EVENT", MOTOGP 1 (SKY SPORT)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="LIVE EVENT",MOTO GP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="LIVE EVENT",LIVE HD
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
@@ -423,15 +433,6 @@ https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg",LIVE 4
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="LIVE EVENT", MOTOGP
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="LIVE EVENT", MOTOGP 1 (SKY SPORT)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="LIVE EVENT",MOTO GP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 
 
@@ -447,8 +448,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",S-SPORT 2 HD
-http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/277909
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",ARENA PREMIUM
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
@@ -552,18 +553,10 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="LIGA EROPA"​,LA LIGA 2
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297791
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="LIGA EROPA",LA LIGA 3
-http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/409371
-
 #EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 group-title="LIGA EROPA"  tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://cors-proxy.cluster.fun/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -601,8 +594,6 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297371
 
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="LIGA INGGRIS",PREMIER LEAGUE-NOW SPORT 1
-http://iptvkita.my.id:25461/Toni/0895810355575/9149
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS1.png" group-title="LIGA INGGRIS",PREMIER LEAGUE-SPORTS 1
 http://202.21.104.6:88/sps-prime/index.m3u8
