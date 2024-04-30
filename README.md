@@ -337,6 +337,13 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 ################################################################## LIVE EVENT ################################################################################
 
 
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",AFC U23 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qkxNK2M/TIMNAS.jpg",AFC U23
 http://protv.fun:80/b7b8c490e690/9ba37c198c8d/926768
 
