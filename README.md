@@ -322,7 +322,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x6rFRdn/rcti.png" group-title="LIVE EVENT",RCTI LORAABI SITUBONDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkL7LJHX/rcti.jpg" group-title="LIVE EVENT",RCTI LORAABI SITUBONDO
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="PLAY OFF OLYMPIC",INDONESIA VS GUENIE+
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
