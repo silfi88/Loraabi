@@ -322,9 +322,10 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geVzpJ1odhxBxtuiAOMRZ3pxV36Tvw5KixsYhanJybsRmk.png" group-title="LIVE EVENT",RCTI LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-http://mykingtv.net:2082/KT1884/GK39473/5144
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6rFRdn/rcti.png" group-title="LIVE EVENT",RCTI LORAABI SITUBONDO
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="PLAY OFF OLYMPIC",INDONESIA VS GUENIE+
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="LIVE EVENT",INDONESIA VS GUENIE+
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
