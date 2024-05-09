@@ -54,7 +54,7 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https:/
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="INDONESIA", Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -234,6 +234,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans-7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1860703125_b744100_sleng.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
@@ -317,6 +321,17 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 ################################################################## LIVE EVENT ################################################################################
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geVzpJ1odhxBxtuiAOMRZ3pxV36Tvw5KixsYhanJybsRmk.png" group-title="LIVE EVENT",RCTI LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://play.gachor99.my.id:443/hmtv_pro/enkptxbyVa/10
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="LIVE EVENT",INDONESIA VS GUENIE+
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/10/151944808.jpg" group-title="LIVE EVENT",INDONESIA VS GUENIEA
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
@@ -328,6 +343,15 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 2
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="LIVE EVENT",PROLIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_pro/enkptxbyVa/117
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="LIVE EVENT",PROLIGA 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="LIVE EVENT",PROLIGA 3
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="LIVE EVENT",PROLIGA 4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="LIVE EVENT",SPORTSTAR
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -421,7 +445,40 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 ################################################################## LIGA CHAMPION ##########################################################################
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",ARENA PREMIUM
+http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION", CHAMPIONS LEAGUE - PRIME VIDEO 1 (ONLY EVENT)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363356&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",CHAMPIONS LEAGUE - PRIME VIDEO 2 (ONLY EVENT)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363357&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION", CHAMPIONS LEAGUE - PRIME VIDEO 3 (ONLY EVENT)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://vpn.iplay-tv.co:8000/play/live.php?mac=00:1A:79:C8:6B:41&stream=363358&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",PREMIERE SPORT 1
+http://202.21.104.6:88/sps-play/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",S-SPORT 2 HD
+http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/277909
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION", SCTV
+http://mykingtv.net:2082/Bae810/ktv9399/5147
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",SONY TEN 1
+http://watchindia.net:8880/live/23712/28423/1756.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",SONY TEN 2
+http://watchindia.net:8880/live/23712/28423/1757.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",SUPER SPORT 
+https://open.http.mp.streamamg.com/p/3001401/sp/300140100/playManifest/entryId/0_3uiem7ex/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA CHAMPION",ARENA PREMIUM
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 
