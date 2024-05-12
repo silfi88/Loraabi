@@ -1,7 +1,7 @@
 #LORAABI_SITUBONDO_2024
 
 
-#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/sDpx6HQ2/151016093756.jpg",_JOKOWI PRESIDEN RI
+#EXTINF:-1 group-title="INDONESIA", tvg-logo="https://i.postimg.cc/sDpx6HQ2/151016093756.jpg",_LORAABI 082335484269
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/music_tv_pratensis/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
