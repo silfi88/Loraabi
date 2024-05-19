@@ -49,9 +49,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" group-title="INDONESIA", RTV
 https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI PROLIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA", MOJI PROLIGA
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="INDONESIA",INEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -260,6 +260,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/moji.png" group-title="TV NASIONAL", Moji TV
 #EXTVLCOPT:http-user-agent=""
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/bola24-hash/logo/main/1674713458836.png",MOJI*
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkFKLMQEXbJropYF7sh7D33fVaM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="TV NASIONAL", iNEWS HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
