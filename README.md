@@ -803,6 +803,104 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=
 
 
 
+#####liga Italia#####
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga Italia" , Bein sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga Italia" , Zona dazn
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-024/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga Italia" , Dazn 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga Italia" , true bein 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga Italia" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-047/stream.mpd
+
+#####liga jerman#####
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga Jerman" , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga Jerman" , Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga Jerman" , Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga Jerman" , Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#####liga prancis#####
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga Prancis" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-048/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga Prancis" , Eleven 1A
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-047/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga Prancis" , Euro sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga Prancis" , Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga Prancis" , Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#####liga belanda#####
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga Belanda" , TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga Belanda" , ESPN 2
+http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga Belanda" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-050/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga Belanda" , Sport 1D
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga Belanda" , Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+
 #EXTINF:-1 Animax" tvg-logo="http://x1.cdn.broiptv.com/img/animax.png" group-title="ENTERTAINMENT", Animax
 #EXTVLCOPT:http-user-agent=""
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animax_rattus/playlist.m3u8
