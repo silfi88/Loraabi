@@ -160,7 +160,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 https://testfunctionlive.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="INDONESIA",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="INDONESIA",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -321,6 +321,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBGpbpn/garudatv.png" group-title="TV NASIONAL", GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg",INDONESIANA TV 🇮🇩
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/indonesiana.png" group-title="TV NASIONAL", Indonesiana TV
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/indonesiana_pratensis/playlist.m3u8
@@ -564,38 +567,6 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ################################################### HIBURAN ##############################################
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
@@ -697,84 +668,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/animal_planet.png" group-title="KNOWLEDGE", Animal Planet
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animalplanet_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/bbc_earth.png" group-title="KNOWLEDGE", BBC Earth
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/bbc_earth_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/cgtndocumentary.png" group-title="KNOWLEDGE", CGTN Documentary
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/cgtndocumentary_pratensis/playlist.m3u8
-
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://static.mncnow.id/images/channel/4b3d8210/eb4c_r32.jpg",Crime Investigation
-https://testfunctionlive.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/crimeinvestigation_rattus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation (Backup)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/crime_investigation_norvegicus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/curiosity.png" group-title="KNOWLEDGE", Curiosity
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/curiosity_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/discovery_asia.png" group-title="KNOWLEDGE", Discovery Asia
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/discoveryasia_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/disco_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/hgtv.png" group-title="KNOWLEDGE", HGTV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/hgtv_norvegicus/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e3cb40f0/5601_r32.jpg" group-title="KNOWLEDGE",History HD
-https://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/history.png" group-title="KNOWLEDGE", History
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/history_rattus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/history.png" group-title="KNOWLEDGE", History (Backup)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/history_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/linguachannel.png" group-title="KNOWLEDGE", Lingua
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/lingua_rattus/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="KNOWLEDGE",Love Nature HD
-https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/lovenature.png" group-title="KNOWLEDGE", Love Nature
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/lovenature_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/lovenature.png" group-title="KNOWLEDGE", Love Nature (Backup)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/love_nature_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/natgeowild_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/outdoor_channel.png" group-title="KNOWLEDGE", Outdoor Channel
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/outdoor_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/techstorm.png" group-title="KNOWLEDGE", Tech Storm
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/techstorm_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/tlc.png" group-title="KNOWLEDGE", TLC
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/tlc_rattus/playlist.m3u8
-
-
 
 
 
 #################################################### PENGETAHUAN #################################################
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="PENGETAHUAN", Amazon Sat
@@ -782,6 +679,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXPjy3z/Animals.png" group-title="PENGETAHUAN",Animals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET 🇺🇸
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
@@ -797,18 +695,13 @@ https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="PENGETAHUAN",BBC Earth
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="PENGETAHUAN",BBC Earth ASIA
 https://testfunctionlive.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kH414m4/BBC-Earth.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="PENGETAHUAN",BBC Earth
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kH414m4/BBC-Earth.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="PENGETAHUAN",BBC Earth HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
-https://testfunctionlive.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg",CGTN Documentary
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg",CGTN Documentary HD
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -817,19 +710,15 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/tvposter/cgtn.png",CGTN Documentary
 https://testfunctionlive.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg" group-title="PENGETAHUAN", CRIME INVESTIGATION 🇺🇸
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime Investigation Asia
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime Investigation
 https://testfunctionlive.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY*
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
@@ -865,16 +754,9 @@ https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/RhjKg87N/20230524-164646.png",Discovery Turbo*
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="PENGETAHUAN",DMAX TV 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="PENGETAHUAN",Dmax HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png",EBS 1
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png",EBS 2
-https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -887,11 +769,7 @@ https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
-#EXTINF:-1 tvg-logo="https://houseofgeekery.com/wp-content/uploads/2022/06/hiscvr.jpg" group-title="PENGETAHUAN", HISTORY 🇺🇸
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -904,42 +782,41 @@ https://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|refe
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="PENGETAHUAN", Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-id=""  tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg", INDONESIANA TV 🇮🇩
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
-#EXTINF:-1 group-title="PENGETAHUAN", Investigation Discovery
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="PENGETAHUAN", INSIGHT
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-id=""  tvg-logo="https://styles.redditmedia.com/t5_3j85c/styles/communityIcon_p5zwlwwvn5n51.png", INVESTIGATION DISCOVERY 🇬🇧
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://styles.redditmedia.com/t5_3j85c/styles/communityIcon_p5zwlwwvn5n51.png", INVESTIGATION DISCOVERY
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://styles.redditmedia.com/t5_3j85c/styles/communityIcon_p5zwlwwvn5n51.png", INVESTIGATION DISCOVERY 🇬🇧
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://in.tv/wp-content/uploads/2023/01/inwild.png" group-title="PENGETAHUAN" , INWILD 🇬🇧
 https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.transvision.co.id/img/channel/lingua.png",Lingua Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="PENGETAHUAN", LOVE NATURE HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature HD
 https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/livestream-poster.png" group-title="PENGETAHUAN", NASA 🇺🇸
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RrlDv-ts2f0/mqdefault.jpg" group-title="PENGETAHUAN",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -981,12 +858,14 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg" group-title="PENGETAHUAN", REAL WILD 🇬🇧
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU" group-title="PENGETAHUAN", Russia Today Documentary English
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg" tvg-chno="1400" group-title="PENGETAHUAN" , Samsung Wild Life 🇬🇧
+
+#EXTINF:-1 tvg-logo="https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg" tvg-chno="1400" group-title="PENGETAHUAN", Samsung Wild Life 🇬🇧
 https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavilatam.com/wp-content/uploads/2023/03/TAVI_SmithsonianChannel-TVPaga-lineal.png" group-title="PENGETAHUAN", SMITHSONIAN 🇺🇸
@@ -995,6 +874,7 @@ https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc9172c0134d41d4823fa8c7823e97d6:fd0deaf6d1fc06cf3e4e2ce606e5d45d
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/SMTHHD_00192/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="PENGETAHUAN", Smithsonian
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1009,9 +889,11 @@ https://testfunctionlive.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="PENGETAHUAN", TechStorm
 https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Travel-Channel-April-2022-Video-Highlights-Thumbnail.jpg", TRVL 🇺🇸
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Travel-Channel-April-2022-Video-Highlights-Thumbnail.jpg",TRVL 🇺🇸
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 group-title="PENGETAHUAN",Trvl Channel
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Travel-Channel-April-2022-Video-Highlights-Thumbnail.jpg",Trvl Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -1023,7 +905,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="PENGETAHUAN",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="PENGETAHUAN", XPLORE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="PENGETAHUAN",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
 
 
@@ -1037,34 +919,39 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1cyrOm4Y6f959LIjhE2Zwqp77Lts6P_nCBCv0uRsMWTd-JYYY7TBXztNM52G7pJYzk-8g3AS9Nc=s900-c-k-c0x00ffffff-no-rj" tvg-chno="3170" group-title="ANAK-ANAK" , Baby Shark TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1cyrOm4Y6f959LIjhE2Zwqp77Lts6P_nCBCv0uRsMWTd-JYYY7TBXztNM52G7pJYzk-8g3AS9Nc=s900-c-k-c0x00ffffff-no-rj" tvg-chno="3170" group-title="ANAK-ANAK", Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK", B KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
 #EXTINF:-1 Boomerang" tvg-logo="http://x1.cdn.broiptv.com/img/boomerang.png" group-title="ANAK-ANAK", Boomerang
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/boomerang_norvegicus/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.gmanews.tv/webpics/2022/10/cartoon_network_2_2022_10_18_15_56_46.jpg" group-title="ANAK-ANAK", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" group-title="ANAK-ANAK",Cbeebies
 https://testfunctionlive.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 Cinemachi Kids" tvg-logo="http://x1.cdn.broiptv.com/img/cinemachi_kids.png" group-title="ANAK-ANAK", Cinemachi Kids
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/cinemachi_kids_pratensis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title="ANAK-ANAK", CINEMACHI KIDS 🇬🇧
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
 #EXTINF:-1 Disney XD" tvg-logo="http://x1.cdn.broiptv.com/img/disney_xd.png" group-title="ANAK-ANAK", Disney XD
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/disney_xd_norvegicus/playlist.m3u8
+
 #EXTINF:-1 Da Vinci Learning" tvg-logo="http://x1.cdn.broiptv.com/img/davinci.png" group-title="ANAK-ANAK", Da Vinci Learning
 #EXTVLCOPT:http-user-agent=""
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/davinci_rattus/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1075,7 +962,7 @@ https://testfunctionlive.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-H
 #EXTVLCOPT:http-user-agent=""
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rattus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="ANAK-ANAK", DUNIA ANAK HD
+#EXTINF:-1 Dunia anak" tvg-logo="http://x1.cdn.broiptv.com/img/duniaanak.png" group-title="ANAK-ANAK", Dunia anak
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1083,21 +970,13 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rat
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTINF:-1 Dunia anak" tvg-logo="http://x1.cdn.broiptv.com/img/duniaanak.png" group-title="ANAK-ANAK", Dunia anak
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/duniaanak_rattus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="ANAK-ANAK" , HOREE!
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="ANAK-ANAK",HOREE!
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
-#EXTINF:-1 IndiKids" tvg-logo="http://x1.cdn.broiptv.com/img/indikids.png" group-title="ANAK-ANAK", IndiKids
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/indikids_rattus/playlist.m3u8
-#EXTINF:-1 Kids Channel" tvg-logo="http://x1.cdn.broiptv.com/img/kidschannel.png" group-title="ANAK-ANAK", Kids Channel
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/kids_channel_pratensis/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1112,18 +991,10 @@ https://testfunctionlive.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 Mentari TV" tvg-logo="http://x1.cdn.broiptv.com/img/mentari_tv.png" group-title="ANAK-ANAK", Mentari TV
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/mentaritv_rattus/playlist.m3u8
-
-#EXTINF:-1 Moonbug Kids" tvg-logo="http://x1.cdn.broiptv.com/img/moonbug.png" group-title="ANAK-ANAK", Moonbug Kids
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/moonbug_rattus/playlist.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="ANAK-ANAK",MyKids
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="ANAK-ANAK",My Kids
 https://testfunctionlive.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #EXTINF:-1 My Kidz" tvg-logo="http://x1.cdn.broiptv.com/img/mykidz.png" group-title="ANAK-ANAK", My Kidz
@@ -1132,21 +1003,21 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mykids_nor
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/675/274/402/nickelodeon-logo-recreation-png-clipart.jpg" group-title="ANAK-ANAK" tvg-id="Nickelodeon - [Channel 49].id", Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/675/274/402/nickelodeon-logo-recreation-png-clipart.jpg" group-title="ANAK-ANAK", Nickelodeon HD
 https://testfunctionlive.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
 #EXTINF:-1 Nickelodeon" tvg-logo="http://x1.cdn.broiptv.com/img/nickelodeon.png" group-title="ANAK-ANAK", Nickelodeon
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickelodeon_norvegicus/playlist.m3u8
-#EXTINF:-1 Nick Junior" tvg-logo="http://x1.cdn.broiptv.com/img/nickjr.png" group-title="ANAK-ANAK", Nick Junior
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/nickjr_rattus/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="ANAK-ANAK", Nick Jr EN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="ANAK-ANAK", Nick Jr
 https://testfunctionlive.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 Nick Junior (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/nickjr.png" group-title="ANAK-ANAK", Nick Junior (Backup)
+#EXTINF:-1 Nick Junior (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/nickjr.png" group-title="ANAK-ANAK", Nick Junior
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickjr_norvegicus/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tayo_The_Little_Bus_English_logo.png" group-title="ANAK-ANAK", TAYO YT
 https://ythls-v2.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
 
@@ -3999,6 +3870,12 @@ https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
 https://testfunctionlive.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png",EBS 1
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png",EBS 2
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
