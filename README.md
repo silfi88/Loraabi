@@ -656,7 +656,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXPjy3z/Animals.png" group-title="PENGETAHUAN",Animals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET 🇺🇸
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET*
@@ -977,7 +977,7 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo="https://vlogbox.com/wp-content/themes/vlogbox/images/page-play-study-allbabies/benefits/pic-1.webp" group-title="KIDS",All Babies Channel
 https://d17ec3386mgrbo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iii35y705x8vs/master.m3u8
 
-#EXTINF:-1 Animax" tvg-logo="http://x1.cdn.broiptv.com/img/animax.png" group-title="KIDS", Animax
+#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/animax.png" group-title="KIDS", Animax
 #EXTVLCOPT:http-user-agent=""
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animax_rattus/playlist.m3u8
 
