@@ -384,6 +384,9 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norveg
 ################################################################## LIVE EVENT ################################################################################
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",TIMNAS INDO VS PANAMA
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="LIVE EVENT",beIN Sports Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="LIVE EVENT",beIN Sports Xtra En Español
