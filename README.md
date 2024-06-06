@@ -389,6 +389,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="LIVE EVENT",beIN Sports Xtra En Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/JBykDT7/download-4.jpg" group-title="LIVE EVENT",BULU TANGKIS 1
+https://lebo.huminbird.cn/live/ballbar_24130.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JBykDT7/download-4.jpg" group-title="LIVE EVENT",BULU TANGKIS 2
+https://lebo.huminbird.cn/live/ballbar_18290.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/JBykDT7/download-4.jpg" group-title="LIVE EVENT",BULU TANGKIS 3
+https://lebo.huminbird.cn/live/ballbar_27940.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
