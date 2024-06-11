@@ -383,13 +383,8 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norveg
 
 ################################################################## LIVE EVENT ################################################################################
 
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/671448016f677c48b17db2e56bd70d65.png" group-title="LIVE EVENT",Sport TV 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="LIVE EVENT",Sport TV 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",TIMNAS INDO VS PANAMA
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",TIMNAS INDO VS PHILIPINA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="LIVE EVENT",beIN Sports Xtra
@@ -415,6 +410,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",LIGA BRI 2
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/671448016f677c48b17db2e56bd70d65.png" group-title="LIVE EVENT",Sport TV 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="LIVE EVENT",Sport TV 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
