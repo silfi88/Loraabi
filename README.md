@@ -391,20 +391,13 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norveg
 ################################################################## LIVE EVENT ################################################################################
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",TIMNAS INDO VS PHILIPINA
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",INDOSIAR LIVE
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="LIVE EVENT",beIN Sports Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="LIVE EVENT",beIN Sports Xtra En Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/JBykDT7/download-4.jpg" group-title="LIVE EVENT",BULU TANGKIS 1
-https://lebo.huminbird.cn/live/ballbar_24130.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JBykDT7/download-4.jpg" group-title="LIVE EVENT",BULU TANGKIS 2
-https://lebo.huminbird.cn/live/ballbar_18290.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/JBykDT7/download-4.jpg" group-title="LIVE EVENT",BULU TANGKIS 3
-https://lebo.huminbird.cn/live/ballbar_27940.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
