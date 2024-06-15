@@ -391,6 +391,24 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norveg
 ################################################################## LIVE EVENT ################################################################################
 
 
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png" group-title="LIVE EVENT", EURO 1 (PPTV HD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png" group-title="LIVE EVENT", EURO 2 (NBT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="LIVE EVENT", EURO 3 (MCOT HD)
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIVE EVENT",INDOSIAR LIVE
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
@@ -544,154 +562,6 @@ https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png" group-title="EURO 2024 - LORAABI", NBT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png" group-title="EURO 2024 - LORAABI", ThaiPBS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/4.png" group-title="EURO 2024 - LORAABI", ALTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="EURO 2024 - LORAABI", TV5 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="EURO 2024 - LORAABI", T Sports 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png" group-title="EURO 2024 - LORAABI", TPTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="EURO 2024 - LORAABI", TNN16
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png" group-title="EURO 2024 - LORAABI", JKN 18
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="EURO 2024 - LORAABI", Nation TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="EURO 2024 - LORAABI", Workpoint
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="EURO 2024 - LORAABI", True4U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="EURO 2024 - LORAABI", GMM 25
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="EURO 2024 - LORAABI", CH8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="EURO 2024 - LORAABI", Mono 29
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="EURO 2024 - LORAABI", MCOT HD
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="EURO 2024 - LORAABI", ONE31 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png" group-title="EURO 2024 - LORAABI", Thairath TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png" group-title="EURO 2024 - LORAABI", 3HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="EURO 2024 - LORAABI", AmarinTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="EURO 2024 - LORAABI", CH7 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png" group-title="EURO 2024 - LORAABI", PPTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 
 
@@ -4285,6 +4155,132 @@ http://198.16.100.90:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&
 
 ====================================================================================================================================
 
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png" group-title="THAILAND", ThaiPBS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/4.png" group-title="THAILAND", ALTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="THAILAND", TV5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="THAILAND", T Sports 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png" group-title="THAILAND", TPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="THAILAND", TNN16
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png" group-title="THAILAND", JKN 18
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="THAILAND", Nation TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="THAILAND", Workpoint
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="THAILAND", True4U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="THAILAND", GMM 25
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="THAILAND", CH8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="THAILAND", Mono 29
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="THAILAND", ONE31 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png" group-title="THAILAND", Thairath TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png" group-title="THAILAND", 3HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="THAILAND", AmarinTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="THAILAND", CH7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
