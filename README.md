@@ -391,6 +391,12 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norveg
 ################################################################## LIVE EVENT ################################################################################
 
 
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="LIVE EVENT",INDO VS AUSTRALIA
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V)
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png" group-title="LIVE EVENT", EURO 1 (PPTV HD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
