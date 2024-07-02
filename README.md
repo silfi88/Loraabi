@@ -427,6 +427,139 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
+==================================================================================================
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",BEIN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1826
+ 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1827
+ 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", bein 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1828
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", OPTUS
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63928 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",SPORT TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://162.19.37.133:8080/play/live.php?mac=00:1a:79:c3:bd:a3&stream=461174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", SONY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", SONY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+=================================================================================================
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", SPORTSTAR 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+ 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",SPORTSTARS 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+ 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",SPORTTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRK-UxWYtdGyeENfwJEmOvHE
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", FUSSBALL.TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://xruistream.bio:8080/Boschyasliadam/Edjdjcjxhxjsjxxx/404037
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪", FUSSBALL.TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://xruistream.bio:8080/Boschyasliadam/Edjdjcjxhxjsjxxx/420369
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",OPTUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
+ 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://raw.bitnode.pm:80/play/live.php?mac=00:1A:79:2A:2F:4E&stream=1626662&extension=ts&play_token=JbZZjqjpgF
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",LIVE EURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/212
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",LIVE EURO2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",LIVE EURO3
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+ 
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",Sony Ten 1 
+http://watchindia.net:8880/live/30631/24314/2215.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",Sony Ten 2
+http://watchindia.net:8880/live/30631/24314/1757.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="🇩🇪EURO-2024🇩🇪",Sony Ten 3 
+http://watchindia.net:8880/live/30631/24314/1758.ts
+
+
+
+===================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",FOX
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://162.19.37.133:8080/play/live.php?mac=00:1a:79:c3:bd:a3&stream=61457&extension=ts
+
+
+ 
+#EXTINF:-1 tvg-id="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",TE Y C Sports 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162377.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Teletica (CR)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",Teletica 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162530.m3u8
+ 
+
+ 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD (CH)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",CANAL 13 HD 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
+ 
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",TUDN US
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/3283
+ 
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",SPORT TV 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://162.19.37.133:8080/play/live.php?mac=00:1a:79:c3:bd:a3&stream=461174&extension=ts
+
 ################################################## LIGA EROPA ###################################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="LIGA EROPA",LIVE CHAMPION
