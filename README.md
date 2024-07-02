@@ -428,20 +428,6 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/4.png" group-title="LIVE EVENT",DAZN 1 DE
-http://sansat.net:88/02014505221336/2ZayPqaFqcTK7im/565474
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/4.png" group-title="LIVE EVENT",DAZN 2 DE
-http://sansat.net:88/02014505221336/2ZayPqaFqcTK7im/565475
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/4.png" group-title="LIVE EVENT",DAZN 3 DE
-http://sansat.net:88/02014505221336/2ZayPqaFqcTK7im/565476
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/4.png" group-title="LIVE EVENT",DAZN 4 DE
-http://sansat.net:88/02014505221336/2ZayPqaFqcTK7im/565477
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/4.png" group-title="LIVE EVENT",DAZN 5 DE
-http://sansat.net:88/02014505221336/2ZayPqaFqcTK7im/565478
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/4.png" group-title="LIVE EVENT",DAZN 6 DE
-http://sansat.net:88/02014505221336/2ZayPqaFqcTK7im/565479
-
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",DAZN 1 Deutschland 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
